@@ -1,0 +1,20 @@
+[
+  {
+    "id":"home001",
+    "name":"Rak Estetik Minimalis Korea",
+    "slug":"rak-estetik-minimalis-korea",
+    "category":"home",
+    "city":"Bandung",
+    "price_direct":"175000",
+    "price_shopee":"199000",
+    "discount":"11%",
+    "image":"https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&w=1200&auto=format&fit=crop",
+    "marketplace":{
+      "shopee":"https://shopee.co.id/"
+    },
+    "badges":["viral"],
+    "rating":"4.8",
+    "sold":"1300",
+    "shipping":"Gratis Ongkir"
+  }
+]
