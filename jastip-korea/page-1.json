@@ -1,0 +1,20 @@
+[
+  {
+    "id":"kr001",
+    "name":"Korean Hoodie Oversize Seoul",
+    "slug":"korean-hoodie-oversize-seoul",
+    "category":"jastip-korea",
+    "city":"Seoul",
+    "price_direct":"299000",
+    "price_shopee":"349000",
+    "discount":"17%",
+    "image":"https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?q=80&w=1200&auto=format&fit=crop",
+    "marketplace":{
+      "tokopedia":"https://tokopedia.com/"
+    },
+    "badges":["jastip"],
+    "rating":"4.8",
+    "sold":"210",
+    "shipping":"Pre Order 10 Hari"
+  }
+]
