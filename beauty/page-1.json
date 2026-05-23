@@ -1,0 +1,40 @@
+[
+  {
+    "id":"beauty001",
+    "name":"Brightening Serum Korea Viral",
+    "slug":"brightening-serum-korea-viral",
+    "category":"beauty",
+    "city":"Surabaya",
+    "price_direct":"89000",
+    "price_shopee":"109000",
+    "discount":"18%",
+    "image":"https://images.unsplash.com/photo-1620916566398-39f1143ab7be?q=80&w=1200&auto=format&fit=crop",
+    "marketplace":{
+      "shopee":"https://shopee.co.id/",
+      "tiktok":"https://tiktok.com/"
+    },
+    "badges":["viral"],
+    "rating":"4.9",
+    "sold":"2100",
+    "shipping":"Gratis Ongkir"
+  },
+
+  {
+    "id":"beauty002",
+    "name":"Lip Tint Natural Glassy",
+    "slug":"lip-tint-natural-glassy",
+    "category":"beauty",
+    "city":"Bandung",
+    "price_direct":"49000",
+    "price_shopee":"65000",
+    "discount":"12%",
+    "image":"https://images.unsplash.com/photo-1596462502278-27bfdc403348?q=80&w=1200&auto=format&fit=crop",
+    "marketplace":{
+      "tokopedia":"https://tokopedia.com/"
+    },
+    "badges":["best seller"],
+    "rating":"4.8",
+    "sold":"1400",
+    "shipping":"Instant"
+  }
+]
