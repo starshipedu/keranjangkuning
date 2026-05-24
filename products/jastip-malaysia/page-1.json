@@ -1,90 +1,175 @@
 {
-  "totalPages": 2,
-  "currentPage": 2,
+  "totalPages": 1,
+  "currentPage": 1,
   "products": [
     {
-      "id": "my011",
-      "name": "Snek Ku Mamee Monster Snack",
-      "slug": "mamee-monster-snack",
-      "category": "jastip-malaysia",
-      "subcategory": "snack",
-      "city": "Melaka",
-      "price_direct": 22000,
-      "price_shopee": 38000,
-      "discount": "42%",
-      "sold": 19800,
-      "rating": 4.8,
-      "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?q=80&w=1200&auto=format&fit=crop",
-      "marketplace": {
-        "shopee": "https://shopee.co.id/product/mamee-monster"
-      }
-    },
-    {
-      "id": "my012",
-      "name": "Adabi Rendang Paste Authentic",
-      "slug": "adabi-rendang-paste",
+      "id": "my001",
+      "name": "Milo 3 in 1 Original Malaysia 15 sachet",
+      "slug": "milo-3in1-malaysia-original",
       "category": "jastip-malaysia",
       "subcategory": "snack",
       "city": "Kuala Lumpur",
-      "price_direct": 18000,
-      "price_shopee": 32000,
-      "discount": "44%",
-      "sold": 14500,
-      "rating": 4.8,
-      "image": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?q=80&w=1200&auto=format&fit=crop",
+      "price_direct": 35000,
+      "price_shopee": 55000,
+      "discount": "36%",
+      "sold": 12450,
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1571506165871-ee72a35bc9d4?q=80&w=1200&auto=format&fit=crop",
       "marketplace": {
-        "shopee": "https://shopee.co.id/product/adabi-rendang"
+        "shopee": "https://shopee.co.id/product/milo-malaysia"
       }
     },
     {
-      "id": "my013",
-      "name": "Kurma Madu Ajwa Malaysia",
-      "slug": "kurma-madu-ajwa-malaysia",
+      "id": "my002",
+      "name": "Beryl's Chocolate Tiramisu Premium",
+      "slug": "beryls-chocolate-tiramisu",
       "category": "jastip-malaysia",
       "subcategory": "snack",
-      "city": "Perak",
-      "price_direct": 65000,
-      "price_shopee": 105000,
-      "discount": "38%",
-      "sold": 5300,
-      "rating": 4.9,
-      "image": "https://images.unsplash.com/photo-1609599006353-6294aa55e9a1?q=80&w=1200&auto=format&fit=crop",
-      "marketplace": {
-        "shopee": "https://shopee.co.id/product/kurma-ajwa"
-      }
-    },
-    {
-      "id": "my014",
-      "name": "Siti Khadijah Handbody Lotion",
-      "slug": "siti-khadijah-handbody",
-      "category": "jastip-malaysia",
-      "subcategory": "beauty",
-      "city": "Selangor",
-      "price_direct": 42000,
-      "price_shopee": 69000,
-      "discount": "39%",
-      "sold": 6720,
+      "city": "Penang",
+      "price_direct": 45000,
+      "price_shopee": 75000,
+      "discount": "40%",
+      "sold": 8750,
       "rating": 4.8,
-      "image": "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?q=80&w=1200&auto=format&fit=crop",
+      "image": "https://images.unsplash.com/photo-1548907040-4baa42d10919?q=80&w=1200&auto=format&fit=crop",
       "marketplace": {
-        "shopee": "https://shopee.co.id/product/siti-khadijah"
+        "shopee": "https://shopee.co.id/product/beryls-tiramisu"
       }
     },
     {
-      "id": "my015",
-      "name": "Baju Kurung Modern Cotton Silk",
-      "slug": "baju-kurung-modern",
+      "id": "my003",
+      "name": "Maggi Kari Pedas Malaysia 5 bungkus",
+      "slug": "maggi-kari-malaysia",
+      "category": "jastip-malaysia",
+      "subcategory": "snack",
+      "city": "Kuala Lumpur",
+      "price_direct": 28000,
+      "price_shopee": 45000,
+      "discount": "38%",
+      "sold": 21300,
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1612927601601-6638404737ce?q=80&w=1200&auto=format&fit=crop",
+      "marketplace": {
+        "shopee": "https://shopee.co.id/product/maggi-kari"
+      }
+    },
+    {
+      "id": "my004",
+      "name": "Super Ring Cheese Snack 30g x 10 pcs",
+      "slug": "super-ring-cheese-snack",
+      "category": "jastip-malaysia",
+      "subcategory": "snack",
+      "city": "Johor Bahru",
+      "price_direct": 42000,
+      "price_shopee": 68000,
+      "discount": "38%",
+      "sold": 15680,
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1621939514649-280e2ee25f60?q=80&w=1200&auto=format&fit=crop",
+      "marketplace": {
+        "shopee": "https://shopee.co.id/product/super-ring"
+      }
+    },
+    {
+      "id": "my005",
+      "name": "White Curry Mee Penang Asli",
+      "slug": "white-curry-mee-penang",
+      "category": "jastip-malaysia",
+      "subcategory": "snack",
+      "city": "Penang",
+      "price_direct": 39000,
+      "price_shopee": 62000,
+      "discount": "37%",
+      "sold": 9870,
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1585032226651-759b368d7246?q=80&w=1200&auto=format&fit=crop",
+      "marketplace": {
+        "shopee": "https://shopee.co.id/product/white-curry-penang"
+      }
+    },
+    {
+      "id": "my006",
+      "name": "Batik Cotton Premium Dress Wanita",
+      "slug": "batik-cotton-dress-malaysia",
       "category": "jastip-malaysia",
       "subcategory": "fashion",
       "city": "Kuala Lumpur",
-      "price_direct": 185000,
-      "price_shopee": 279000,
+      "price_direct": 125000,
+      "price_shopee": 189000,
       "discount": "34%",
-      "sold": 2180,
-      "rating": 4.8,
-      "image": "https://images.unsplash.com/photo-1583391733956-6c182e36574d?q=80&w=1200&auto=format&fit=crop",
+      "sold": 3420,
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1539008835657-9e8e9680c956?q=80&w=1200&auto=format&fit=crop",
       "marketplace": {
-        "shopee": "https://shopee.co.id/product/baju-kurung"
+        "shopee": "https://shopee.co.id/product/batik-dress"
+      }
+    },
+    {
+      "id": "my007",
+      "name": "Tudung Bawal Premium Shahnaz",
+      "slug": "tudung-bawal-premium-shahnaz",
+      "category": "jastip-malaysia",
+      "subcategory": "fashion",
+      "city": "Selangor",
+      "price_direct": 55000,
+      "price_shopee": 89000,
+      "discount": "38%",
+      "sold": 12540,
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1581044777550-4cfa60707c03?q=80&w=1200&auto=format&fit=crop",
+      "marketplace": {
+        "shopee": "https://shopee.co.id/product/tudung-bawal"
+      }
+    },
+    {
+      "id": "my008",
+      "name": "Kopiko 78 Caffeine Coffee Candy",
+      "slug": "kopiko-78-coffee-candy",
+      "category": "jastip-malaysia",
+      "subcategory": "snack",
+      "city": "Kuala Lumpur",
+      "price_direct": 25000,
+      "price_shopee": 42000,
+      "discount": "40%",
+      "sold": 31200,
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1607932395017-13c1ff7e6bb3?q=80&w=1200&auto=format&fit=crop",
+      "marketplace": {
+        "shopee": "https://shopee.co.id/product/kopiko-78"
+      }
+    },
+    {
+      "id": "my009",
+      "name": "Royal Selangor Pewter Mini Figurine",
+      "slug": "royal-selangor-pewter",
+      "category": "jastip-malaysia",
+      "subcategory": "home",
+      "city": "Kuala Lumpur",
+      "price_direct": 275000,
+      "price_shopee": 399000,
+      "discount": "31%",
+      "sold": 1250,
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?q=80&w=1200&auto=format&fit=crop",
+      "marketplace": {
+        "shopee": "https://shopee.co.id/product/royal-selangor"
+      }
+    },
+    {
+      "id": "my010",
+      "name": "Sunsilk Hijab Shampoo Malaysia",
+      "slug": "sunsilk-hijab-shampoo",
+      "category": "jastip-malaysia",
+      "subcategory": "beauty",
+      "city": "Shah Alam",
+      "price_direct": 32000,
+      "price_shopee": 55000,
+      "discount": "42%",
+      "sold": 8760,
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?q=80&w=1200&auto=format&fit=crop",
+      "marketplace": {
+        "shopee": "https://shopee.co.id/product/sunsilk-hijab"
       }
     }
   ]
