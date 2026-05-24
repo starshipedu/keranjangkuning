@@ -12,12 +12,33 @@
     "marketplace": {
       "shopee": "https://shopee.co.id/",
       "tokopedia": "https://tokopedia.com/",
-      "tiktok": "https://tokopedia.com/"
+      "tiktok": "https://tiktok.com/"
     },
     "badges": ["viral"],
     "rating": "4.9",
     "sold": "1200",
     "shipping": "Gratis Ongkir",
-    "detail_url": "https://sskerkun.blogspot.com/2026/05/detail-produk-keranjangkuning-margin-0.html"
+    "detail_url": "https://sskerkun.blogspot.com/2026/05/tas-wanita-korean-style-premium.html"
+  },
+  {
+    "id": "002",
+    "name": "Kaos Oversize Premium Cotton",
+    "slug": "kaos-oversize-premium-cotton",
+    "category": "fashion",
+    "city": "Jakarta",
+    "price_direct": "89000",
+    "price_shopee": "129000",
+    "discount": "31%",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4p8Q9YEWhyvGNvVtLgeI3x7ULOPwVPb5AQmyRDnQGqXMZ5Ea0CAQcBngMjOB0E76LtEFlW6RQ6gcp0qDAeVnfCJPSkF9hp7zeagfK-4QNSmak6EEiYxVF8kd9hLSBSmEbXeT8yvF65lr-kOet3lYqvHWWzkUTIe07n5-ydAfaGykQVO6554pgOjaRMT4/s300/keranjang%20kuning.png",
+    "marketplace": {
+      "shopee": "https://shopee.co.id/",
+      "tokopedia": "https://www.tokopedia.com/",
+      "tiktok": "https://tiktok.com/"
+    },
+    "badges": ["best-seller"],
+    "rating": "4.8",
+    "sold": "5678",
+    "shipping": "Bebas Ongkir 58rb",
+    "detail_url": "https://keranjangkuning.com/2024/01/kaos-oversize-premium.html"
   }
 ]
