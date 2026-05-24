@@ -1,40 +1,44 @@
 [
   {
-    "id":"fashion001",
-    "name":"Tas Wanita Korean Style Premium",
-    "slug":"tas-wanita-korean-style-premium",
-    "category":"fashion",
-    "city":"Bandung",
-    "price_direct":"129000",
-    "price_shopee":"149000",
-    "discount":"15%",
-    "image":"https://images.unsplash.com/photo-1584917865442-de89df76afd3?q=80&w=1200&auto=format&fit=crop",
-    "marketplace":{
-      "shopee":"https://shopee.co.id/",
-      "tokopedia":"https://tokopedia.com/"
+    "id": "001",
+    "name": "Tas Wanita Korean Style Premium",
+    "slug": "tas-wanita-korean-style-premium",
+    "category": "fashion",
+    "city": "Bandung",
+    "price_direct": "129000",
+    "price_shopee": "149000",
+    "discount": "15%",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?q=80&w=1200&auto=format&fit=crop",
+    "marketplace": {
+      "shopee": "https://shopee.co.id/",
+      "tokopedia": "https://tokopedia.com/"
+      "tiktok": "https://tiktok.com/"
     },
-    "badges":["viral"],
-    "rating":"4.9",
-    "sold":"1200",
-    "shipping":"Gratis Ongkir"
+    "badges": ["viral"],
+    "rating": "4.9",
+    "sold": "1200",
+    "shipping": "Gratis Ongkir",
+    "detail_url": "https://keranjangkuning.com/2024/01/tas-wanita-korean-style.html"
   },
-
   {
-    "id":"fashion002",
-    "name":"Kemeja Oversize Wanita Trendy",
-    "slug":"kemeja-oversize-wanita-trendy",
-    "category":"fashion",
-    "city":"Jakarta",
-    "price_direct":"99000",
-    "price_shopee":"119000",
-    "discount":"10%",
-    "image":"https://images.unsplash.com/photo-1529139574466-a303027c1d8b?q=80&w=1200&auto=format&fit=crop",
-    "marketplace":{
-      "shopee":"https://shopee.co.id/"
+    "id": "002",
+    "name": "Kaos Oversize Premium Cotton",
+    "slug": "kaos-oversize-premium-cotton",
+    "category": "fashion",
+    "city": "Jakarta",
+    "price_direct": "89000",
+    "price_shopee": "129000",
+    "discount": "31%",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4p8Q9YEWhyvGNvVtLgeI3x7ULOPwVPb5AQmyRDnQGqXMZ5Ea0CAQcBngMjOB0E76LtEFlW6RQ6gcp0qDAeVnfCJPSkF9hp7zeagfK-4QNSmak6EEiYxVF8kd9hLSBSmEbXeT8yvF65lr-kOet3lYqvHWWzkUTIe07n5-ydAfaGykQVO6554pgOjaRMT4/s300/keranjang%20kuning.png",
+    "marketplace": {
+      "shopee": "https://shopee.co.id/",
+      "tokopedia": "https://www.tokopedia.com/"
+      "tiktok": "https://tiktok.com/"
     },
-    "badges":["best seller"],
-    "rating":"4.8",
-    "sold":"980",
-    "shipping":"Same Day"
+    "badges": ["best-seller"],
+    "rating": "4.8",
+    "sold": "5678",
+    "shipping": "Bebas Ongkir 58rb",
+    "detail_url": "https://keranjangkuning.com/2024/01/kaos-oversize-premium.html"
   }
 ]
