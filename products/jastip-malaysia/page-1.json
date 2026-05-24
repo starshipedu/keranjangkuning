@@ -1,0 +1,91 @@
+{
+  "totalPages": 2,
+  "currentPage": 2,
+  "products": [
+    {
+      "id": "my011",
+      "name": "Snek Ku Mamee Monster Snack",
+      "slug": "mamee-monster-snack",
+      "category": "jastip-malaysia",
+      "subcategory": "snack",
+      "city": "Melaka",
+      "price_direct": 22000,
+      "price_shopee": 38000,
+      "discount": "42%",
+      "sold": 19800,
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?q=80&w=1200&auto=format&fit=crop",
+      "marketplace": {
+        "shopee": "https://shopee.co.id/product/mamee-monster"
+      }
+    },
+    {
+      "id": "my012",
+      "name": "Adabi Rendang Paste Authentic",
+      "slug": "adabi-rendang-paste",
+      "category": "jastip-malaysia",
+      "subcategory": "snack",
+      "city": "Kuala Lumpur",
+      "price_direct": 18000,
+      "price_shopee": 32000,
+      "discount": "44%",
+      "sold": 14500,
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?q=80&w=1200&auto=format&fit=crop",
+      "marketplace": {
+        "shopee": "https://shopee.co.id/product/adabi-rendang"
+      }
+    },
+    {
+      "id": "my013",
+      "name": "Kurma Madu Ajwa Malaysia",
+      "slug": "kurma-madu-ajwa-malaysia",
+      "category": "jastip-malaysia",
+      "subcategory": "snack",
+      "city": "Perak",
+      "price_direct": 65000,
+      "price_shopee": 105000,
+      "discount": "38%",
+      "sold": 5300,
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1609599006353-6294aa55e9a1?q=80&w=1200&auto=format&fit=crop",
+      "marketplace": {
+        "shopee": "https://shopee.co.id/product/kurma-ajwa"
+      }
+    },
+    {
+      "id": "my014",
+      "name": "Siti Khadijah Handbody Lotion",
+      "slug": "siti-khadijah-handbody",
+      "category": "jastip-malaysia",
+      "subcategory": "beauty",
+      "city": "Selangor",
+      "price_direct": 42000,
+      "price_shopee": 69000,
+      "discount": "39%",
+      "sold": 6720,
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?q=80&w=1200&auto=format&fit=crop",
+      "marketplace": {
+        "shopee": "https://shopee.co.id/product/siti-khadijah"
+      }
+    },
+    {
+      "id": "my015",
+      "name": "Baju Kurung Modern Cotton Silk",
+      "slug": "baju-kurung-modern",
+      "category": "jastip-malaysia",
+      "subcategory": "fashion",
+      "city": "Kuala Lumpur",
+      "price_direct": 185000,
+      "price_shopee": 279000,
+      "discount": "34%",
+      "sold": 2180,
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1583391733956-6c182e36574d?q=80&w=1200&auto=format&fit=crop",
+      "marketplace": {
+        "shopee": "https://shopee.co.id/product/baju-kurung"
+      }
+    }
+  ]
+}
