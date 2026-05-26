@@ -1,44 +1,6 @@
 [
-  {
-    "id": "001",
-    "name": "Rompi Rajut Korean Unisex",
-    "slug": "rompi-rajut-korean-unisex",
-    "category": "fashion",
-    "city": "Bandung",
-    "price_direct": "50000",
-    "price_shopee": "65000",
-    "discount": "23%",
-    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?q=80&w=1200&auto=format&fit=crop",
-    "marketplace": {
-      "shopee": "https://shopee.co.id/",
-      "tokopedia": "https://tokopedia.com/",
-      "tiktok": "https://tiktok.com/"
-    },
-    "badges": ["viral"],
-    "rating": "5.0",
-    "sold": "7",
-    "shipping": "Ongkir Reguler (tidak gratis)",
-    "detail_url": "https://sskerkun.blogspot.com/2026/05/rompi-rajut-korean-unisex-001.html"
-},
-  {
-    "id": "002",
-    "name": "Kaos Oversize Premium Cotton",
-    "slug": "kaos-oversize-premium-cotton",
-    "category": "fashion",
-    "city": "Jakarta",
-    "price_direct": "89000",
-    "price_shopee": "129000",
-    "discount": "31%",
-    "image": "https://down-id.img.susercontent.com/file/id-11134207-822wk-mnb7v7s5dpmq85",
-    "marketplace": {
-      "shopee": "https://shopee.co.id/",
-      "tokopedia": "https://www.tokopedia.com/",
-      "tiktok": "https://tiktok.com/"
-    },
-    "badges": ["best-seller"],
-    "rating": "4.8",
-    "sold": "5678",
-    "shipping": "Bebas Ongkir 58rb",
-    "detail_url": "https://keranjangkuning.com/2024/01/kaos-oversize-premium.html"
-  }
+  {"id": "001", "name": "Rompi Rajut Korean Unisex", "slug": "rompi-rajut-korean-unisex", "category": "fashion", "city": "Bandung", "price_direct": "50000", "price_shopee": "65000", "discount": "23%", "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?q=80&w=1200&auto=format&fit=crop", "marketplace": {"shopee": "https://shopee.co.id/", "tokopedia": "https://tokopedia.com/", "tiktok": "https://tiktok.com/"}, "badges": ["viral"], "rating": "5.0", "sold": "7", "shipping": "Ongkir Reguler (tidak gratis)", "detail_url": "https://sskerkun.blogspot.com/2026/05/rompi-rajut-korean-unisex-001.html"},
+  
+  
+  {"id": "002", "name": "Kaos Oversize Premium Cotton", "slug": "kaos-oversize-premium-cotton", "category": "fashion", "city": "Jakarta", "price_direct": "89000", "price_shopee": "129000", "discount": "31%", "image": "https://down-id.img.susercontent.com/file/id-11134207-822wk-mnb7v7s5dpmq85", "marketplace": {"shopee": "https://shopee.co.id/", "tokopedia": "https://www.tokopedia.com/", "tiktok": "https://tiktok.com/"}, "badges": ["best-seller"], "rating": "4.8", "sold": "5678", "shipping": "Bebas Ongkir 58rb", "detail_url": "https://keranjangkuning.com/2024/01/kaos-oversize-premium.html"}
 ]
