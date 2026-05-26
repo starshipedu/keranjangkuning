@@ -1,13 +1,13 @@
 [
   {
     "id": "001",
-    "name": "Tas Wanita Korean Style Premium",
-    "slug": "tas-wanita-korean-style-premium",
+    "name": "Rompi Rajut Korean Unisex",
+    "slug": "rompi-rajut-korean-unisex",
     "category": "fashion",
     "city": "Bandung",
-    "price_direct": "129000",
-    "price_shopee": "149000",
-    "discount": "15%",
+    "price_direct": "50000",
+    "price_shopee": "65000",
+    "discount": "23%",
     "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?q=80&w=1200&auto=format&fit=crop",
     "marketplace": {
       "shopee": "https://shopee.co.id/",
@@ -15,11 +15,11 @@
       "tiktok": "https://tiktok.com/"
     },
     "badges": ["viral"],
-    "rating": "4.9",
-    "sold": "1200",
-    "shipping": "Gratis Ongkir",
-    "detail_url": "https://sskerkun.blogspot.com/2026/05/tas-wanita-korean-style-premium.html"
-  },
+    "rating": "5.0",
+    "sold": "7",
+    "shipping": "Ongkir Reguler (tidak gratis)",
+    "detail_url": "https://sskerkun.blogspot.com/2026/05/rompi-rajut-korean-unisex-001.html"
+},
   {
     "id": "002",
     "name": "Kaos Oversize Premium Cotton",
