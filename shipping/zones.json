@@ -215,7 +215,17 @@
   {"zone_id":214,"zone_name":"KARANGASEM","island":"BALI_NUSRA","priority":3},
   {"zone_id":215,"zone_name":"BULELENG","island":"BALI_NUSRA","priority":3},
   {"zone_id":216,"zone_name":"JEMBRANA","island":"BALI_NUSRA","priority":3},
-  {"zone_id":217,"zone_name":"NUSA_PENIDA","island":"BALI_NUSRA","priority":4}
+  {"zone_id":217,"zone_name":"NUSA_PENIDA","island":"BALI_NUSRA","priority":4},
+  {"zone_id":218,"zone_name":"MATARAM","island":"BALI_NUSRA","priority":2},
+  {"zone_id":219,"zone_name":"LOMBOK_BARAT","island":"BALI_NUSRA","priority":2},
+  {"zone_id":220,"zone_name":"LOMBOK_TENGAH","island":"BALI_NUSRA","priority":2},
+  {"zone_id":221,"zone_name":"LOMBOK_TIMUR","island":"BALI_NUSRA","priority":2},
+  {"zone_id":222,"zone_name":"LOMBOK_UTARA","island":"BALI_NUSRA","priority":3},
+  {"zone_id":223,"zone_name":"SUMBAWA_BARAT","island":"BALI_NUSRA","priority":3},
+  {"zone_id":224,"zone_name":"SUMBAWA","island":"BALI_NUSRA","priority":3},
+  {"zone_id":225,"zone_name":"DOMPU","island":"BALI_NUSRA","priority":3},
+  {"zone_id":226,"zone_name":"BIMA","island":"BALI_NUSRA","priority":3},
+  {"zone_id":227,"zone_name":"KOTA_BIMA","island":"BALI_NUSRA","priority":3}
 
 
 ]
