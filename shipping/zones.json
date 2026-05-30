@@ -313,7 +313,13 @@
   {"zone_id":312,"zone_name":"KEPULAUAN_TALAUD","island":"SULAWESI","priority":5},
   {"zone_id":313,"zone_name":"BITUNG","island":"SULAWESI","priority":3},
   {"zone_id":314,"zone_name":"TOMOHON","island":"SULAWESI","priority":3},
-  {"zone_id":315,"zone_name":"KOTAMOBAGU","island":"SULAWESI","priority":3}
+  {"zone_id":315,"zone_name":"KOTAMOBAGU","island":"SULAWESI","priority":3},
+  {"zone_id":316,"zone_name":"GORONTALO_KOTA","island":"SULAWESI","priority":3},
+  {"zone_id":317,"zone_name":"GORONTALO_KAB","island":"SULAWESI","priority":3},
+  {"zone_id":318,"zone_name":"BONE_BOLANGO","island":"SULAWESI","priority":3},
+  {"zone_id":319,"zone_name":"BOALEMO","island":"SULAWESI","priority":3},
+  {"zone_id":320,"zone_name":"POHUWATO","island":"SULAWESI","priority":4},
+  {"zone_id":321,"zone_name":"GORONTALO_UTARA","island":"SULAWESI","priority":4}
 
 
 ]
