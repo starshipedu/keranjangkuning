@@ -1,0 +1,32 @@
+{
+  "province_id": 35,
+  "province_name": "Papua Selatan",
+  "capital": "Merauke",
+  "last_updated": "2026-05-30",
+  "cities": [
+    {
+      "city_id": 3501,
+      "city_name": "Kabupaten Merauke",
+      "postal_code": "99611",
+      "zone_id": 401
+    },
+    {
+      "city_id": 3502,
+      "city_name": "Kabupaten Boven Digoel",
+      "postal_code": "99662",
+      "zone_id": 402
+    },
+    {
+      "city_id": 3503,
+      "city_name": "Kabupaten Mappi",
+      "postal_code": "99853",
+      "zone_id": 403
+    },
+    {
+      "city_id": 3504,
+      "city_name": "Kabupaten Asmat",
+      "postal_code": "99777",
+      "zone_id": 404
+    }
+  ]
+}
