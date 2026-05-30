@@ -1,0 +1,73 @@
+{
+  "province_id": 35,
+  "province_name": "Papua Selatan",
+  "origin_zone": "JABODETABEK",
+  "weight_unit": "1000",
+  "weight_label": "1kg",
+  "last_updated": "2026-05-30",
+  "rates": [
+    {
+      "zone": "MERAUKE",
+      "rates": {
+        "jne":{"cost":95000,"etd":"6-10 hari","service":"REG"},
+        "tiki":{"cost":93000,"etd":"6-10 hari","service":"ECO"},
+        "pos":{"cost":88000,"etd":"7-11 hari","service":"POS Reguler"},
+        "sicepat":{"cost":92000,"etd":"6-10 hari","service":"REG"},
+        "jnt":{"cost":93000,"etd":"6-10 hari","service":"EZ"},
+        "sap":{"cost":90000,"etd":"7-11 hari","service":"REG"},
+        "ninja":{"cost":91000,"etd":"7-11 hari","service":"Express"},
+        "lion":{"cost":102000,"etd":"8-13 hari","service":"Reguler"},
+        "ide":{"cost":93000,"etd":"7-11 hari","service":"REG"},
+        "anteraja":{"cost":108000,"etd":"7-11 hari","service":"Reguler"}
+      }
+    },
+
+    {
+      "zone": "BOVEN_DIGOEL",
+      "rates": {
+        "jne":{"cost":112000,"etd":"8-14 hari","service":"REG"},
+        "tiki":{"cost":110000,"etd":"8-14 hari","service":"ECO"},
+        "pos":{"cost":105000,"etd":"9-16 hari","service":"POS Reguler"},
+        "sicepat":{"cost":109000,"etd":"8-14 hari","service":"REG"},
+        "jnt":{"cost":110000,"etd":"8-14 hari","service":"EZ"},
+        "sap":{"cost":107000,"etd":"9-16 hari","service":"REG"},
+        "ninja":{"cost":108000,"etd":"9-16 hari","service":"Express"},
+        "lion":{"cost":120000,"etd":"10-18 hari","service":"Reguler"},
+        "ide":{"cost":110000,"etd":"9-16 hari","service":"REG"},
+        "anteraja":{"cost":126000,"etd":"9-16 hari","service":"Reguler"}
+      }
+    },
+
+    {
+      "zone": "MAPPI",
+      "rates": {
+        "jne":{"cost":118000,"etd":"9-15 hari","service":"REG"},
+        "tiki":{"cost":116000,"etd":"9-15 hari","service":"ECO"},
+        "pos":{"cost":111000,"etd":"10-17 hari","service":"POS Reguler"},
+        "sicepat":{"cost":115000,"etd":"9-15 hari","service":"REG"},
+        "jnt":{"cost":116000,"etd":"9-15 hari","service":"EZ"},
+        "sap":{"cost":113000,"etd":"10-17 hari","service":"REG"},
+        "ninja":{"cost":114000,"etd":"10-17 hari","service":"Express"},
+        "lion":{"cost":126000,"etd":"11-19 hari","service":"Reguler"},
+        "ide":{"cost":116000,"etd":"10-17 hari","service":"REG"},
+        "anteraja":{"cost":132000,"etd":"10-17 hari","service":"Reguler"}
+      }
+    },
+
+    {
+      "zone": "ASMAT",
+      "rates": {
+        "jne":{"cost":128000,"etd":"10-18 hari","service":"REG"},
+        "tiki":{"cost":126000,"etd":"10-18 hari","service":"ECO"},
+        "pos":{"cost":120000,"etd":"11-20 hari","service":"POS Reguler"},
+        "sicepat":{"cost":125000,"etd":"10-18 hari","service":"REG"},
+        "jnt":{"cost":126000,"etd":"10-18 hari","service":"EZ"},
+        "sap":{"cost":123000,"etd":"11-20 hari","service":"REG"},
+        "ninja":{"cost":124000,"etd":"11-20 hari","service":"Express"},
+        "lion":{"cost":138000,"etd":"12-22 hari","service":"Reguler"},
+        "ide":{"cost":126000,"etd":"11-20 hari","service":"REG"},
+        "anteraja":{"cost":145000,"etd":"11-20 hari","service":"Reguler"}
+      }
+    }
+  ]
+}
