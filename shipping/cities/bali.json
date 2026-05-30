@@ -1,0 +1,77 @@
+{
+  "province_id": 17,
+  "province_name": "Bali",
+  "island": "BALI_NUSRA",
+  "cities": [
+    {
+      "city_id": 1701,
+      "city_name": "Denpasar",
+      "postal_code": "80111",
+      "zone_id": 208,
+      "zone_name": "DENPASAR"
+    },
+    {
+      "city_id": 1702,
+      "city_name": "Badung",
+      "postal_code": "80351",
+      "zone_id": 209,
+      "zone_name": "BADUNG"
+    },
+    {
+      "city_id": 1703,
+      "city_name": "Gianyar",
+      "postal_code": "80511",
+      "zone_id": 210,
+      "zone_name": "GIANYAR"
+    },
+    {
+      "city_id": 1704,
+      "city_name": "Tabanan",
+      "postal_code": "82111",
+      "zone_id": 211,
+      "zone_name": "TABANAN"
+    },
+    {
+      "city_id": 1705,
+      "city_name": "Bangli",
+      "postal_code": "80611",
+      "zone_id": 212,
+      "zone_name": "BANGLI"
+    },
+    {
+      "city_id": 1706,
+      "city_name": "Klungkung",
+      "postal_code": "80711",
+      "zone_id": 213,
+      "zone_name": "KLUNGKUNG"
+    },
+    {
+      "city_id": 1707,
+      "city_name": "Karangasem",
+      "postal_code": "80811",
+      "zone_id": 214,
+      "zone_name": "KARANGASEM"
+    },
+    {
+      "city_id": 1708,
+      "city_name": "Buleleng",
+      "postal_code": "81111",
+      "zone_id": 215,
+      "zone_name": "BULELENG"
+    },
+    {
+      "city_id": 1709,
+      "city_name": "Jembrana",
+      "postal_code": "82211",
+      "zone_id": 216,
+      "zone_name": "JEMBRANA"
+    },
+    {
+      "city_id": 1710,
+      "city_name": "Nusa Penida",
+      "postal_code": "80771",
+      "zone_id": 217,
+      "zone_name": "NUSA_PENIDA"
+    }
+  ]
+}
