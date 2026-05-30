@@ -126,8 +126,28 @@
   {"zone_id":125,"zone_name":"KEPRI_BATAM","island":"SUMATERA","priority":3},
   {"zone_id":126,"zone_name":"KEPRI_TANJUNGPINANG","island":"SUMATERA","priority":3},
   {"zone_id":127,"zone_name":"KEPRI_KARIMUN","island":"SUMATERA","priority":3},
-  {"zone_id":128,"zone_name":"KEPRI_NATUNA","island":"SUMATERA","priority":4}
-
+  {"zone_id":128,"zone_name":"KEPRI_NATUNA","island":"SUMATERA","priority":4},
+  {"zone_id":129,"zone_name":"DKI_JAKARTA","island":"JAWA","priority":1},
+  {"zone_id":130,"zone_name":"BANDUNG_KOTA","island":"JAWA","priority":1},
+  {"zone_id":131,"zone_name":"BANDUNG_KAB","island":"JAWA","priority":1},
+  {"zone_id":132,"zone_name":"BANDUNG_BARAT","island":"JAWA","priority":1},
+  {"zone_id":133,"zone_name":"CIMAHI","island":"JAWA","priority":1},
+  {"zone_id":134,"zone_name":"BOGOR_RAYA","island":"JAWA","priority":1},
+  {"zone_id":135,"zone_name":"DEPOK","island":"JAWA","priority":1},
+  {"zone_id":136,"zone_name":"BEKASI_RAYA","island":"JAWA","priority":1},
+  {"zone_id":137,"zone_name":"KARAWANG_PURWAKARTA","island":"JAWA","priority":1},
+  {"zone_id":138,"zone_name":"SUBANG","island":"JAWA","priority":1},
+  {"zone_id":139,"zone_name":"CIREBON_RAYA","island":"JAWA","priority":1},
+  {"zone_id":140,"zone_name":"INDRAMAYU","island":"JAWA","priority":1},
+  {"zone_id":141,"zone_name":"MAJALENGKA","island":"JAWA","priority":1},
+  {"zone_id":142,"zone_name":"KUNINGAN","island":"JAWA","priority":1},
+  {"zone_id":143,"zone_name":"SUMEDANG","island":"JAWA","priority":1},
+  {"zone_id":144,"zone_name":"GARUT","island":"JAWA","priority":1},
+  {"zone_id":145,"zone_name":"TASIKMALAYA_RAYA","island":"JAWA","priority":1},
+  {"zone_id":146,"zone_name":"CIAMIS","island":"JAWA","priority":1},
+  {"zone_id":147,"zone_name":"PANGANDARAN","island":"JAWA","priority":2},
+  {"zone_id":148,"zone_name":"SUKABUMI_RAYA","island":"JAWA","priority":1},
+  {"zone_id":149,"zone_name":"CIANJUR","island":"JAWA","priority":1}
 
 
 ]
