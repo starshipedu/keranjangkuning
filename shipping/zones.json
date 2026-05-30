@@ -754,6 +754,19 @@
   "zone_name": "PESISIR_BARAT",
   "island": "SUMATERA",
   "priority": 4
+},
+
+  {
+  "zone_id": 123,
+  "zone_name": "BANGKA",
+  "island": "SUMATERA",
+  "priority": 3
+},
+{
+  "zone_id": 124,
+  "zone_name": "BELITUNG",
+  "island": "SUMATERA",
+  "priority": 3
 }
   
   
