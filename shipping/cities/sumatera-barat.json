@@ -1,0 +1,178 @@
+{
+  "province_id": 3,
+  "province_name": "Sumatera Barat",
+  "cities": [
+    {
+      "city_id": 301,
+      "city_name": "Padang",
+      "type": "city",
+      "capital": "Padang",
+      "postal_code": "25111",
+      "zone": "PADANG_RAYA",
+      "is_active": true
+    },
+    {
+      "city_id": 302,
+      "city_name": "Bukittinggi",
+      "type": "city",
+      "capital": "Bukittinggi",
+      "postal_code": "26111",
+      "zone": "AGAM_BUKITTINGGI",
+      "is_active": true
+    },
+    {
+      "city_id": 303,
+      "city_name": "Padang Panjang",
+      "type": "city",
+      "capital": "Padang Panjang",
+      "postal_code": "27111",
+      "zone": "TANAH_DATAR",
+      "is_active": true
+    },
+    {
+      "city_id": 304,
+      "city_name": "Pariaman",
+      "type": "city",
+      "capital": "Pariaman",
+      "postal_code": "25511",
+      "zone": "PADANG_PARIAMAN",
+      "is_active": true
+    },
+    {
+      "city_id": 305,
+      "city_name": "Payakumbuh",
+      "type": "city",
+      "capital": "Payakumbuh",
+      "postal_code": "26211",
+      "zone": "LIMA_PULUH_KOTA",
+      "is_active": true
+    },
+    {
+      "city_id": 306,
+      "city_name": "Sawahlunto",
+      "type": "city",
+      "capital": "Sawahlunto",
+      "postal_code": "27411",
+      "zone": "SAWAHLUNTO_SIJUNJUNG",
+      "is_active": true
+    },
+    {
+      "city_id": 307,
+      "city_name": "Solok",
+      "type": "city",
+      "capital": "Solok",
+      "postal_code": "27311",
+      "zone": "SOLOK_RAYA",
+      "is_active": true
+    },
+
+    {
+      "city_id": 308,
+      "city_name": "Agam",
+      "type": "regency",
+      "capital": "Lubuk Basung",
+      "postal_code": "26415",
+      "zone": "AGAM_BUKITTINGGI",
+      "is_active": true
+    },
+    {
+      "city_id": 309,
+      "city_name": "Dharmasraya",
+      "type": "regency",
+      "capital": "Pulau Punjung",
+      "postal_code": "27612",
+      "zone": "DHARMASRAYA",
+      "is_active": true
+    },
+    {
+      "city_id": 310,
+      "city_name": "Kepulauan Mentawai",
+      "type": "regency",
+      "capital": "Tuapejat",
+      "postal_code": "25391",
+      "zone": "MENTAWAI",
+      "is_active": true
+    },
+    {
+      "city_id": 311,
+      "city_name": "Lima Puluh Kota",
+      "type": "regency",
+      "capital": "Sarilamak",
+      "postal_code": "26271",
+      "zone": "LIMA_PULUH_KOTA",
+      "is_active": true
+    },
+    {
+      "city_id": 312,
+      "city_name": "Padang Pariaman",
+      "type": "regency",
+      "capital": "Parit Malintang",
+      "postal_code": "25584",
+      "zone": "PADANG_PARIAMAN",
+      "is_active": true
+    },
+    {
+      "city_id": 313,
+      "city_name": "Pasaman",
+      "type": "regency",
+      "capital": "Lubuk Sikaping",
+      "postal_code": "26318",
+      "zone": "PASAMAN",
+      "is_active": true
+    },
+    {
+      "city_id": 314,
+      "city_name": "Pasaman Barat",
+      "type": "regency",
+      "capital": "Simpang Empat",
+      "postal_code": "26566",
+      "zone": "PASAMAN_BARAT",
+      "is_active": true
+    },
+    {
+      "city_id": 315,
+      "city_name": "Pesisir Selatan",
+      "type": "regency",
+      "capital": "Painan",
+      "postal_code": "25611",
+      "zone": "PESISIR_SELATAN",
+      "is_active": true
+    },
+    {
+      "city_id": 316,
+      "city_name": "Sijunjung",
+      "type": "regency",
+      "capital": "Muaro Sijunjung",
+      "postal_code": "27511",
+      "zone": "SAWAHLUNTO_SIJUNJUNG",
+      "is_active": true
+    },
+    {
+      "city_id": 317,
+      "city_name": "Solok",
+      "type": "regency",
+      "capital": "Arosuka",
+      "postal_code": "27365",
+      "zone": "SOLOK_RAYA",
+      "is_active": true
+    },
+    {
+      "city_id": 318,
+      "city_name": "Solok Selatan",
+      "type": "regency",
+      "capital": "Padang Aro",
+      "postal_code": "27776",
+      "zone": "SOLOK_SELATAN",
+      "is_active": true
+    },
+    {
+      "city_id": 319,
+      "city_name": "Tanah Datar",
+      "type": "regency",
+      "capital": "Batusangkar",
+      "postal_code": "27211",
+      "zone": "TANAH_DATAR",
+      "is_active": true
+    }
+  ]
+}
