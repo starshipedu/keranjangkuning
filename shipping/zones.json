@@ -292,5 +292,56 @@
     "zone_name": "PAPUA_PEGUNUNGAN",
     "island": "MALUKU_PAPUA",
     "priority": 5
-  }
+  },
+
+
+  
+{
+  "zone_id": 49,
+  "zone_name": "ACEH_BARAT",
+  "island": "SUMATERA",
+  "priority": 2
+},
+{
+  "zone_id": 50,
+  "zone_name": "ACEH_SELATAN",
+  "island": "SUMATERA",
+  "priority": 2
+},
+{
+  "zone_id": 51,
+  "zone_name": "ACEH_TIMUR",
+  "island": "SUMATERA",
+  "priority": 2
+},
+{
+  "zone_id": 52,
+  "zone_name": "ACEH_UTARA",
+  "island": "SUMATERA",
+  "priority": 2
+},
+{
+  "zone_id": 53,
+  "zone_name": "ACEH_TENGAH",
+  "island": "SUMATERA",
+  "priority": 3
+},
+{
+  "zone_id": 54,
+  "zone_name": "ACEH_TENGGARA",
+  "island": "SUMATERA",
+  "priority": 3
+},
+{
+  "zone_id": 55,
+  "zone_name": "ACEH_PIDIE",
+  "island": "SUMATERA",
+  "priority": 2
+},
+{
+  "zone_id": 56,
+  "zone_name": "SIMEULUE",
+  "island": "SUMATERA",
+  "priority": 4
+}
 ]
