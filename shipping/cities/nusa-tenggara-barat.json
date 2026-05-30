@@ -1,0 +1,77 @@
+{
+  "province_id": 18,
+  "province_name": "Nusa Tenggara Barat",
+  "capital": "Mataram",
+  "cities": [
+    {
+      "city_id": 1801,
+      "city_name": "Kota Mataram",
+      "postal_code": "83111",
+      "zone_id": 218,
+      "zone_name": "MATARAM"
+    },
+    {
+      "city_id": 1802,
+      "city_name": "Lombok Barat",
+      "postal_code": "83351",
+      "zone_id": 219,
+      "zone_name": "LOMBOK_BARAT"
+    },
+    {
+      "city_id": 1803,
+      "city_name": "Lombok Tengah",
+      "postal_code": "83511",
+      "zone_id": 220,
+      "zone_name": "LOMBOK_TENGAH"
+    },
+    {
+      "city_id": 1804,
+      "city_name": "Lombok Timur",
+      "postal_code": "83611",
+      "zone_id": 221,
+      "zone_name": "LOMBOK_TIMUR"
+    },
+    {
+      "city_id": 1805,
+      "city_name": "Lombok Utara",
+      "postal_code": "83352",
+      "zone_id": 222,
+      "zone_name": "LOMBOK_UTARA"
+    },
+    {
+      "city_id": 1806,
+      "city_name": "Sumbawa Barat",
+      "postal_code": "84455",
+      "zone_id": 223,
+      "zone_name": "SUMBAWA_BARAT"
+    },
+    {
+      "city_id": 1807,
+      "city_name": "Sumbawa",
+      "postal_code": "84311",
+      "zone_id": 224,
+      "zone_name": "SUMBAWA"
+    },
+    {
+      "city_id": 1808,
+      "city_name": "Dompu",
+      "postal_code": "84211",
+      "zone_id": 225,
+      "zone_name": "DOMPU"
+    },
+    {
+      "city_id": 1809,
+      "city_name": "Bima",
+      "postal_code": "84111",
+      "zone_id": 226,
+      "zone_name": "BIMA"
+    },
+    {
+      "city_id": 1810,
+      "city_name": "Kota Bima",
+      "postal_code": "84113",
+      "zone_id": 227,
+      "zone_name": "KOTA_BIMA"
+    }
+  ]
+}
