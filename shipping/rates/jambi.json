@@ -1,0 +1,55 @@
+{
+  "province_id": 5,
+  "province_name": "Jambi",
+  "origin_zone": "JABODETABEK",
+  "weight_unit": "1000",
+  "weight_label": "1kg",
+  "last_updated": "2026-05-30",
+  "rates": [
+    {
+      "zone": "JAMBI_KOTA",
+      "rates": {
+        "jne": { "cost": 28000, "etd": "2-4 hari", "service": "REG" },
+        "tiki": { "cost": 26000, "etd": "3-5 hari", "service": "ECO" },
+        "pos": { "cost": 24000, "etd": "2-4 hari", "service": "POS Reguler" },
+        "sicepat": { "cost": 25000, "etd": "2-4 hari", "service": "REG" },
+        "jnt": { "cost": 26000, "etd": "2-4 hari", "service": "EZ" },
+        "sap": { "cost": 25000, "etd": "3-5 hari", "service": "REG" },
+        "ninja": { "cost": 26000, "etd": "3-5 hari", "service": "Express" },
+        "lion": { "cost": 29000, "etd": "4-6 hari", "service": "Reguler" },
+        "ide": { "cost": 27000, "etd": "3-5 hari", "service": "REG" },
+        "anteraja": { "cost": 30000, "etd": "3-5 hari", "service": "Reguler" }
+      }
+    },
+    {
+      "zone": "JAMBI_BARAT",
+      "rates": {
+        "jne": { "cost": 34000, "etd": "3-5 hari", "service": "REG" },
+        "tiki": { "cost": 32000, "etd": "4-6 hari", "service": "ECO" },
+        "pos": { "cost": 30000, "etd": "3-5 hari", "service": "POS Reguler" },
+        "sicepat": { "cost": 31000, "etd": "3-5 hari", "service": "REG" },
+        "jnt": { "cost": 32000, "etd": "3-5 hari", "service": "EZ" },
+        "sap": { "cost": 31000, "etd": "4-6 hari", "service": "REG" },
+        "ninja": { "cost": 32000, "etd": "4-6 hari", "service": "Express" },
+        "lion": { "cost": 35000, "etd": "5-7 hari", "service": "Reguler" },
+        "ide": { "cost": 33000, "etd": "4-6 hari", "service": "REG" },
+        "anteraja": { "cost": 36000, "etd": "4-6 hari", "service": "Reguler" }
+      }
+    },
+    {
+      "zone": "JAMBI_TIMUR",
+      "rates": {
+        "jne": { "cost": 32000, "etd": "3-5 hari", "service": "REG" },
+        "tiki": { "cost": 30000, "etd": "4-6 hari", "service": "ECO" },
+        "pos": { "cost": 28000, "etd": "3-5 hari", "service": "POS Reguler" },
+        "sicepat": { "cost": 29000, "etd": "3-5 hari", "service": "REG" },
+        "jnt": { "cost": 30000, "etd": "3-5 hari", "service": "EZ" },
+        "sap": { "cost": 29000, "etd": "4-6 hari", "service": "REG" },
+        "ninja": { "cost": 30000, "etd": "4-6 hari", "service": "Express" },
+        "lion": { "cost": 33000, "etd": "5-7 hari", "service": "Reguler" },
+        "ide": { "cost": 31000, "etd": "4-6 hari", "service": "REG" },
+        "anteraja": { "cost": 34000, "etd": "4-6 hari", "service": "Reguler" }
+      }
+    }
+  ]
+}
