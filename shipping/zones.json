@@ -662,6 +662,98 @@
   "zone_name": "SELUMA",
   "island": "SUMATERA",
   "priority": 3
+},
+
+
+  {
+  "zone_id": 108,
+  "zone_name": "BANDAR_LAMPUNG",
+  "island": "SUMATERA",
+  "priority": 2
+},
+{
+  "zone_id": 109,
+  "zone_name": "METRO",
+  "island": "SUMATERA",
+  "priority": 2
+},
+{
+  "zone_id": 110,
+  "zone_name": "LAMPUNG_BARAT",
+  "island": "SUMATERA",
+  "priority": 3
+},
+{
+  "zone_id": 111,
+  "zone_name": "TANGGAMUS",
+  "island": "SUMATERA",
+  "priority": 3
+},
+{
+  "zone_id": 112,
+  "zone_name": "LAMPUNG_SELATAN",
+  "island": "SUMATERA",
+  "priority": 2
+},
+{
+  "zone_id": 113,
+  "zone_name": "LAMPUNG_TIMUR",
+  "island": "SUMATERA",
+  "priority": 3
+},
+{
+  "zone_id": 114,
+  "zone_name": "LAMPUNG_TENGAH",
+  "island": "SUMATERA",
+  "priority": 3
+},
+{
+  "zone_id": 115,
+  "zone_name": "LAMPUNG_UTARA",
+  "island": "SUMATERA",
+  "priority": 3
+},
+{
+  "zone_id": 116,
+  "zone_name": "WAY_KANAN",
+  "island": "SUMATERA",
+  "priority": 3
+},
+{
+  "zone_id": 117,
+  "zone_name": "TULANG_BAWANG",
+  "island": "SUMATERA",
+  "priority": 3
+},
+{
+  "zone_id": 118,
+  "zone_name": "PESAWARAN",
+  "island": "SUMATERA",
+  "priority": 2
+},
+{
+  "zone_id": 119,
+  "zone_name": "PRINGSEWU",
+  "island": "SUMATERA",
+  "priority": 2
+},
+{
+  "zone_id": 120,
+  "zone_name": "MESUJI",
+  "island": "SUMATERA",
+  "priority": 4
+},
+{
+  "zone_id": 121,
+  "zone_name": "TULANG_BAWANG_BARAT",
+  "island": "SUMATERA",
+  "priority": 4
+},
+{
+  "zone_id": 122,
+  "zone_name": "PESISIR_BARAT",
+  "island": "SUMATERA",
+  "priority": 4
 }
   
   
