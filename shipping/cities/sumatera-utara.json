@@ -1,0 +1,78 @@
+{
+  "province_id": 2,
+  "province_name": "Sumatera Utara",
+  "cities": [
+    {
+      "city_id": 201,
+      "city_name": "Medan",
+      "type": "city",
+      "capital": "Medan",
+      "postal_code": "20111",
+      "zone": "MEDAN_RAYA",
+      "is_active": true
+    },
+    {
+      "city_id": 202,
+      "city_name": "Binjai",
+      "type": "city",
+      "capital": "Binjai",
+      "postal_code": "20711",
+      "zone": "LANGKAT_BINJAI",
+      "is_active": true
+    },
+    {
+      "city_id": 203,
+      "city_name": "Tebing Tinggi",
+      "type": "city",
+      "capital": "Tebing Tinggi",
+      "postal_code": "20611",
+      "zone": "DELI_SERDANG",
+      "is_active": true
+    },
+    {
+      "city_id": 204,
+      "city_name": "Pematangsiantar",
+      "type": "city",
+      "capital": "Pematangsiantar",
+      "postal_code": "21111",
+      "zone": "SIMALUNGUN",
+      "is_active": true
+    },
+    {
+      "city_id": 205,
+      "city_name": "Tanjungbalai",
+      "type": "city",
+      "capital": "Tanjungbalai",
+      "postal_code": "21311",
+      "zone": "ASAHAN",
+      "is_active": true
+    },
+    {
+      "city_id": 206,
+      "city_name": "Sibolga",
+      "type": "city",
+      "capital": "Sibolga",
+      "postal_code": "22511",
+      "zone": "TAPANULI",
+      "is_active": true
+    },
+    {
+      "city_id": 207,
+      "city_name": "Padangsidimpuan",
+      "type": "city",
+      "capital": "Padangsidimpuan",
+      "postal_code": "22711",
+      "zone": "TAPANULI",
+      "is_active": true
+    },
+    {
+      "city_id": 208,
+      "city_name": "Gunungsitoli",
+      "type": "city",
+      "capital": "Gunungsitoli",
+      "postal_code": "22811",
+      "zone": "NIAS",
+      "is_active": true
+    }
+  ]
+}
