@@ -147,7 +147,32 @@
   {"zone_id":146,"zone_name":"CIAMIS","island":"JAWA","priority":1},
   {"zone_id":147,"zone_name":"PANGANDARAN","island":"JAWA","priority":2},
   {"zone_id":148,"zone_name":"SUKABUMI_RAYA","island":"JAWA","priority":1},
-  {"zone_id":149,"zone_name":"CIANJUR","island":"JAWA","priority":1}
+  {"zone_id":149,"zone_name":"CIANJUR","island":"JAWA","priority":1},
+  {"zone_id":150,"zone_name":"SEMARANG_KOTA","island":"JAWA","priority":1},
+  {"zone_id":151,"zone_name":"SEMARANG_KAB","island":"JAWA","priority":1},
+  {"zone_id":152,"zone_name":"SALATIGA","island":"JAWA","priority":1},
+  {"zone_id":153,"zone_name":"KENDAL_BATANG","island":"JAWA","priority":1},
+  {"zone_id":154,"zone_name":"PEKALONGAN_RAYA","island":"JAWA","priority":1},
+  {"zone_id":155,"zone_name":"TEGAL_BREBES","island":"JAWA","priority":1},
+  {"zone_id":156,"zone_name":"PURWOKERTO_RAYA","island":"JAWA","priority":1},
+  {"zone_id":157,"zone_name":"CILACAP","island":"JAWA","priority":2},
+  {"zone_id":158,"zone_name":"KEBUMEN","island":"JAWA","priority":2},
+  {"zone_id":159,"zone_name":"PURWOREJO","island":"JAWA","priority":2},
+  {"zone_id":160,"zone_name":"MAGELANG_RAYA","island":"JAWA","priority":1},
+  {"zone_id":161,"zone_name":"TEMANGGUNG_WONOSOBO","island":"JAWA","priority":2},
+  {"zone_id":162,"zone_name":"KLATEN","island":"JAWA","priority":1},
+  {"zone_id":163,"zone_name":"SOLO_KOTA","island":"JAWA","priority":1},
+  {"zone_id":164,"zone_name":"SOLO_BARAT","island":"JAWA","priority":1},
+  {"zone_id":165,"zone_name":"SOLO_TIMUR","island":"JAWA","priority":1},
+  {"zone_id":166,"zone_name":"SRAGEN","island":"JAWA","priority":1},
+  {"zone_id":167,"zone_name":"BLORA_REMBANG","island":"JAWA","priority":2},
+  {"zone_id":168,"zone_name":"PATI_KUDUS","island":"JAWA","priority":1},
+  {"zone_id":169,"zone_name":"JEPARA","island":"JAWA","priority":2},
+  {"zone_id":170,"zone_name":"KOTA_YOGYAKARTA","island":"JAWA","priority":1},
+  {"zone_id":171,"zone_name":"SLEMAN","island":"JAWA","priority":1},
+  {"zone_id":172,"zone_name":"BANTUL","island":"JAWA","priority":1},
+  {"zone_id":173,"zone_name":"KULON_PROGO","island":"JAWA","priority":2},
+  {"zone_id":174,"zone_name":"GUNUNGKIDUL","island":"JAWA","priority":2}
 
 
 ]
