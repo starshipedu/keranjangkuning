@@ -343,5 +343,61 @@
   "zone_name": "SIMEULUE",
   "island": "SUMATERA",
   "priority": 4
+},
+
+  
+{
+  "zone_id": 57,
+  "zone_name": "MEDAN_RAYA",
+  "island": "SUMATERA",
+  "priority": 2
+},
+{
+  "zone_id": 58,
+  "zone_name": "LANGKAT_BINJAI",
+  "island": "SUMATERA",
+  "priority": 2
+},
+{
+  "zone_id": 59,
+  "zone_name": "DELI_SERDANG",
+  "island": "SUMATERA",
+  "priority": 2
+},
+{
+  "zone_id": 60,
+  "zone_name": "TAPANULI",
+  "island": "SUMATERA",
+  "priority": 3
+},
+{
+  "zone_id": 61,
+  "zone_name": "NIAS",
+  "island": "SUMATERA",
+  "priority": 4
+},
+{
+  "zone_id": 62,
+  "zone_name": "ASAHAN",
+  "island": "SUMATERA",
+  "priority": 2
+},
+{
+  "zone_id": 63,
+  "zone_name": "LABUHANBATU",
+  "island": "SUMATERA",
+  "priority": 3
+},
+{
+  "zone_id": 64,
+  "zone_name": "KARO_DAIRI",
+  "island": "SUMATERA",
+  "priority": 3
+},
+{
+  "zone_id": 65,
+  "zone_name": "SIMALUNGUN",
+  "island": "SUMATERA",
+  "priority": 3
 }
 ]
