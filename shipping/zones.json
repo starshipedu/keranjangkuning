@@ -332,7 +332,27 @@
   {"zone_id":331,"zone_name":"BANGGAI_KEPULAUAN","island":"SULAWESI","priority":5},
   {"zone_id":332,"zone_name":"BANGGAI_LAUT","island":"SULAWESI","priority":5},
   {"zone_id":333,"zone_name":"BUOL","island":"SULAWESI","priority":4},
-  {"zone_id":334,"zone_name":"TOLI_TOLI","island":"SULAWESI","priority":4}
+  {"zone_id":334,"zone_name":"TOLI_TOLI","island":"SULAWESI","priority":4},
+  {"zone_id":335,"zone_name":"MAMUJU","island":"SULAWESI","priority":3},
+  {"zone_id":336,"zone_name":"MAJENE","island":"SULAWESI","priority":3},
+  {"zone_id":337,"zone_name":"POLEWALI_MANDAR","island":"SULAWESI","priority":3},
+  {"zone_id":338,"zone_name":"MAMASA","island":"SULAWESI","priority":4},
+  {"zone_id":339,"zone_name":"PASANGKAYU","island":"SULAWESI","priority":4},
+  {"zone_id":340,"zone_name":"MAMUJU_TENGAH","island":"SULAWESI","priority":4},
+  {"zone_id":341,"zone_name":"MAKASSAR_KOTA","island":"SULAWESI","priority":2},
+  {"zone_id":342,"zone_name":"MAKASSAR_RAYA","island":"SULAWESI","priority":2},
+  {"zone_id":343,"zone_name":"MAROS_PANGKEP","island":"SULAWESI","priority":2},
+  {"zone_id":344,"zone_name":"BARRU_PAREPARE","island":"SULAWESI","priority":2},
+  {"zone_id":345,"zone_name":"PINRANG","island":"SULAWESI","priority":3},
+  {"zone_id":346,"zone_name":"SIDRAP_ENREKANG","island":"SULAWESI","priority":3},
+  {"zone_id":347,"zone_name":"TANA_TORAJA","island":"SULAWESI","priority":3},
+  {"zone_id":348,"zone_name":"LUWU_RAYA","island":"SULAWESI","priority":3},
+  {"zone_id":349,"zone_name":"PALOPO","island":"SULAWESI","priority":3},
+  {"zone_id":350,"zone_name":"BONE","island":"SULAWESI","priority":3},
+  {"zone_id":351,"zone_name":"SOPPENG_WAJO","island":"SULAWESI","priority":3},
+  {"zone_id":352,"zone_name":"SINJAI_BULUKUMBA","island":"SULAWESI","priority":3},
+  {"zone_id":353,"zone_name":"BANTAENG_JENEPONTO","island":"SULAWESI","priority":3},
+  {"zone_id":354,"zone_name":"TAKALAR_GOWA","island":"SULAWESI","priority":2}
 
 
 ]
