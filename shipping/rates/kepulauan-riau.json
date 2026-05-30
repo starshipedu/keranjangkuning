@@ -1,0 +1,70 @@
+{
+  "province_id": 10,
+  "province_name": "Kepulauan Riau",
+  "origin_zone": "JABODETABEK",
+  "weight_unit": "1000",
+  "weight_label": "1kg",
+  "last_updated": "2026-05-30",
+  "rates": [
+    {
+      "zone": "KEPRI_BATAM",
+      "rates": {
+        "jne": { "cost": 29000, "etd": "2-4 hari", "service": "REG" },
+        "tiki": { "cost": 28000, "etd": "3-5 hari", "service": "ECO" },
+        "pos": { "cost": 26000, "etd": "2-4 hari", "service": "POS Reguler" },
+        "sicepat": { "cost": 27000, "etd": "2-4 hari", "service": "REG" },
+        "jnt": { "cost": 28000, "etd": "2-4 hari", "service": "EZ" },
+        "sap": { "cost": 27000, "etd": "3-5 hari", "service": "REG" },
+        "ninja": { "cost": 28000, "etd": "3-5 hari", "service": "Express" },
+        "lion": { "cost": 30000, "etd": "4-6 hari", "service": "Reguler" },
+        "ide": { "cost": 28500, "etd": "3-5 hari", "service": "REG" },
+        "anteraja": { "cost": 31000, "etd": "3-5 hari", "service": "Reguler" }
+      }
+    },
+    {
+      "zone": "KEPRI_TANJUNGPINANG",
+      "rates": {
+        "jne": { "cost": 32000, "etd": "3-5 hari", "service": "REG" },
+        "tiki": { "cost": 31000, "etd": "3-5 hari", "service": "ECO" },
+        "pos": { "cost": 29000, "etd": "3-5 hari", "service": "POS Reguler" },
+        "sicepat": { "cost": 30000, "etd": "3-5 hari", "service": "REG" },
+        "jnt": { "cost": 31000, "etd": "3-5 hari", "service": "EZ" },
+        "sap": { "cost": 30000, "etd": "4-6 hari", "service": "REG" },
+        "ninja": { "cost": 31000, "etd": "4-6 hari", "service": "Express" },
+        "lion": { "cost": 33000, "etd": "5-7 hari", "service": "Reguler" },
+        "ide": { "cost": 31500, "etd": "4-6 hari", "service": "REG" },
+        "anteraja": { "cost": 34000, "etd": "4-6 hari", "service": "Reguler" }
+      }
+    },
+    {
+      "zone": "KEPRI_KARIMUN",
+      "rates": {
+        "jne": { "cost": 35000, "etd": "3-6 hari", "service": "REG" },
+        "tiki": { "cost": 34000, "etd": "4-6 hari", "service": "ECO" },
+        "pos": { "cost": 32000, "etd": "3-6 hari", "service": "POS Reguler" },
+        "sicepat": { "cost": 33000, "etd": "3-6 hari", "service": "REG" },
+        "jnt": { "cost": 34000, "etd": "3-6 hari", "service": "EZ" },
+        "sap": { "cost": 33000, "etd": "4-7 hari", "service": "REG" },
+        "ninja": { "cost": 34000, "etd": "4-7 hari", "service": "Express" },
+        "lion": { "cost": 36000, "etd": "5-8 hari", "service": "Reguler" },
+        "ide": { "cost": 34500, "etd": "4-7 hari", "service": "REG" },
+        "anteraja": { "cost": 37000, "etd": "4-7 hari", "service": "Reguler" }
+      }
+    },
+    {
+      "zone": "KEPRI_NATUNA",
+      "rates": {
+        "jne": { "cost": 62000, "etd": "6-10 hari", "service": "REG" },
+        "tiki": { "cost": 60000, "etd": "7-10 hari", "service": "ECO" },
+        "pos": { "cost": 58000, "etd": "6-9 hari", "service": "POS Reguler" },
+        "sicepat": { "cost": 59000, "etd": "6-10 hari", "service": "REG" },
+        "jnt": { "cost": 60000, "etd": "6-10 hari", "service": "EZ" },
+        "sap": { "cost": 59000, "etd": "7-11 hari", "service": "REG" },
+        "ninja": { "cost": 60000, "etd": "7-11 hari", "service": "Express" },
+        "lion": { "cost": 64000, "etd": "8-12 hari", "service": "Reguler" },
+        "ide": { "cost": 61000, "etd": "7-11 hari", "service": "REG" },
+        "anteraja": { "cost": 66000, "etd": "7-11 hari", "service": "Reguler" }
+      }
+    }
+  ]
+}
