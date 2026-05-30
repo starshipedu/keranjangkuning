@@ -388,7 +388,15 @@
   {"zone_id":387,"zone_name":"HALMAHERA_UTARA","island":"MALUKU_PAPUA","priority":5},
   {"zone_id":388,"zone_name":"KEPULAUAN_SULA","island":"MALUKU_PAPUA","priority":5},
   {"zone_id":389,"zone_name":"PULAU_MOROTAI","island":"MALUKU_PAPUA","priority":5},
-  {"zone_id":390,"zone_name":"PULAU_TALIABU","island":"MALUKU_PAPUA","priority":5}
+  {"zone_id":390,"zone_name":"PULAU_TALIABU","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":391,"zone_name":"JAYAPURA","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":392,"zone_name":"KEEROM","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":393,"zone_name":"SARMI","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":394,"zone_name":"MAMBERAMO_RAYA","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":395,"zone_name":"YAPEN","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":396,"zone_name":"WAROPEN","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":397,"zone_name":"BIAK_NUMFOR","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":398,"zone_name":"SUPIORI","island":"MALUKU_PAPUA","priority":5}
 
 
 ]
