@@ -1,0 +1,86 @@
+{
+  "province_id": 27,
+  "province_name": "Sulawesi Tengah",
+  "capital": "Palu",
+  "slug": "sulawesi-tengah",
+  "cities": [
+    {
+      "city_id": 2701,
+      "city_name": "Kota Palu",
+      "postal_code": "94111",
+      "zone_id": 322
+    },
+    {
+      "city_id": 2702,
+      "city_name": "Kabupaten Donggala",
+      "postal_code": "94341",
+      "zone_id": 323
+    },
+    {
+      "city_id": 2703,
+      "city_name": "Kabupaten Sigi",
+      "postal_code": "94364",
+      "zone_id": 324
+    },
+    {
+      "city_id": 2704,
+      "city_name": "Kabupaten Parigi Moutong",
+      "postal_code": "94471",
+      "zone_id": 325
+    },
+    {
+      "city_id": 2705,
+      "city_name": "Kabupaten Poso",
+      "postal_code": "94611",
+      "zone_id": 326
+    },
+    {
+      "city_id": 2706,
+      "city_name": "Kabupaten Morowali",
+      "postal_code": "94971",
+      "zone_id": 327
+    },
+    {
+      "city_id": 2707,
+      "city_name": "Kabupaten Morowali Utara",
+      "postal_code": "94965",
+      "zone_id": 328
+    },
+    {
+      "city_id": 2708,
+      "city_name": "Kabupaten Tojo Una-Una",
+      "postal_code": "94683",
+      "zone_id": 329
+    },
+    {
+      "city_id": 2709,
+      "city_name": "Kabupaten Banggai",
+      "postal_code": "94711",
+      "zone_id": 330
+    },
+    {
+      "city_id": 2710,
+      "city_name": "Kabupaten Banggai Kepulauan",
+      "postal_code": "94891",
+      "zone_id": 331
+    },
+    {
+      "city_id": 2711,
+      "city_name": "Kabupaten Banggai Laut",
+      "postal_code": "94895",
+      "zone_id": 332
+    },
+    {
+      "city_id": 2712,
+      "city_name": "Kabupaten Buol",
+      "postal_code": "94563",
+      "zone_id": 333
+    },
+    {
+      "city_id": 2713,
+      "city_name": "Kabupaten Toli-Toli",
+      "postal_code": "94515",
+      "zone_id": 334
+    }
+  ]
+}
