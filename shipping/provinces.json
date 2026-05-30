@@ -1,0 +1,268 @@
+[
+  {
+    "province_id": 1,
+    "province_name": "Aceh",
+    "capital": "Banda Aceh",
+    "slug": "aceh",
+    "file": "aceh.json"
+  },
+  {
+    "province_id": 2,
+    "province_name": "Sumatera Utara",
+    "capital": "Medan",
+    "slug": "sumatera-utara",
+    "file": "sumatera-utara.json"
+  },
+  {
+    "province_id": 3,
+    "province_name": "Sumatera Barat",
+    "capital": "Padang",
+    "slug": "sumatera-barat",
+    "file": "sumatera-barat.json"
+  },
+  {
+    "province_id": 4,
+    "province_name": "Riau",
+    "capital": "Pekanbaru",
+    "slug": "riau",
+    "file": "riau.json"
+  },
+  {
+    "province_id": 5,
+    "province_name": "Jambi",
+    "capital": "Jambi",
+    "slug": "jambi",
+    "file": "jambi.json"
+  },
+  {
+    "province_id": 6,
+    "province_name": "Sumatera Selatan",
+    "capital": "Palembang",
+    "slug": "sumatera-selatan",
+    "file": "sumatera-selatan.json"
+  },
+  {
+    "province_id": 7,
+    "province_name": "Bengkulu",
+    "capital": "Bengkulu",
+    "slug": "bengkulu",
+    "file": "bengkulu.json"
+  },
+  {
+    "province_id": 8,
+    "province_name": "Lampung",
+    "capital": "Bandar Lampung",
+    "slug": "lampung",
+    "file": "lampung.json"
+  },
+  {
+    "province_id": 9,
+    "province_name": "Kepulauan Bangka Belitung",
+    "capital": "Pangkal Pinang",
+    "slug": "kepulauan-bangka-belitung",
+    "file": "kepulauan-bangka-belitung.json"
+  },
+  {
+    "province_id": 10,
+    "province_name": "Kepulauan Riau",
+    "capital": "Tanjung Pinang",
+    "slug": "kepulauan-riau",
+    "file": "kepulauan-riau.json"
+  },
+  {
+    "province_id": 11,
+    "province_name": "DKI Jakarta",
+    "capital": "Jakarta",
+    "slug": "dki-jakarta",
+    "file": "dki-jakarta.json"
+  },
+  {
+    "province_id": 12,
+    "province_name": "Jawa Barat",
+    "capital": "Bandung",
+    "slug": "jawa-barat",
+    "file": "jawa-barat.json"
+  },
+  {
+    "province_id": 13,
+    "province_name": "Jawa Tengah",
+    "capital": "Semarang",
+    "slug": "jawa-tengah",
+    "file": "jawa-tengah.json"
+  },
+  {
+    "province_id": 14,
+    "province_name": "DI Yogyakarta",
+    "capital": "Yogyakarta",
+    "slug": "di-yogyakarta",
+    "file": "di-yogyakarta.json"
+  },
+  {
+    "province_id": 15,
+    "province_name": "Jawa Timur",
+    "capital": "Surabaya",
+    "slug": "jawa-timur",
+    "file": "jawa-timur.json"
+  },
+  {
+    "province_id": 16,
+    "province_name": "Banten",
+    "capital": "Serang",
+    "slug": "banten",
+    "file": "banten.json"
+  },
+  {
+    "province_id": 17,
+    "province_name": "Bali",
+    "capital": "Denpasar",
+    "slug": "bali",
+    "file": "bali.json"
+  },
+  {
+    "province_id": 18,
+    "province_name": "Nusa Tenggara Barat",
+    "capital": "Mataram",
+    "slug": "nusa-tenggara-barat",
+    "file": "nusa-tenggara-barat.json"
+  },
+  {
+    "province_id": 19,
+    "province_name": "Nusa Tenggara Timur",
+    "capital": "Kupang",
+    "slug": "nusa-tenggara-timur",
+    "file": "nusa-tenggara-timur.json"
+  },
+  {
+    "province_id": 20,
+    "province_name": "Kalimantan Barat",
+    "capital": "Pontianak",
+    "slug": "kalimantan-barat",
+    "file": "kalimantan-barat.json"
+  },
+  {
+    "province_id": 21,
+    "province_name": "Kalimantan Tengah",
+    "capital": "Palangka Raya",
+    "slug": "kalimantan-tengah",
+    "file": "kalimantan-tengah.json"
+  },
+  {
+    "province_id": 22,
+    "province_name": "Kalimantan Selatan",
+    "capital": "Banjarbaru",
+    "slug": "kalimantan-selatan",
+    "file": "kalimantan-selatan.json"
+  },
+  {
+    "province_id": 23,
+    "province_name": "Kalimantan Timur",
+    "capital": "Samarinda",
+    "slug": "kalimantan-timur",
+    "file": "kalimantan-timur.json"
+  },
+  {
+    "province_id": 24,
+    "province_name": "Kalimantan Utara",
+    "capital": "Tanjung Selor",
+    "slug": "kalimantan-utara",
+    "file": "kalimantan-utara.json"
+  },
+  {
+    "province_id": 25,
+    "province_name": "Sulawesi Utara",
+    "capital": "Manado",
+    "slug": "sulawesi-utara",
+    "file": "sulawesi-utara.json"
+  },
+  {
+    "province_id": 26,
+    "province_name": "Gorontalo",
+    "capital": "Gorontalo",
+    "slug": "gorontalo",
+    "file": "gorontalo.json"
+  },
+  {
+    "province_id": 27,
+    "province_name": "Sulawesi Tengah",
+    "capital": "Palu",
+    "slug": "sulawesi-tengah",
+    "file": "sulawesi-tengah.json"
+  },
+  {
+    "province_id": 28,
+    "province_name": "Sulawesi Barat",
+    "capital": "Mamuju",
+    "slug": "sulawesi-barat",
+    "file": "sulawesi-barat.json"
+  },
+  {
+    "province_id": 29,
+    "province_name": "Sulawesi Selatan",
+    "capital": "Makassar",
+    "slug": "sulawesi-selatan",
+    "file": "sulawesi-selatan.json"
+  },
+  {
+    "province_id": 30,
+    "province_name": "Sulawesi Tenggara",
+    "capital": "Kendari",
+    "slug": "sulawesi-tenggara",
+    "file": "sulawesi-tenggara.json"
+  },
+  {
+    "province_id": 31,
+    "province_name": "Maluku",
+    "capital": "Ambon",
+    "slug": "maluku",
+    "file": "maluku.json"
+  },
+  {
+    "province_id": 32,
+    "province_name": "Maluku Utara",
+    "capital": "Sofifi",
+    "slug": "maluku-utara",
+    "file": "maluku-utara.json"
+  },
+  {
+    "province_id": 33,
+    "province_name": "Papua",
+    "capital": "Jayapura",
+    "slug": "papua",
+    "file": "papua.json"
+  },
+  {
+    "province_id": 34,
+    "province_name": "Papua Barat",
+    "capital": "Manokwari",
+    "slug": "papua-barat",
+    "file": "papua-barat.json"
+  },
+  {
+    "province_id": 35,
+    "province_name": "Papua Selatan",
+    "capital": "Merauke",
+    "slug": "papua-selatan",
+    "file": "papua-selatan.json"
+  },
+  {
+    "province_id": 36,
+    "province_name": "Papua Tengah",
+    "capital": "Nabire",
+    "slug": "papua-tengah",
+    "file": "papua-tengah.json"
+  },
+  {
+    "province_id": 37,
+    "province_name": "Papua Pegunungan",
+    "capital": "Wamena",
+    "slug": "papua-pegunungan",
+    "file": "papua-pegunungan.json"
+  },
+  {
+    "province_id": 38,
+    "province_name": "Papua Barat Daya",
+    "capital": "Sorong",
+    "slug": "papua-barat-daya",
+    "file": "papua-barat-daya.json"
+  }
+]
