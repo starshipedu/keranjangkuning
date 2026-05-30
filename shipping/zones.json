@@ -283,7 +283,17 @@
   {"zone_id":282,"zone_name":"BALANGAN","island":"KALIMANTAN","priority":4},
   {"zone_id":283,"zone_name":"TABALONG","island":"KALIMANTAN","priority":4},
   {"zone_id":284,"zone_name":"TANAH_BUMBU","island":"KALIMANTAN","priority":4},
-  {"zone_id":285,"zone_name":"KOTABARU","island":"KALIMANTAN","priority":4}
+  {"zone_id":285,"zone_name":"KOTABARU","island":"KALIMANTAN","priority":4},
+  {"zone_id":286,"zone_name":"SAMARINDA","island":"KALIMANTAN","priority":3},
+  {"zone_id":287,"zone_name":"BALIKPAPAN","island":"KALIMANTAN","priority":3},
+  {"zone_id":288,"zone_name":"BONTANG","island":"KALIMANTAN","priority":3},
+  {"zone_id":289,"zone_name":"KUTAI_KARTANEGARA","island":"KALIMANTAN","priority":3},
+  {"zone_id":290,"zone_name":"KUTAI_TIMUR","island":"KALIMANTAN","priority":4},
+  {"zone_id":291,"zone_name":"KUTAI_BARAT","island":"KALIMANTAN","priority":4},
+  {"zone_id":292,"zone_name":"BERAU","island":"KALIMANTAN","priority":4},
+  {"zone_id":293,"zone_name":"PASER","island":"KALIMANTAN","priority":4},
+  {"zone_id":294,"zone_name":"PENAJAM_PASER_UTARA","island":"KALIMANTAN","priority":4},
+  {"zone_id":295,"zone_name":"MAHAKAM_ULU","island":"KALIMANTAN","priority":5}
 
 
 ]
