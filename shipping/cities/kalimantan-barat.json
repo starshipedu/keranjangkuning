@@ -1,0 +1,106 @@
+{
+  "province_id": 20,
+  "province_name": "Kalimantan Barat",
+  "capital": "Pontianak",
+  "last_updated": "2026-05-30",
+  "cities": [
+    {
+      "city_id": 2001,
+      "city_name": "Kota Pontianak",
+      "postal_code": "78111",
+      "zone_id": 246,
+      "zone_name": "PONTIANAK_KUBU_RAYA"
+    },
+    {
+      "city_id": 2002,
+      "city_name": "Kubu Raya",
+      "postal_code": "78391",
+      "zone_id": 246,
+      "zone_name": "PONTIANAK_KUBU_RAYA"
+    },
+    {
+      "city_id": 2003,
+      "city_name": "Mempawah",
+      "postal_code": "78912",
+      "zone_id": 247,
+      "zone_name": "MEMPAWAH"
+    },
+    {
+      "city_id": 2004,
+      "city_name": "Sambas",
+      "postal_code": "79462",
+      "zone_id": 248,
+      "zone_name": "SAMBAS"
+    },
+    {
+      "city_id": 2005,
+      "city_name": "Kota Singkawang",
+      "postal_code": "79111",
+      "zone_id": 249,
+      "zone_name": "SINGKAWANG"
+    },
+    {
+      "city_id": 2006,
+      "city_name": "Bengkayang",
+      "postal_code": "79282",
+      "zone_id": 250,
+      "zone_name": "BENGKAYANG"
+    },
+    {
+      "city_id": 2007,
+      "city_name": "Sanggau",
+      "postal_code": "78512",
+      "zone_id": 251,
+      "zone_name": "SANGGAU"
+    },
+    {
+      "city_id": 2008,
+      "city_name": "Sekadau",
+      "postal_code": "79583",
+      "zone_id": 252,
+      "zone_name": "SEKADAU"
+    },
+    {
+      "city_id": 2009,
+      "city_name": "Sintang",
+      "postal_code": "78611",
+      "zone_id": 253,
+      "zone_name": "SINTANG"
+    },
+    {
+      "city_id": 2010,
+      "city_name": "Melawi",
+      "postal_code": "78672",
+      "zone_id": 254,
+      "zone_name": "MELAWI"
+    },
+    {
+      "city_id": 2011,
+      "city_name": "Kapuas Hulu",
+      "postal_code": "78711",
+      "zone_id": 255,
+      "zone_name": "KAPUAS_HULU"
+    },
+    {
+      "city_id": 2012,
+      "city_name": "Ketapang",
+      "postal_code": "78811",
+      "zone_id": 256,
+      "zone_name": "KETAPANG"
+    },
+    {
+      "city_id": 2013,
+      "city_name": "Kayong Utara",
+      "postal_code": "78852",
+      "zone_id": 257,
+      "zone_name": "KAYONG_UTARA"
+    },
+    {
+      "city_id": 2014,
+      "city_name": "Landak",
+      "postal_code": "78357",
+      "zone_id": 258,
+      "zone_name": "LANDAK"
+    }
+  ]
+}
