@@ -1,0 +1,296 @@
+[
+  {
+    "zone_id": 1,
+    "zone_name": "JABODETABEK",
+    "island": "JAWA",
+    "priority": 1
+  },
+  {
+    "zone_id": 2,
+    "zone_name": "BANTEN",
+    "island": "JAWA",
+    "priority": 1
+  },
+  {
+    "zone_id": 3,
+    "zone_name": "BANDUNG_RAYA",
+    "island": "JAWA",
+    "priority": 1
+  },
+  {
+    "zone_id": 4,
+    "zone_name": "PRIANGAN_TIMUR",
+    "island": "JAWA",
+    "priority": 1
+  },
+  {
+    "zone_id": 5,
+    "zone_name": "CIREBON_RAYA",
+    "island": "JAWA",
+    "priority": 1
+  },
+  {
+    "zone_id": 6,
+    "zone_name": "JAWA_TENGAH_BARAT",
+    "island": "JAWA",
+    "priority": 1
+  },
+  {
+    "zone_id": 7,
+    "zone_name": "SEMARANG_RAYA",
+    "island": "JAWA",
+    "priority": 1
+  },
+  {
+    "zone_id": 8,
+    "zone_name": "SOLO_RAYA",
+    "island": "JAWA",
+    "priority": 1
+  },
+  {
+    "zone_id": 9,
+    "zone_name": "DIY_YOGYAKARTA",
+    "island": "JAWA",
+    "priority": 1
+  },
+  {
+    "zone_id": 10,
+    "zone_name": "JAWA_TIMUR_BARAT",
+    "island": "JAWA",
+    "priority": 1
+  },
+  {
+    "zone_id": 11,
+    "zone_name": "SURABAYA_RAYA",
+    "island": "JAWA",
+    "priority": 1
+  },
+  {
+    "zone_id": 12,
+    "zone_name": "TAPAL_KUDA",
+    "island": "JAWA",
+    "priority": 1
+  },
+  {
+    "zone_id": 13,
+    "zone_name": "MADURA",
+    "island": "JAWA",
+    "priority": 2
+  },
+
+  {
+    "zone_id": 14,
+    "zone_name": "ACEH",
+    "island": "SUMATERA",
+    "priority": 2
+  },
+  {
+    "zone_id": 15,
+    "zone_name": "SUMUT",
+    "island": "SUMATERA",
+    "priority": 2
+  },
+  {
+    "zone_id": 16,
+    "zone_name": "SUMBAR",
+    "island": "SUMATERA",
+    "priority": 2
+  },
+  {
+    "zone_id": 17,
+    "zone_name": "RIAU",
+    "island": "SUMATERA",
+    "priority": 2
+  },
+  {
+    "zone_id": 18,
+    "zone_name": "KEPRI",
+    "island": "SUMATERA",
+    "priority": 3
+  },
+  {
+    "zone_id": 19,
+    "zone_name": "JAMBI",
+    "island": "SUMATERA",
+    "priority": 2
+  },
+  {
+    "zone_id": 20,
+    "zone_name": "SUMSEL",
+    "island": "SUMATERA",
+    "priority": 2
+  },
+  {
+    "zone_id": 21,
+    "zone_name": "BENGKULU",
+    "island": "SUMATERA",
+    "priority": 2
+  },
+  {
+    "zone_id": 22,
+    "zone_name": "LAMPUNG",
+    "island": "SUMATERA",
+    "priority": 2
+  },
+  {
+    "zone_id": 23,
+    "zone_name": "BANGKA_BELITUNG",
+    "island": "SUMATERA",
+    "priority": 3
+  },
+
+  {
+    "zone_id": 24,
+    "zone_name": "BALI",
+    "island": "BALI_NUSRA",
+    "priority": 2
+  },
+  {
+    "zone_id": 25,
+    "zone_name": "LOMBOK",
+    "island": "BALI_NUSRA",
+    "priority": 2
+  },
+  {
+    "zone_id": 26,
+    "zone_name": "SUMBAWA",
+    "island": "BALI_NUSRA",
+    "priority": 3
+  },
+  {
+    "zone_id": 27,
+    "zone_name": "FLORES",
+    "island": "BALI_NUSRA",
+    "priority": 3
+  },
+  {
+    "zone_id": 28,
+    "zone_name": "TIMOR",
+    "island": "BALI_NUSRA",
+    "priority": 3
+  },
+  {
+    "zone_id": 29,
+    "zone_name": "SUMBA",
+    "island": "BALI_NUSRA",
+    "priority": 3
+  },
+
+  {
+    "zone_id": 30,
+    "zone_name": "KALBAR",
+    "island": "KALIMANTAN",
+    "priority": 3
+  },
+  {
+    "zone_id": 31,
+    "zone_name": "KALTENG",
+    "island": "KALIMANTAN",
+    "priority": 3
+  },
+  {
+    "zone_id": 32,
+    "zone_name": "KALSEL",
+    "island": "KALIMANTAN",
+    "priority": 3
+  },
+  {
+    "zone_id": 33,
+    "zone_name": "KALTIM",
+    "island": "KALIMANTAN",
+    "priority": 3
+  },
+  {
+    "zone_id": 34,
+    "zone_name": "KALTARA",
+    "island": "KALIMANTAN",
+    "priority": 4
+  },
+
+  {
+    "zone_id": 35,
+    "zone_name": "SULUT",
+    "island": "SULAWESI",
+    "priority": 3
+  },
+  {
+    "zone_id": 36,
+    "zone_name": "GORONTALO",
+    "island": "SULAWESI",
+    "priority": 3
+  },
+  {
+    "zone_id": 37,
+    "zone_name": "SULTENG",
+    "island": "SULAWESI",
+    "priority": 3
+  },
+  {
+    "zone_id": 38,
+    "zone_name": "SULBAR",
+    "island": "SULAWESI",
+    "priority": 3
+  },
+  {
+    "zone_id": 39,
+    "zone_name": "MAKASSAR_RAYA",
+    "island": "SULAWESI",
+    "priority": 3
+  },
+  {
+    "zone_id": 40,
+    "zone_name": "SULTRA",
+    "island": "SULAWESI",
+    "priority": 3
+  },
+
+  {
+    "zone_id": 41,
+    "zone_name": "MALUKU",
+    "island": "MALUKU_PAPUA",
+    "priority": 4
+  },
+  {
+    "zone_id": 42,
+    "zone_name": "MALUKU_UTARA",
+    "island": "MALUKU_PAPUA",
+    "priority": 4
+  },
+
+  {
+    "zone_id": 43,
+    "zone_name": "PAPUA_BARAT",
+    "island": "MALUKU_PAPUA",
+    "priority": 5
+  },
+  {
+    "zone_id": 44,
+    "zone_name": "SORONG_RAYA",
+    "island": "MALUKU_PAPUA",
+    "priority": 5
+  },
+  {
+    "zone_id": 45,
+    "zone_name": "PAPUA_TENGAH",
+    "island": "MALUKU_PAPUA",
+    "priority": 5
+  },
+  {
+    "zone_id": 46,
+    "zone_name": "PAPUA",
+    "island": "MALUKU_PAPUA",
+    "priority": 5
+  },
+  {
+    "zone_id": 47,
+    "zone_name": "PAPUA_SELATAN",
+    "island": "MALUKU_PAPUA",
+    "priority": 5
+  },
+  {
+    "zone_id": 48,
+    "zone_name": "PAPUA_PEGUNUNGAN",
+    "island": "MALUKU_PAPUA",
+    "priority": 5
+  }
+]
