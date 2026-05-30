@@ -368,7 +368,17 @@
   {"zone_id":367,"zone_name":"BUTON_TENGAH","island":"SULAWESI","priority":4},
   {"zone_id":368,"zone_name":"BUTON_UTARA","island":"SULAWESI","priority":4},
   {"zone_id":369,"zone_name":"WAKATOBI","island":"SULAWESI","priority":5},
-  {"zone_id":370,"zone_name":"BOMBANA","island":"SULAWESI","priority":4}
+  {"zone_id":370,"zone_name":"BOMBANA","island":"SULAWESI","priority":4},
+  {"zone_id":371,"zone_name":"AMBON","island":"MALUKU_PAPUA","priority":4},
+  {"zone_id":372,"zone_name":"SERAM_BAGIAN_BARAT","island":"MALUKU_PAPUA","priority":4},
+  {"zone_id":373,"zone_name":"SERAM_BAGIAN_TIMUR","island":"MALUKU_PAPUA","priority":4},
+  {"zone_id":374,"zone_name":"MALUKU_TENGAH","island":"MALUKU_PAPUA","priority":4},
+  {"zone_id":375,"zone_name":"BURU","island":"MALUKU_PAPUA","priority":4},
+  {"zone_id":376,"zone_name":"BURU_SELATAN","island":"MALUKU_PAPUA","priority":4},
+  {"zone_id":377,"zone_name":"KEPULAUAN_ARU","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":378,"zone_name":"MALUKU_TENGGARA","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":379,"zone_name":"MALUKU_TENGGARA_BARAT","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":380,"zone_name":"KEPULAUAN_TANIMBAR","island":"MALUKU_PAPUA","priority":5}
 
 
 ]
