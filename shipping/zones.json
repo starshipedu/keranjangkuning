@@ -480,6 +480,50 @@
   "zone_name": "SOLOK_SELATAN",
   "island": "SUMATERA",
   "priority": 3
+},
+
+
+  {
+  "zone_id": 79,
+  "zone_name": "PEKANBARU_RAYA",
+  "island": "SUMATERA",
+  "priority": 2
+},
+{
+  "zone_id": 80,
+  "zone_name": "DUMAI",
+  "island": "SUMATERA",
+  "priority": 2
+},
+{
+  "zone_id": 81,
+  "zone_name": "PESISIR_RIAU",
+  "island": "SUMATERA",
+  "priority": 3
+},
+{
+  "zone_id": 82,
+  "zone_name": "INDRAGIRI",
+  "island": "SUMATERA",
+  "priority": 3
+},
+{
+  "zone_id": 83,
+  "zone_name": "KUANTAN_SINGINGI",
+  "island": "SUMATERA",
+  "priority": 3
+},
+{
+  "zone_id": 84,
+  "zone_name": "ROKAN",
+  "island": "SUMATERA",
+  "priority": 3
+},
+{
+  "zone_id": 85,
+  "zone_name": "KEPULAUAN_MERANTI",
+  "island": "SUMATERA",
+  "priority": 4
 }
   
 ]
