@@ -1,0 +1,155 @@
+{
+  "province_id": 22,
+  "province_name": "Kalimantan Selatan",
+  "origin_zone": "JABODETABEK",
+  "weight_unit": "1000",
+  "weight_label": "1kg",
+  "last_updated": "2026-05-30",
+  "rates": [
+
+    {
+      "zone":"BANJARMASIN_RAYA",
+      "rates":{
+        "jne":{"cost":35000,"etd":"2-4 hari","service":"REG"},
+        "tiki":{"cost":33000,"etd":"3-4 hari","service":"ECO"},
+        "pos":{"cost":31000,"etd":"3-5 hari","service":"POS Reguler"},
+        "sicepat":{"cost":33000,"etd":"2-4 hari","service":"REG"},
+        "jnt":{"cost":33000,"etd":"2-4 hari","service":"EZ"},
+        "sap":{"cost":32000,"etd":"3-5 hari","service":"REG"},
+        "ninja":{"cost":33000,"etd":"3-5 hari","service":"Express"},
+        "lion":{"cost":36000,"etd":"4-6 hari","service":"Reguler"},
+        "ide":{"cost":33000,"etd":"3-5 hari","service":"REG"},
+        "anteraja":{"cost":38000,"etd":"3-5 hari","service":"Reguler"}
+      }
+    },
+
+    {
+      "zone":"BANJARBARU",
+      "rates":{
+        "jne":{"cost":36000,"etd":"2-4 hari","service":"REG"},
+        "tiki":{"cost":34000,"etd":"3-4 hari","service":"ECO"},
+        "pos":{"cost":32000,"etd":"3-5 hari","service":"POS Reguler"},
+        "sicepat":{"cost":34000,"etd":"2-4 hari","service":"REG"},
+        "jnt":{"cost":34000,"etd":"2-4 hari","service":"EZ"},
+        "sap":{"cost":33000,"etd":"3-5 hari","service":"REG"},
+        "ninja":{"cost":34000,"etd":"3-5 hari","service":"Express"},
+        "lion":{"cost":37000,"etd":"4-6 hari","service":"Reguler"},
+        "ide":{"cost":34000,"etd":"3-5 hari","service":"REG"},
+        "anteraja":{"cost":39000,"etd":"3-5 hari","service":"Reguler"}
+      }
+    },
+
+    {
+      "zone":"BANJAR",
+      "rates":{
+        "jne":{"cost":37000,"etd":"3-5 hari","service":"REG"},
+        "tiki":{"cost":35000,"etd":"3-5 hari","service":"ECO"},
+        "pos":{"cost":33000,"etd":"4-6 hari","service":"POS Reguler"},
+        "sicepat":{"cost":35000,"etd":"3-5 hari","service":"REG"},
+        "jnt":{"cost":35000,"etd":"3-5 hari","service":"EZ"},
+        "sap":{"cost":34000,"etd":"4-6 hari","service":"REG"},
+        "ninja":{"cost":35000,"etd":"4-6 hari","service":"Express"},
+        "lion":{"cost":38000,"etd":"5-7 hari","service":"Reguler"},
+        "ide":{"cost":35000,"etd":"4-6 hari","service":"REG"},
+        "anteraja":{"cost":40000,"etd":"4-6 hari","service":"Reguler"}
+      }
+    },
+
+    {
+      "zone":"BARITO_KUALA",
+      "rates":{
+        "jne":{"cost":38000,"etd":"3-5 hari","service":"REG"},
+        "tiki":{"cost":36000,"etd":"3-5 hari","service":"ECO"},
+        "pos":{"cost":34000,"etd":"4-6 hari","service":"POS Reguler"},
+        "sicepat":{"cost":36000,"etd":"3-5 hari","service":"REG"},
+        "jnt":{"cost":36000,"etd":"3-5 hari","service":"EZ"},
+        "sap":{"cost":35000,"etd":"4-6 hari","service":"REG"},
+        "ninja":{"cost":36000,"etd":"4-6 hari","service":"Express"},
+        "lion":{"cost":39000,"etd":"5-7 hari","service":"Reguler"},
+        "ide":{"cost":36000,"etd":"4-6 hari","service":"REG"},
+        "anteraja":{"cost":41000,"etd":"4-6 hari","service":"Reguler"}
+      }
+    },
+
+    {
+      "zone":"TANAH_LAUT",
+      "rates":{
+        "jne":{"cost":39000,"etd":"3-5 hari","service":"REG"},
+        "tiki":{"cost":37000,"etd":"3-5 hari","service":"ECO"},
+        "pos":{"cost":35000,"etd":"4-6 hari","service":"POS Reguler"},
+        "sicepat":{"cost":37000,"etd":"3-5 hari","service":"REG"},
+        "jnt":{"cost":37000,"etd":"3-5 hari","service":"EZ"},
+        "sap":{"cost":36000,"etd":"4-6 hari","service":"REG"},
+        "ninja":{"cost":37000,"etd":"4-6 hari","service":"Express"},
+        "lion":{"cost":40000,"etd":"5-7 hari","service":"Reguler"},
+        "ide":{"cost":37000,"etd":"4-6 hari","service":"REG"},
+        "anteraja":{"cost":42000,"etd":"4-6 hari","service":"Reguler"}
+      }
+    },
+
+{
+  "zone":"TAPIN",
+  "rates":{
+    "jne":{"cost":40000,"etd":"3-5 hari","service":"REG"},
+    "tiki":{"cost":38000,"etd":"3-5 hari","service":"ECO"},
+    "pos":{"cost":36000,"etd":"4-6 hari","service":"POS Reguler"},
+    "sicepat":{"cost":38000,"etd":"3-5 hari","service":"REG"},
+    "jnt":{"cost":38000,"etd":"3-5 hari","service":"EZ"},
+    "sap":{"cost":37000,"etd":"4-6 hari","service":"REG"},
+    "ninja":{"cost":38000,"etd":"4-6 hari","service":"Express"},
+    "lion":{"cost":41000,"etd":"5-7 hari","service":"Reguler"},
+    "ide":{"cost":38000,"etd":"4-6 hari","service":"REG"},
+    "anteraja":{"cost":43000,"etd":"4-6 hari","service":"Reguler"}
+  }
+},
+
+{
+  "zone":"HULU_SUNGAI_SELATAN",
+  "rates":{
+    "jne":{"cost":42000,"etd":"3-5 hari","service":"REG"},
+    "tiki":{"cost":40000,"etd":"3-5 hari","service":"ECO"},
+    "pos":{"cost":38000,"etd":"4-6 hari","service":"POS Reguler"},
+    "sicepat":{"cost":40000,"etd":"3-5 hari","service":"REG"},
+    "jnt":{"cost":40000,"etd":"3-5 hari","service":"EZ"},
+    "sap":{"cost":39000,"etd":"4-6 hari","service":"REG"},
+    "ninja":{"cost":40000,"etd":"4-6 hari","service":"Express"},
+    "lion":{"cost":43000,"etd":"5-7 hari","service":"Reguler"},
+    "ide":{"cost":40000,"etd":"4-6 hari","service":"REG"},
+    "anteraja":{"cost":45000,"etd":"4-6 hari","service":"Reguler"}
+  }
+},
+
+{
+  "zone":"HULU_SUNGAI_TENGAH",
+  "rates":{
+    "jne":{"cost":43000,"etd":"3-5 hari","service":"REG"},
+    "tiki":{"cost":41000,"etd":"3-5 hari","service":"ECO"},
+    "pos":{"cost":39000,"etd":"4-6 hari","service":"POS Reguler"},
+    "sicepat":{"cost":41000,"etd":"3-5 hari","service":"REG"},
+    "jnt":{"cost":41000,"etd":"3-5 hari","service":"EZ"},
+    "sap":{"cost":40000,"etd":"4-6 hari","service":"REG"},
+    "ninja":{"cost":41000,"etd":"4-6 hari","service":"Express"},
+    "lion":{"cost":44000,"etd":"5-7 hari","service":"Reguler"},
+    "ide":{"cost":41000,"etd":"4-6 hari","service":"REG"},
+    "anteraja":{"cost":46000,"etd":"4-6 hari","service":"Reguler"}
+  }
+},
+
+{
+  "zone":"HULU_SUNGAI_UTARA",
+  "rates":{
+    "jne":{"cost":44000,"etd":"3-6 hari","service":"REG"},
+    "tiki":{"cost":42000,"etd":"3-6 hari","service":"ECO"},
+    "pos":{"cost":40000,"etd":"4-7 hari","service":"POS Reguler"},
+    "sicepat":{"cost":42000,"etd":"3-6 hari","service":"REG"},
+    "jnt":{"cost":42000,"etd":"3-6 hari","service":"EZ"},
+    "sap":{"cost":41000,"etd":"4-7 hari","service":"REG"},
+    "ninja":{"cost":42000,"etd":"4-7 hari","service":"Express"},
+    "lion":{"cost":45000,"etd":"5-8 hari","service":"Reguler"},
+    "ide":{"cost":42000,"etd":"4-7 hari","service":"REG"},
+    "anteraja":{"cost":47000,"etd":"4-7 hari","service":"Reguler"}
+  }
+}
+
+  ]
+}
