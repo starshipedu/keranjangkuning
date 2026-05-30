@@ -1,0 +1,114 @@
+{
+  "province_id": 4,
+  "province_name": "Riau",
+  "cities": [
+    {
+      "city_id": 401,
+      "city_name": "Pekanbaru",
+      "type": "city",
+      "capital": "Pekanbaru",
+      "postal_code": "28111",
+      "zone": "PEKANBARU_RAYA",
+      "is_active": true
+    },
+    {
+      "city_id": 402,
+      "city_name": "Dumai",
+      "type": "city",
+      "capital": "Dumai",
+      "postal_code": "28811",
+      "zone": "DUMAI",
+      "is_active": true
+    },
+    {
+      "city_id": 403,
+      "city_name": "Bengkalis",
+      "type": "regency",
+      "capital": "Bengkalis",
+      "postal_code": "28711",
+      "zone": "PESISIR_RIAU",
+      "is_active": true
+    },
+    {
+      "city_id": 404,
+      "city_name": "Indragiri Hilir",
+      "type": "regency",
+      "capital": "Tembilahan",
+      "postal_code": "29211",
+      "zone": "INDRAGIRI",
+      "is_active": true
+    },
+    {
+      "city_id": 405,
+      "city_name": "Indragiri Hulu",
+      "type": "regency",
+      "capital": "Rengat",
+      "postal_code": "29311",
+      "zone": "INDRAGIRI",
+      "is_active": true
+    },
+    {
+      "city_id": 406,
+      "city_name": "Kampar",
+      "type": "regency",
+      "capital": "Bangkinang",
+      "postal_code": "28411",
+      "zone": "PEKANBARU_RAYA",
+      "is_active": true
+    },
+    {
+      "city_id": 407,
+      "city_name": "Kepulauan Meranti",
+      "type": "regency",
+      "capital": "Selatpanjang",
+      "postal_code": "28753",
+      "zone": "KEPULAUAN_MERANTI",
+      "is_active": true
+    },
+    {
+      "city_id": 408,
+      "city_name": "Kuantan Singingi",
+      "type": "regency",
+      "capital": "Teluk Kuantan",
+      "postal_code": "29511",
+      "zone": "KUANTAN_SINGINGI",
+      "is_active": true
+    },
+    {
+      "city_id": 409,
+      "city_name": "Pelalawan",
+      "type": "regency",
+      "capital": "Pangkalan Kerinci",
+      "postal_code": "28381",
+      "zone": "PEKANBARU_RAYA",
+      "is_active": true
+    },
+    {
+      "city_id": 410,
+      "city_name": "Rokan Hilir",
+      "type": "regency",
+      "capital": "Bagansiapiapi",
+      "postal_code": "28912",
+      "zone": "ROKAN",
+      "is_active": true
+    },
+    {
+      "city_id": 411,
+      "city_name": "Rokan Hulu",
+      "type": "regency",
+      "capital": "Pasir Pengaraian",
+      "postal_code": "28557",
+      "zone": "ROKAN",
+      "is_active": true
+    },
+    {
+      "city_id": 412,
+      "city_name": "Siak",
+      "type": "regency",
+      "capital": "Siak Sri Indrapura",
+      "postal_code": "28671",
+      "zone": "PEKANBARU_RAYA",
+      "is_active": true
+    }
+  ]
+}
