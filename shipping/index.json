@@ -1,0 +1,215 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-01-15",
+  "origin": {
+    "city_id": 501,
+    "city_name": "Jakarta Pusat",
+    "province": "DKI Jakarta"
+  },
+  "provinces": [
+    {
+      "id": 1,
+      "name": "DKI Jakarta",
+      "file": "dki-jakarta.json",
+      "city_count": 6
+    },
+    {
+      "id": 2,
+      "name": "Jawa Barat",
+      "file": "jawa-barat.json",
+      "city_count": 27
+    },
+    {
+      "id": 3,
+      "name": "Banten",
+      "file": "banten.json",
+      "city_count": 8
+    },
+    {
+      "id": 4,
+      "name": "Jawa Tengah",
+      "file": "jawa-tengah.json",
+      "city_count": 35
+    },
+    {
+      "id": 5,
+      "name": "Daerah Istimewa Yogyakarta",
+      "file": "di-yogyakarta.json",
+      "city_count": 5
+    },
+    {
+      "id": 6,
+      "name": "Jawa Timur",
+      "file": "jawa-timur.json",
+      "city_count": 38
+    },
+    {
+      "id": 7,
+      "name": "Bali",
+      "file": "bali.json",
+      "city_count": 9
+    },
+    {
+      "id": 8,
+      "name": "Nusa Tenggara Barat",
+      "file": "ntb.json",
+      "city_count": 10
+    },
+    {
+      "id": 9,
+      "name": "Nusa Tenggara Timur",
+      "file": "ntt.json",
+      "city_count": 22
+    },
+    {
+      "id": 10,
+      "name": "Aceh",
+      "file": "aceh.json",
+      "city_count": 23
+    },
+    {
+      "id": 11,
+      "name": "Sumatera Utara",
+      "file": "sumatera-utara.json",
+      "city_count": 33
+    },
+    {
+      "id": 12,
+      "name": "Sumatera Barat",
+      "file": "sumatera-barat.json",
+      "city_count": 19
+    },
+    {
+      "id": 13,
+      "name": "Riau",
+      "file": "riau.json",
+      "city_count": 12
+    },
+    {
+      "id": 14,
+      "name": "Kepulauan Riau",
+      "file": "kepulauan-riau.json",
+      "city_count": 7
+    },
+    {
+      "id": 15,
+      "name": "Jambi",
+      "file": "jambi.json",
+      "city_count": 11
+    },
+    {
+      "id": 16,
+      "name": "Sumatera Selatan",
+      "file": "sumatera-selatan.json",
+      "city_count": 17
+    },
+    {
+      "id": 17,
+      "name": "Kepulauan Bangka Belitung",
+      "file": "bangka-belitung.json",
+      "city_count": 7
+    },
+    {
+      "id": 18,
+      "name": "Bengkulu",
+      "file": "bengkulu.json",
+      "city_count": 10
+    },
+    {
+      "id": 19,
+      "name": "Lampung",
+      "file": "lampung.json",
+      "city_count": 15
+    },
+    {
+      "id": 20,
+      "name": "Kalimantan Barat",
+      "file": "kalimantan-barat.json",
+      "city_count": 14
+    },
+    {
+      "id": 21,
+      "name": "Kalimantan Tengah",
+      "file": "kalimantan-tengah.json",
+      "city_count": 14
+    },
+    {
+      "id": 22,
+      "name": "Kalimantan Selatan",
+      "file": "kalimantan-selatan.json",
+      "city_count": 13
+    },
+    {
+      "id": 23,
+      "name": "Kalimantan Timur",
+      "file": "kalimantan-timur.json",
+      "city_count": 10
+    },
+    {
+      "id": 24,
+      "name": "Kalimantan Utara",
+      "file": "kalimantan-utara.json",
+      "city_count": 4
+    },
+    {
+      "id": 25,
+      "name": "Sulawesi Utara",
+      "file": "sulawesi-utara.json",
+      "city_count": 15
+    },
+    {
+      "id": 26,
+      "name": "Gorontalo",
+      "file": "gorontalo.json",
+      "city_count": 6
+    },
+    {
+      "id": 27,
+      "name": "Sulawesi Tengah",
+      "file": "sulawesi-tengah.json",
+      "city_count": 13
+    },
+    {
+      "id": 28,
+      "name": "Sulawesi Barat",
+      "file": "sulawesi-barat.json",
+      "city_count": 6
+    },
+    {
+      "id": 29,
+      "name": "Sulawesi Selatan",
+      "file": "sulawesi-selatan.json",
+      "city_count": 24
+    },
+    {
+      "id": 30,
+      "name": "Sulawesi Tenggara",
+      "file": "sulawesi-tenggara.json",
+      "city_count": 17
+    },
+    {
+      "id": 31,
+      "name": "Maluku",
+      "file": "maluku.json",
+      "city_count": 11
+    },
+    {
+      "id": 32,
+      "name": "Maluku Utara",
+      "file": "maluku-utara.json",
+      "city_count": 10
+    },
+    {
+      "id": 33,
+      "name": "Papua",
+      "file": "papua.json",
+      "city_count": 11
+    },
+    {
+      "id": 34,
+      "name": "Papua Barat",
+      "file": "papua-barat.json",
+      "city_count": 8
+    }
+  ]
+}
