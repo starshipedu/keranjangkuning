@@ -1,0 +1,160 @@
+{
+  "province_id": 6,
+  "province_name": "Sumatera Selatan",
+  "cities": [
+    {
+      "city_id": 601,
+      "city_name": "Palembang",
+      "type": "city",
+      "capital": "Palembang",
+      "postal_code": "30111",
+      "zone": "SUMSEL_PALEMBANG",
+      "is_active": true
+    },
+    {
+      "city_id": 602,
+      "city_name": "Prabumulih",
+      "type": "city",
+      "capital": "Prabumulih",
+      "postal_code": "31111",
+      "zone": "SUMSEL_OGAN_ILIR",
+      "is_active": true
+    },
+    {
+      "city_id": 603,
+      "city_name": "Pagar Alam",
+      "type": "city",
+      "capital": "Pagar Alam",
+      "postal_code": "31511",
+      "zone": "SUMSEL_LAHAT",
+      "is_active": true
+    },
+    {
+      "city_id": 604,
+      "city_name": "Lubuklinggau",
+      "type": "city",
+      "capital": "Lubuklinggau",
+      "postal_code": "31611",
+      "zone": "SUMSEL_LUBUKLINGGAU",
+      "is_active": true
+    },
+
+    {
+      "city_id": 605,
+      "city_name": "Banyuasin",
+      "type": "regency",
+      "capital": "Pangkalan Balai",
+      "postal_code": "30911",
+      "zone": "SUMSEL_PALEMBANG",
+      "is_active": true
+    },
+    {
+      "city_id": 606,
+      "city_name": "Empat Lawang",
+      "type": "regency",
+      "capital": "Tebing Tinggi",
+      "postal_code": "31453",
+      "zone": "SUMSEL_LAHAT",
+      "is_active": true
+    },
+    {
+      "city_id": 607,
+      "city_name": "Lahat",
+      "type": "regency",
+      "capital": "Lahat",
+      "postal_code": "31411",
+      "zone": "SUMSEL_LAHAT",
+      "is_active": true
+    },
+    {
+      "city_id": 608,
+      "city_name": "Muara Enim",
+      "type": "regency",
+      "capital": "Muara Enim",
+      "postal_code": "31311",
+      "zone": "SUMSEL_MUARA_ENIM",
+      "is_active": true
+    },
+    {
+      "city_id": 609,
+      "city_name": "Musi Banyuasin",
+      "type": "regency",
+      "capital": "Sekayu",
+      "postal_code": "30711",
+      "zone": "SUMSEL_MUSI",
+      "is_active": true
+    },
+    {
+      "city_id": 610,
+      "city_name": "Musi Rawas",
+      "type": "regency",
+      "capital": "Muara Beliti",
+      "postal_code": "31661",
+      "zone": "SUMSEL_MUSI",
+      "is_active": true
+    },
+    {
+      "city_id": 611,
+      "city_name": "Musi Rawas Utara",
+      "type": "regency",
+      "capital": "Rupit",
+      "postal_code": "31654",
+      "zone": "SUMSEL_MUSI",
+      "is_active": true
+    },
+    {
+      "city_id": 612,
+      "city_name": "Ogan Ilir",
+      "type": "regency",
+      "capital": "Indralaya",
+      "postal_code": "30662",
+      "zone": "SUMSEL_OGAN_ILIR",
+      "is_active": true
+    },
+    {
+      "city_id": 613,
+      "city_name": "Ogan Komering Ilir",
+      "type": "regency",
+      "capital": "Kayuagung",
+      "postal_code": "30611",
+      "zone": "SUMSEL_PESISIR_TIMUR",
+      "is_active": true
+    },
+    {
+      "city_id": 614,
+      "city_name": "Ogan Komering Ulu",
+      "type": "regency",
+      "capital": "Baturaja",
+      "postal_code": "32111",
+      "zone": "SUMSEL_OKU",
+      "is_active": true
+    },
+    {
+      "city_id": 615,
+      "city_name": "Ogan Komering Ulu Selatan",
+      "type": "regency",
+      "capital": "Muaradua",
+      "postal_code": "32211",
+      "zone": "SUMSEL_OKU",
+      "is_active": true
+    },
+    {
+      "city_id": 616,
+      "city_name": "Ogan Komering Ulu Timur",
+      "type": "regency",
+      "capital": "Martapura",
+      "postal_code": "32381",
+      "zone": "SUMSEL_OKU",
+      "is_active": true
+    },
+    {
+      "city_id": 617,
+      "city_name": "Penukal Abab Lematang Ilir",
+      "type": "regency",
+      "capital": "Talang Ubi",
+      "postal_code": "31256",
+      "zone": "SUMSEL_MUARA_ENIM",
+      "is_active": true
+    }
+  ]
+}
