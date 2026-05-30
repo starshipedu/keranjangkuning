@@ -1,0 +1,163 @@
+{
+"province_id": 12,
+"province_name": "Jawa Barat",
+"origin_zone": "JABODETABEK",
+"weight_unit": "1000",
+"weight_label": "1kg",
+"last_updated": "2026-05-30",
+"rates": [
+{
+"zone": "BANDUNG_KOTA",
+"rates": {
+  "jne": { "cost": 18000, "etd": "1-2 hari", "service": "REG" },
+  "tiki": { "cost": 17000, "etd": "1-2 hari", "service": "ECO" },
+  "pos": { "cost": 16000, "etd": "2-3 hari", "service": "POS Reguler" },
+  "sicepat": { "cost": 17000, "etd": "1-2 hari", "service": "REG" },
+  "jnt": { "cost": 17000, "etd": "1-2 hari", "service": "EZ" },
+  "sap": { "cost": 16000, "etd": "2-3 hari", "service": "REG" },
+  "ninja": { "cost": 17000, "etd": "2-3 hari", "service": "Express" },
+  "lion": { "cost": 18000, "etd": "2-4 hari", "service": "Reguler" },
+  "ide": { "cost": 17000, "etd": "1-2 hari", "service": "REG" },
+  "anteraja": { "cost": 19000, "etd": "1-2 hari", "service": "Reguler" }
+}
+},
+{
+  "zone": "BANDUNG_KAB",
+  "rates": {
+    "jne": { "cost": 19000, "etd": "1-2 hari", "service": "REG" },
+    "tiki": { "cost": 18000, "etd": "1-2 hari", "service": "ECO" },
+    "pos": { "cost": 17000, "etd": "2-3 hari", "service": "POS Reguler" },
+    "sicepat": { "cost": 18000, "etd": "1-2 hari", "service": "REG" },
+    "jnt": { "cost": 18000, "etd": "1-2 hari", "service": "EZ" },
+    "sap": { "cost": 17000, "etd": "2-3 hari", "service": "REG" },
+    "ninja": { "cost": 18000, "etd": "2-3 hari", "service": "Express" },
+    "lion": { "cost": 19000, "etd": "2-4 hari", "service": "Reguler" },
+    "ide": { "cost": 18000, "etd": "1-2 hari", "service": "REG" },
+    "anteraja": { "cost": 20000, "etd": "1-2 hari", "service": "Reguler" }
+  }
+},
+{
+  "zone": "BANDUNG_BARAT",
+  "rates": {
+    "jne": { "cost": 20000, "etd": "1-2 hari", "service": "REG" },
+    "tiki": { "cost": 19000, "etd": "1-2 hari", "service": "ECO" },
+    "pos": { "cost": 18000, "etd": "2-3 hari", "service": "POS Reguler" },
+    "sicepat": { "cost": 19000, "etd": "1-2 hari", "service": "REG" },
+    "jnt": { "cost": 19000, "etd": "1-2 hari", "service": "EZ" },
+    "sap": { "cost": 18000, "etd": "2-3 hari", "service": "REG" },
+    "ninja": { "cost": 19000, "etd": "2-3 hari", "service": "Express" },
+    "lion": { "cost": 20000, "etd": "2-4 hari", "service": "Reguler" },
+    "ide": { "cost": 19000, "etd": "1-2 hari", "service": "REG" },
+    "anteraja": { "cost": 21000, "etd": "1-2 hari", "service": "Reguler" }
+  }
+},
+{
+  "zone": "CIMAHI",
+  "rates": {
+    "jne": { "cost": 18000, "etd": "1-2 hari", "service": "REG" },
+    "tiki": { "cost": 17000, "etd": "1-2 hari", "service": "ECO" },
+    "pos": { "cost": 16000, "etd": "2-3 hari", "service": "POS Reguler" },
+    "sicepat": { "cost": 17000, "etd": "1-2 hari", "service": "REG" },
+    "jnt": { "cost": 17000, "etd": "1-2 hari", "service": "EZ" },
+    "sap": { "cost": 16000, "etd": "2-3 hari", "service": "REG" },
+    "ninja": { "cost": 17000, "etd": "2-3 hari", "service": "Express" },
+    "lion": { "cost": 18000, "etd": "2-4 hari", "service": "Reguler" },
+    "ide": { "cost": 17000, "etd": "1-2 hari", "service": "REG" },
+    "anteraja": { "cost": 19000, "etd": "1-2 hari", "service": "Reguler" }
+  }
+},
+{
+  "zone": "BOGOR_RAYA",
+  "rates": {
+    "jne": { "cost": 12000, "etd": "1 hari", "service": "REG" },
+    "tiki": { "cost": 11000, "etd": "1-2 hari", "service": "ECO" },
+    "pos": { "cost": 10000, "etd": "1-3 hari", "service": "POS Reguler" },
+    "sicepat": { "cost": 11000, "etd": "1 hari", "service": "REG" },
+    "jnt": { "cost": 11000, "etd": "1 hari", "service": "EZ" },
+    "sap": { "cost": 10000, "etd": "1-2 hari", "service": "REG" },
+    "ninja": { "cost": 11000, "etd": "1-2 hari", "service": "Express" },
+    "lion": { "cost": 12000, "etd": "2-3 hari", "service": "Reguler" },
+    "ide": { "cost": 11000, "etd": "1 hari", "service": "REG" },
+    "anteraja": { "cost": 13000, "etd": "1 hari", "service": "Reguler" }
+  }
+},
+{
+"zone": "DEPOK",
+"rates": {
+  "jne": { "cost": 12000, "etd": "1 hari", "service": "REG" },
+  "tiki": { "cost": 11000, "etd": "1-2 hari", "service": "ECO" },
+  "pos": { "cost": 10000, "etd": "1-3 hari", "service": "POS Reguler" },
+  "sicepat": { "cost": 11000, "etd": "1 hari", "service": "REG" },
+  "jnt": { "cost": 11000, "etd": "1 hari", "service": "EZ" },
+  "sap": { "cost": 10000, "etd": "1-2 hari", "service": "REG" },
+  "ninja": { "cost": 11000, "etd": "1-2 hari", "service": "Express" },
+  "lion": { "cost": 12000, "etd": "2-3 hari", "service": "Reguler" },
+  "ide": { "cost": 11000, "etd": "1 hari", "service": "REG" },
+  "anteraja": { "cost": 13000, "etd": "1 hari", "service": "Reguler" }
+  }
+},
+{
+"zone": "BEKASI_RAYA",
+"rates": {
+  "jne": { "cost": 11000, "etd": "1 hari", "service": "REG"},
+  "tiki": { "cost": 10000, "etd": "1-2 hari", "service": "ECO"},
+  "pos": { "cost": 9000, "etd": "1-3 hari", "service": "POS Reguler"},
+  "sicepat": { "cost": 10000, "etd": "1 hari", "service": "REG"},
+  "jnt": { "cost": 10000, "etd": "1 hari", "service": "EZ"},
+  "sap": { "cost": 9000, "etd": "1-2 hari", "service": "REG"},
+  "ninja": { "cost": 10000, "etd": "1-2 hari", "service": "Express"},
+  "lion": { "cost": 11000, "etd": "2-3 hari", "service": "Reguler"},
+  "ide": { "cost": 10000, "etd": "1 hari", "service": "REG"},
+  "anteraja": { "cost": 12000, "etd": "1 hari", "service": "Reguler"}
+  }
+},
+{
+"zone": "KARAWANG_PURWAKARTA",
+"rates": {
+  "jne": { "cost": 15000, "etd": "1-2 hari", "service": "REG" },
+  "tiki": { "cost": 14000, "etd": "1-2 hari", "service": "ECO" },
+  "pos": { "cost": 13000, "etd": "2-3 hari", "service": "POS Reguler" },
+  "sicepat": { "cost": 14000, "etd": "1-2 hari", "service": "REG" },
+  "jnt": { "cost": 14000, "etd": "1-2 hari", "service": "EZ" },
+  "sap": { "cost": 13000, "etd": "2-3 hari", "service": "REG" },
+  "ninja": { "cost": 14000, "etd": "2-3 hari", "service": "Express" },
+  "lion": { "cost": 15000, "etd": "2-4 hari", "service": "Reguler" },
+  "ide": { "cost": 14000, "etd": "1-2 hari", "service": "REG" },
+  "anteraja": { "cost": 16000, "etd": "1-2 hari", "service": "Reguler" }
+  }
+},
+{
+"zone": "SUBANG",
+"rates": {
+  "jne": { "cost": 17000, "etd": "1-2 hari", "service": "REG" },
+  "tiki": { "cost": 16000, "etd": "1-2 hari", "service": "ECO" },
+  "pos": { "cost": 15000, "etd": "2-3 hari", "service": "POS Reguler" },
+  "sicepat": { "cost": 16000, "etd": "1-2 hari", "service": "REG" },
+  "jnt": { "cost": 16000, "etd": "1-2 hari", "service": "EZ" },
+  "sap": { "cost": 15000, "etd": "2-3 hari", "service": "REG" },
+  "ninja": { "cost": 16000, "etd": "2-3 hari", "service": "Express" },
+  "lion": { "cost": 17000, "etd": "2-4 hari", "service": "Reguler" },
+  "ide": { "cost": 16000, "etd": "1-2 hari", "service": "REG" },
+  "anteraja": { "cost": 18000, "etd": "1-2 hari", "service": "Reguler" }
+  }
+},
+
+{
+"zone": "CIREBON_RAYA",
+"rates": {
+  "jne": { "cost": 20000, "etd": "1-2 hari", "service": "REG" },
+  "tiki": { "cost": 19000, "etd": "2-3 hari", "service": "ECO" },
+  "pos": { "cost": 18000, "etd": "2-4 hari", "service": "POS Reguler" },
+  "sicepat": { "cost": 19000, "etd": "1-2 hari", "service": "REG" },
+  "jnt": { "cost": 19000, "etd": "1-2 hari", "service": "EZ" },
+  "sap": { "cost": 18000, "etd": "2-4 hari", "service": "REG" },
+  "ninja": { "cost": 19000, "etd": "2-4 hari", "service": "Express" },
+  "lion": { "cost": 21000, "etd": "3-5 hari", "service": "Reguler" },
+  "ide": { "cost": 19000, "etd": "2-3 hari", "service": "REG" },
+  "anteraja": { "cost": 22000, "etd": "2-3 hari", "service": "Reguler" }
+  }
+}
+
+
+]
+}
