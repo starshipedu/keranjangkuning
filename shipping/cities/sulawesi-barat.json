@@ -1,0 +1,50 @@
+{
+  "province_id": 28,
+  "province_name": "Sulawesi Barat",
+  "capital": "Mamuju",
+  "last_updated": "2026-05-30",
+  "cities": [
+    {
+      "city_id": 2801,
+      "city_name": "Kabupaten Mamuju",
+      "postal_code": "91511",
+      "zone_id": 335,
+      "zone_name": "MAMUJU"
+    },
+    {
+      "city_id": 2802,
+      "city_name": "Kabupaten Majene",
+      "postal_code": "91411",
+      "zone_id": 336,
+      "zone_name": "MAJENE"
+    },
+    {
+      "city_id": 2803,
+      "city_name": "Kabupaten Polewali Mandar",
+      "postal_code": "91311",
+      "zone_id": 337,
+      "zone_name": "POLEWALI_MANDAR"
+    },
+    {
+      "city_id": 2804,
+      "city_name": "Kabupaten Mamasa",
+      "postal_code": "91362",
+      "zone_id": 338,
+      "zone_name": "MAMASA"
+    },
+    {
+      "city_id": 2805,
+      "city_name": "Kabupaten Pasangkayu",
+      "postal_code": "91571",
+      "zone_id": 339,
+      "zone_name": "PASANGKAYU"
+    },
+    {
+      "city_id": 2806,
+      "city_name": "Kabupaten Mamuju Tengah",
+      "postal_code": "91563",
+      "zone_id": 340,
+      "zone_name": "MAMUJU_TENGAH"
+    }
+  ]
+}
