@@ -1,0 +1,32 @@
+{
+  "province_id": 29,
+  "province_name": "Sulawesi Selatan",
+  "capital": "Makassar",
+  "slug": "sulawesi-selatan",
+  "cities": [
+    {"city_id":2901,"city_name":"Makassar","postal_code":"90111","zone_id":341},
+    {"city_id":2902,"city_name":"Maros","postal_code":"90511","zone_id":343},
+    {"city_id":2903,"city_name":"Pangkajene dan Kepulauan","postal_code":"90611","zone_id":343},
+    {"city_id":2904,"city_name":"Barru","postal_code":"90711","zone_id":344},
+    {"city_id":2905,"city_name":"Parepare","postal_code":"91111","zone_id":344},
+    {"city_id":2906,"city_name":"Pinrang","postal_code":"91211","zone_id":345},
+    {"city_id":2907,"city_name":"Sidenreng Rappang","postal_code":"91611","zone_id":346},
+    {"city_id":2908,"city_name":"Enrekang","postal_code":"91711","zone_id":346},
+    {"city_id":2909,"city_name":"Tana Toraja","postal_code":"91811","zone_id":347},
+    {"city_id":2910,"city_name":"Toraja Utara","postal_code":"91831","zone_id":347},
+    {"city_id":2911,"city_name":"Luwu","postal_code":"91994","zone_id":348},
+    {"city_id":2912,"city_name":"Luwu Utara","postal_code":"92911","zone_id":348},
+    {"city_id":2913,"city_name":"Luwu Timur","postal_code":"92981","zone_id":348},
+    {"city_id":2914,"city_name":"Palopo","postal_code":"91911","zone_id":349},
+    {"city_id":2915,"city_name":"Bone","postal_code":"92711","zone_id":350},
+    {"city_id":2916,"city_name":"Soppeng","postal_code":"90812","zone_id":351},
+    {"city_id":2917,"city_name":"Wajo","postal_code":"90911","zone_id":351},
+    {"city_id":2918,"city_name":"Sinjai","postal_code":"92611","zone_id":352},
+    {"city_id":2919,"city_name":"Bulukumba","postal_code":"92511","zone_id":352},
+    {"city_id":2920,"city_name":"Bantaeng","postal_code":"92411","zone_id":353},
+    {"city_id":2921,"city_name":"Jeneponto","postal_code":"92311","zone_id":353},
+    {"city_id":2922,"city_name":"Takalar","postal_code":"92211","zone_id":354},
+    {"city_id":2923,"city_name":"Gowa","postal_code":"92111","zone_id":354},
+    {"city_id":2924,"city_name":"Kepulauan Selayar","postal_code":"92812","zone_id":353}
+  ]
+}
