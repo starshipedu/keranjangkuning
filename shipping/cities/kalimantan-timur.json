@@ -1,0 +1,78 @@
+{
+  "province_id": 23,
+  "province_name": "Kalimantan Timur",
+  "capital": "Samarinda",
+  "last_updated": "2026-05-30",
+  "cities": [
+    {
+      "city_id": 2301,
+      "city_name": "Kota Samarinda",
+      "postal_code": "75111",
+      "zone_id": 286,
+      "zone_name": "SAMARINDA"
+    },
+    {
+      "city_id": 2302,
+      "city_name": "Kota Balikpapan",
+      "postal_code": "76111",
+      "zone_id": 287,
+      "zone_name": "BALIKPAPAN"
+    },
+    {
+      "city_id": 2303,
+      "city_name": "Kota Bontang",
+      "postal_code": "75311",
+      "zone_id": 288,
+      "zone_name": "BONTANG"
+    },
+    {
+      "city_id": 2304,
+      "city_name": "Kabupaten Kutai Kartanegara",
+      "postal_code": "75511",
+      "zone_id": 289,
+      "zone_name": "KUTAI_KARTANEGARA"
+    },
+    {
+      "city_id": 2305,
+      "city_name": "Kabupaten Kutai Timur",
+      "postal_code": "75611",
+      "zone_id": 290,
+      "zone_name": "KUTAI_TIMUR"
+    },
+    {
+      "city_id": 2306,
+      "city_name": "Kabupaten Kutai Barat",
+      "postal_code": "75711",
+      "zone_id": 291,
+      "zone_name": "KUTAI_BARAT"
+    },
+    {
+      "city_id": 2307,
+      "city_name": "Kabupaten Berau",
+      "postal_code": "77311",
+      "zone_id": 292,
+      "zone_name": "BERAU"
+    },
+    {
+      "city_id": 2308,
+      "city_name": "Kabupaten Paser",
+      "postal_code": "76211",
+      "zone_id": 293,
+      "zone_name": "PASER"
+    },
+    {
+      "city_id": 2309,
+      "city_name": "Kabupaten Penajam Paser Utara",
+      "postal_code": "76143",
+      "zone_id": 294,
+      "zone_name": "PENAJAM_PASER_UTARA"
+    },
+    {
+      "city_id": 2310,
+      "city_name": "Kabupaten Mahakam Ulu",
+      "postal_code": "75775",
+      "zone_id": 295,
+      "zone_name": "MAHAKAM_ULU"
+    }
+  ]
+}
