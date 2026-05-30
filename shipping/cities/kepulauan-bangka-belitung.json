@@ -1,0 +1,69 @@
+{
+  "province_id": 9,
+  "province_name": "Kepulauan Bangka Belitung",
+  "cities": [
+    {
+      "city_id": 901,
+      "city_name": "Pangkal Pinang",
+      "type": "city",
+      "capital": "Pangkal Pinang",
+      "postal_code": "33111",
+      "zone": "BANGKA",
+      "is_active": true
+    },
+    {
+      "city_id": 902,
+      "city_name": "Bangka",
+      "type": "regency",
+      "capital": "Sungailiat",
+      "postal_code": "33211",
+      "zone": "BANGKA",
+      "is_active": true
+    },
+    {
+      "city_id": 903,
+      "city_name": "Bangka Barat",
+      "type": "regency",
+      "capital": "Mentok",
+      "postal_code": "33311",
+      "zone": "BANGKA",
+      "is_active": true
+    },
+    {
+      "city_id": 904,
+      "city_name": "Bangka Tengah",
+      "type": "regency",
+      "capital": "Koba",
+      "postal_code": "33681",
+      "zone": "BANGKA",
+      "is_active": true
+    },
+    {
+      "city_id": 905,
+      "city_name": "Bangka Selatan",
+      "type": "regency",
+      "capital": "Toboali",
+      "postal_code": "33783",
+      "zone": "BANGKA",
+      "is_active": true
+    },
+    {
+      "city_id": 906,
+      "city_name": "Belitung",
+      "type": "regency",
+      "capital": "Tanjung Pandan",
+      "postal_code": "33411",
+      "zone": "BELITUNG",
+      "is_active": true
+    },
+    {
+      "city_id": 907,
+      "city_name": "Belitung Timur",
+      "type": "regency",
+      "capital": "Manggar",
+      "postal_code": "33511",
+      "zone": "BELITUNG",
+      "is_active": true
+    }
+  ]
+}
