@@ -1,0 +1,249 @@
+{
+  "province_id": 12,
+  "province_name": "Jawa Barat",
+  "cities": [
+    {
+      "city_id": 1201,
+      "city_name": "Bandung",
+      "type": "city",
+      "capital": "Bandung",
+      "postal_code": "40111",
+      "zone": "BANDUNG_KOTA",
+      "is_active": true
+    },
+    {
+      "city_id": 1202,
+      "city_name": "Kabupaten Bandung",
+      "type": "regency",
+      "capital": "Soreang",
+      "postal_code": "40911",
+      "zone": "BANDUNG_KAB",
+      "is_active": true
+    },
+    {
+      "city_id": 1203,
+      "city_name": "Bandung Barat",
+      "type": "regency",
+      "capital": "Ngamprah",
+      "postal_code": "40552",
+      "zone": "BANDUNG_BARAT",
+      "is_active": true
+    },
+    {
+      "city_id": 1204,
+      "city_name": "Cimahi",
+      "type": "city",
+      "capital": "Cimahi",
+      "postal_code": "40511",
+      "zone": "CIMAHI",
+      "is_active": true
+    },
+    {
+      "city_id": 1205,
+      "city_name": "Bogor",
+      "type": "city",
+      "capital": "Bogor",
+      "postal_code": "16111",
+      "zone": "BOGOR_RAYA",
+      "is_active": true
+    },
+    {
+      "city_id": 1206,
+      "city_name": "Kabupaten Bogor",
+      "type": "regency",
+      "capital": "Cibinong",
+      "postal_code": "16911",
+      "zone": "BOGOR_RAYA",
+      "is_active": true
+    },
+    {
+      "city_id": 1207,
+      "city_name": "Depok",
+      "type": "city",
+      "capital": "Depok",
+      "postal_code": "16411",
+      "zone": "DEPOK",
+      "is_active": true
+    },
+    {
+      "city_id": 1208,
+      "city_name": "Bekasi",
+      "type": "city",
+      "capital": "Bekasi",
+      "postal_code": "17111",
+      "zone": "BEKASI_RAYA",
+      "is_active": true
+    },
+    {
+      "city_id": 1209,
+      "city_name": "Kabupaten Bekasi",
+      "type": "regency",
+      "capital": "Cikarang",
+      "postal_code": "17511",
+      "zone": "BEKASI_RAYA",
+      "is_active": true
+    },
+    {
+      "city_id": 1210,
+      "city_name": "Karawang",
+      "type": "regency",
+      "capital": "Karawang",
+      "postal_code": "41311",
+      "zone": "KARAWANG_PURWAKARTA",
+      "is_active": true
+    },
+    {
+      "city_id": 1211,
+      "city_name": "Purwakarta",
+      "type": "regency",
+      "capital": "Purwakarta",
+      "postal_code": "41111",
+      "zone": "KARAWANG_PURWAKARTA",
+      "is_active": true
+    },
+    {
+      "city_id": 1212,
+      "city_name": "Subang",
+      "type": "regency",
+      "capital": "Subang",
+      "postal_code": "41211",
+      "zone": "SUBANG",
+      "is_active": true
+    },
+    {
+      "city_id": 1213,
+      "city_name": "Cirebon",
+      "type": "city",
+      "capital": "Cirebon",
+      "postal_code": "45111",
+      "zone": "CIREBON_RAYA",
+      "is_active": true
+    },
+    {
+      "city_id": 1214,
+      "city_name": "Kabupaten Cirebon",
+      "type": "regency",
+      "capital": "Sumber",
+      "postal_code": "45611",
+      "zone": "CIREBON_RAYA",
+      "is_active": true
+    },
+    {
+      "city_id": 1215,
+      "city_name": "Indramayu",
+      "type": "regency",
+      "capital": "Indramayu",
+      "postal_code": "45211",
+      "zone": "INDRAMAYU",
+      "is_active": true
+    },
+    {
+      "city_id": 1216,
+      "city_name": "Majalengka",
+      "type": "regency",
+      "capital": "Majalengka",
+      "postal_code": "45411",
+      "zone": "MAJALENGKA",
+      "is_active": true
+    },
+    {
+      "city_id": 1217,
+      "city_name": "Kuningan",
+      "type": "regency",
+      "capital": "Kuningan",
+      "postal_code": "45511",
+      "zone": "KUNINGAN",
+      "is_active": true
+    },
+    {
+      "city_id": 1218,
+      "city_name": "Sumedang",
+      "type": "regency",
+      "capital": "Sumedang",
+      "postal_code": "45311",
+      "zone": "SUMEDANG",
+      "is_active": true
+    },
+    {
+      "city_id": 1219,
+      "city_name": "Garut",
+      "type": "regency",
+      "capital": "Garut",
+      "postal_code": "44111",
+      "zone": "GARUT",
+      "is_active": true
+    },
+    {
+      "city_id": 1220,
+      "city_name": "Tasikmalaya",
+      "type": "city",
+      "capital": "Tasikmalaya",
+      "postal_code": "46111",
+      "zone": "TASIKMALAYA_RAYA",
+      "is_active": true
+    },
+    {
+      "city_id": 1221,
+      "city_name": "Kabupaten Tasikmalaya",
+      "type": "regency",
+      "capital": "Singaparna",
+      "postal_code": "46411",
+      "zone": "TASIKMALAYA_RAYA",
+      "is_active": true
+    },
+    {
+      "city_id": 1222,
+      "city_name": "Ciamis",
+      "type": "regency",
+      "capital": "Ciamis",
+      "postal_code": "46211",
+      "zone": "CIAMIS",
+      "is_active": true
+    },
+    {
+      "city_id": 1223,
+      "city_name": "Banjar",
+      "type": "city",
+      "capital": "Banjar",
+      "postal_code": "46311",
+      "zone": "CIAMIS",
+      "is_active": true
+    },
+    {
+      "city_id": 1224,
+      "city_name": "Pangandaran",
+      "type": "regency",
+      "capital": "Parigi",
+      "postal_code": "46396",
+      "zone": "PANGANDARAN",
+      "is_active": true
+    },
+    {
+      "city_id": 1225,
+      "city_name": "Sukabumi",
+      "type": "city",
+      "capital": "Sukabumi",
+      "postal_code": "43111",
+      "zone": "SUKABUMI_RAYA",
+      "is_active": true
+    },
+    {
+      "city_id": 1226,
+      "city_name": "Kabupaten Sukabumi",
+      "type": "regency",
+      "capital": "Palabuhanratu",
+      "postal_code": "43364",
+      "zone": "SUKABUMI_RAYA",
+      "is_active": true
+    },
+    {
+      "city_id": 1227,
+      "city_name": "Cianjur",
+      "type": "regency",
+      "capital": "Cianjur",
+      "postal_code": "43211",
+      "zone": "CIANJUR",
+      "is_active": true
+    }
+  ]
+}
