@@ -399,5 +399,87 @@
   "zone_name": "SIMALUNGUN",
   "island": "SUMATERA",
   "priority": 3
+},
+
+
+  
+{
+  "zone_id": 66,
+  "zone_name": "PADANG_RAYA",
+  "island": "SUMATERA",
+  "priority": 2
+},
+{
+  "zone_id": 67,
+  "zone_name": "AGAM_BUKITTINGGI",
+  "island": "SUMATERA",
+  "priority": 2
+},
+{
+  "zone_id": 68,
+  "zone_name": "TANAH_DATAR",
+  "island": "SUMATERA",
+  "priority": 2
+},
+{
+  "zone_id": 69,
+  "zone_name": "PADANG_PARIAMAN",
+  "island": "SUMATERA",
+  "priority": 2
+},
+{
+  "zone_id": 70,
+  "zone_name": "LIMA_PULUH_KOTA",
+  "island": "SUMATERA",
+  "priority": 2
+},
+{
+  "zone_id": 71,
+  "zone_name": "SAWAHLUNTO_SIJUNJUNG",
+  "island": "SUMATERA",
+  "priority": 2
+},
+{
+  "zone_id": 72,
+  "zone_name": "SOLOK_RAYA",
+  "island": "SUMATERA",
+  "priority": 2
+},
+{
+  "zone_id": 73,
+  "zone_name": "DHARMASRAYA",
+  "island": "SUMATERA",
+  "priority": 3
+},
+{
+  "zone_id": 74,
+  "zone_name": "MENTAWAI",
+  "island": "SUMATERA",
+  "priority": 4
+},
+{
+  "zone_id": 75,
+  "zone_name": "PASAMAN",
+  "island": "SUMATERA",
+  "priority": 3
+},
+{
+  "zone_id": 76,
+  "zone_name": "PASAMAN_BARAT",
+  "island": "SUMATERA",
+  "priority": 3
+},
+{
+  "zone_id": 77,
+  "zone_name": "PESISIR_SELATAN",
+  "island": "SUMATERA",
+  "priority": 3
+},
+{
+  "zone_id": 78,
+  "zone_name": "SOLOK_SELATAN",
+  "island": "SUMATERA",
+  "priority": 3
 }
+  
 ]
