@@ -1,0 +1,91 @@
+{
+  "province_id": 24,
+  "province_name": "Kalimantan Utara",
+  "origin_zone": "JABODETABEK",
+  "weight_unit": "1000",
+  "weight_label": "1kg",
+  "last_updated": "2026-05-30",
+  "rates": [
+
+    {
+      "zone": "TANJUNG_SELOR",
+      "rates": {
+        "jne": { "cost": 52000, "etd": "4-6 hari", "service": "REG" },
+        "tiki": { "cost": 50000, "etd": "4-7 hari", "service": "ECO" },
+        "pos": { "cost": 47000, "etd": "4-7 hari", "service": "POS Reguler" },
+        "sicepat": { "cost": 50000, "etd": "4-6 hari", "service": "REG" },
+        "jnt": { "cost": 50000, "etd": "4-6 hari", "service": "EZ" },
+        "sap": { "cost": 48000, "etd": "4-7 hari", "service": "REG" },
+        "ninja": { "cost": 50000, "etd": "4-7 hari", "service": "Express" },
+        "lion": { "cost": 54000, "etd": "5-8 hari", "service": "Reguler" },
+        "ide": { "cost": 50000, "etd": "4-6 hari", "service": "REG" },
+        "anteraja": { "cost": 56000, "etd": "4-7 hari", "service": "Reguler" }
+      }
+    },
+
+    {
+      "zone": "TARAKAN",
+      "rates": {
+        "jne": { "cost": 50000, "etd": "4-6 hari", "service": "REG" },
+        "tiki": { "cost": 48000, "etd": "4-7 hari", "service": "ECO" },
+        "pos": { "cost": 45000, "etd": "4-7 hari", "service": "POS Reguler" },
+        "sicepat": { "cost": 48000, "etd": "4-6 hari", "service": "REG" },
+        "jnt": { "cost": 48000, "etd": "4-6 hari", "service": "EZ" },
+        "sap": { "cost": 46000, "etd": "4-7 hari", "service": "REG" },
+        "ninja": { "cost": 48000, "etd": "4-7 hari", "service": "Express" },
+        "lion": { "cost": 52000, "etd": "5-8 hari", "service": "Reguler" },
+        "ide": { "cost": 48000, "etd": "4-6 hari", "service": "REG" },
+        "anteraja": { "cost": 54000, "etd": "4-7 hari", "service": "Reguler" }
+      }
+    },
+
+    {
+      "zone": "NUNUKAN",
+      "rates": {
+        "jne": { "cost": 62000, "etd": "5-8 hari", "service": "REG" },
+        "tiki": { "cost": 60000, "etd": "5-8 hari", "service": "ECO" },
+        "pos": { "cost": 57000, "etd": "5-9 hari", "service": "POS Reguler" },
+        "sicepat": { "cost": 60000, "etd": "5-8 hari", "service": "REG" },
+        "jnt": { "cost": 60000, "etd": "5-8 hari", "service": "EZ" },
+        "sap": { "cost": 58000, "etd": "5-9 hari", "service": "REG" },
+        "ninja": { "cost": 60000, "etd": "5-9 hari", "service": "Express" },
+        "lion": { "cost": 65000, "etd": "6-10 hari", "service": "Reguler" },
+        "ide": { "cost": 60000, "etd": "5-8 hari", "service": "REG" },
+        "anteraja": { "cost": 68000, "etd": "5-9 hari", "service": "Reguler" }
+      }
+    },
+
+    {
+      "zone": "MALINAU",
+      "rates": {
+        "jne": { "cost": 68000, "etd": "6-9 hari", "service": "REG" },
+        "tiki": { "cost": 65000, "etd": "6-10 hari", "service": "ECO" },
+        "pos": { "cost": 62000, "etd": "6-10 hari", "service": "POS Reguler" },
+        "sicepat": { "cost": 65000, "etd": "6-9 hari", "service": "REG" },
+        "jnt": { "cost": 65000, "etd": "6-9 hari", "service": "EZ" },
+        "sap": { "cost": 63000, "etd": "6-10 hari", "service": "REG" },
+        "ninja": { "cost": 65000, "etd": "6-10 hari", "service": "Express" },
+        "lion": { "cost": 72000, "etd": "7-11 hari", "service": "Reguler" },
+        "ide": { "cost": 65000, "etd": "6-9 hari", "service": "REG" },
+        "anteraja": { "cost": 75000, "etd": "6-10 hari", "service": "Reguler" }
+      }
+    },
+
+    {
+      "zone": "TANA_TIDUNG",
+      "rates": {
+        "jne": { "cost": 65000, "etd": "5-8 hari", "service": "REG" },
+        "tiki": { "cost": 62000, "etd": "5-9 hari", "service": "ECO" },
+        "pos": { "cost": 59000, "etd": "5-9 hari", "service": "POS Reguler" },
+        "sicepat": { "cost": 62000, "etd": "5-8 hari", "service": "REG" },
+        "jnt": { "cost": 62000, "etd": "5-8 hari", "service": "EZ" },
+        "sap": { "cost": 60000, "etd": "5-9 hari", "service": "REG" },
+        "ninja": { "cost": 62000, "etd": "5-9 hari", "service": "Express" },
+        "lion": { "cost": 68000, "etd": "6-10 hari", "service": "Reguler" },
+        "ide": { "cost": 62000, "etd": "5-8 hari", "service": "REG" },
+        "anteraja": { "cost": 70000, "etd": "5-9 hari", "service": "Reguler" }
+      }
+    }
+
+  ]
+}
