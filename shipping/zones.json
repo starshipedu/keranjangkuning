@@ -270,7 +270,20 @@
   {"zone_id":269,"zone_name":"LAMANDAU","island":"KALIMANTAN","priority":4},
   {"zone_id":270,"zone_name":"PULANG_PISAU","island":"KALIMANTAN","priority":4},
   {"zone_id":271,"zone_name":"GUNUNG_MAS","island":"KALIMANTAN","priority":4},
-  {"zone_id":272,"zone_name":"MURUNG_RAYA","island":"KALIMANTAN","priority":5}
+  {"zone_id":272,"zone_name":"MURUNG_RAYA","island":"KALIMANTAN","priority":5},
+  {"zone_id":273,"zone_name":"BANJARMASIN_RAYA","island":"KALIMANTAN","priority":3},
+  {"zone_id":274,"zone_name":"BANJARBARU","island":"KALIMANTAN","priority":3},
+  {"zone_id":275,"zone_name":"BANJAR","island":"KALIMANTAN","priority":3},
+  {"zone_id":276,"zone_name":"BARITO_KUALA","island":"KALIMANTAN","priority":3},
+  {"zone_id":277,"zone_name":"TANAH_LAUT","island":"KALIMANTAN","priority":3},
+  {"zone_id":278,"zone_name":"TAPIN","island":"KALIMANTAN","priority":3},
+  {"zone_id":279,"zone_name":"HULU_SUNGAI_SELATAN","island":"KALIMANTAN","priority":3},
+  {"zone_id":280,"zone_name":"HULU_SUNGAI_TENGAH","island":"KALIMANTAN","priority":3},
+  {"zone_id":281,"zone_name":"HULU_SUNGAI_UTARA","island":"KALIMANTAN","priority":3},
+  {"zone_id":282,"zone_name":"BALANGAN","island":"KALIMANTAN","priority":4},
+  {"zone_id":283,"zone_name":"TABALONG","island":"KALIMANTAN","priority":4},
+  {"zone_id":284,"zone_name":"TANAH_BUMBU","island":"KALIMANTAN","priority":4},
+  {"zone_id":285,"zone_name":"KOTABARU","island":"KALIMANTAN","priority":4}
 
 
 ]
