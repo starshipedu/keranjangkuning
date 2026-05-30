@@ -205,7 +205,17 @@
   {"zone_id":204,"zone_name":"SERANG_KAB","island":"JAWA","priority":1},
   {"zone_id":205,"zone_name":"CILEGON","island":"JAWA","priority":1},
   {"zone_id":206,"zone_name":"PANDEGLANG","island":"JAWA","priority":2},
-  {"zone_id":207,"zone_name":"LEBAK","island":"JAWA","priority":2}
+  {"zone_id":207,"zone_name":"LEBAK","island":"JAWA","priority":2},
+  {"zone_id":208,"zone_name":"DENPASAR","island":"BALI_NUSRA","priority":2},
+  {"zone_id":209,"zone_name":"BADUNG","island":"BALI_NUSRA","priority":2},
+  {"zone_id":210,"zone_name":"GIANYAR","island":"BALI_NUSRA","priority":2},
+  {"zone_id":211,"zone_name":"TABANAN","island":"BALI_NUSRA","priority":2},
+  {"zone_id":212,"zone_name":"BANGLI","island":"BALI_NUSRA","priority":2},
+  {"zone_id":213,"zone_name":"KLUNGKUNG","island":"BALI_NUSRA","priority":2},
+  {"zone_id":214,"zone_name":"KARANGASEM","island":"BALI_NUSRA","priority":3},
+  {"zone_id":215,"zone_name":"BULELENG","island":"BALI_NUSRA","priority":3},
+  {"zone_id":216,"zone_name":"JEMBRANA","island":"BALI_NUSRA","priority":3},
+  {"zone_id":217,"zone_name":"NUSA_PENIDA","island":"BALI_NUSRA","priority":4}
 
 
 ]
