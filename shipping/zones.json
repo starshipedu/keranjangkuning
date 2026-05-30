@@ -524,6 +524,25 @@
   "zone_name": "KEPULAUAN_MERANTI",
   "island": "SUMATERA",
   "priority": 4
+},
+
+  {
+  "zone_id": 86,
+  "zone_name": "JAMBI_KOTA",
+  "island": "SUMATERA",
+  "priority": 2
+},
+{
+  "zone_id": 87,
+  "zone_name": "JAMBI_BARAT",
+  "island": "SUMATERA",
+  "priority": 2
+},
+{
+  "zone_id": 88,
+  "zone_name": "JAMBI_TIMUR",
+  "island": "SUMATERA",
+  "priority": 2
 }
   
 ]
