@@ -1,0 +1,134 @@
+[
+  {
+    "city_id":1901,
+    "city_name":"Kota Kupang",
+    "postal_code":"85111",
+    "zone_id":228
+  },
+  {
+    "city_id":1902,
+    "city_name":"Kabupaten Kupang",
+    "postal_code":"85361",
+    "zone_id":228
+  },
+  {
+    "city_id":1903,
+    "city_name":"Timor Tengah Selatan",
+    "postal_code":"85511",
+    "zone_id":229
+  },
+  {
+    "city_id":1904,
+    "city_name":"Timor Tengah Utara",
+    "postal_code":"85611",
+    "zone_id":229
+  },
+  {
+    "city_id":1905,
+    "city_name":"Belu",
+    "postal_code":"85711",
+    "zone_id":230
+  },
+  {
+    "city_id":1906,
+    "city_name":"Malaka",
+    "postal_code":"85771",
+    "zone_id":230
+  },
+  {
+    "city_id":1907,
+    "city_name":"Alor",
+    "postal_code":"85811",
+    "zone_id":231
+  },
+  {
+    "city_id":1908,
+    "city_name":"Lembata",
+    "postal_code":"86611",
+    "zone_id":232
+  },
+  {
+    "city_id":1909,
+    "city_name":"Flores Timur",
+    "postal_code":"86211",
+    "zone_id":233
+  },
+  {
+    "city_id":1910,
+    "city_name":"Sikka",
+    "postal_code":"86111",
+    "zone_id":234
+  },
+  {
+    "city_id":1911,
+    "city_name":"Ende",
+    "postal_code":"86311",
+    "zone_id":235
+  },
+  {
+    "city_id":1912,
+    "city_name":"Ngada",
+    "postal_code":"86411",
+    "zone_id":236
+  },
+  {
+    "city_id":1913,
+    "city_name":"Nagekeo",
+    "postal_code":"86911",
+    "zone_id":237
+  },
+  {
+    "city_id":1914,
+    "city_name":"Manggarai",
+    "postal_code":"86511",
+    "zone_id":238
+  },
+  {
+    "city_id":1915,
+    "city_name":"Manggarai Timur",
+    "postal_code":"86571",
+    "zone_id":239
+  },
+  {
+    "city_id":1916,
+    "city_name":"Manggarai Barat",
+    "postal_code":"86711",
+    "zone_id":240
+  },
+  {
+    "city_id":1917,
+    "city_name":"Sumba Timur",
+    "postal_code":"87111",
+    "zone_id":241
+  },
+  {
+    "city_id":1918,
+    "city_name":"Sumba Tengah",
+    "postal_code":"87211",
+    "zone_id":242
+  },
+  {
+    "city_id":1919,
+    "city_name":"Sumba Barat",
+    "postal_code":"87212",
+    "zone_id":243
+  },
+  {
+    "city_id":1920,
+    "city_name":"Sumba Barat Daya",
+    "postal_code":"87411",
+    "zone_id":244
+  },
+  {
+    "city_id":1921,
+    "city_name":"Rote Ndao",
+    "postal_code":"85982",
+    "zone_id":245
+  },
+  {
+    "city_id":1922,
+    "city_name":"Sabu Raijua",
+    "postal_code":"85391",
+    "zone_id":245
+  }
+]
