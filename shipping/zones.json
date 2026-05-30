@@ -543,6 +543,63 @@
   "zone_name": "JAMBI_TIMUR",
   "island": "SUMATERA",
   "priority": 2
+},
+
+
+  
+  {
+  "zone_id": 89,
+  "zone_name": "SUMSEL_PALEMBANG",
+  "island": "SUMATERA",
+  "priority": 2
+},
+{
+  "zone_id": 90,
+  "zone_name": "SUMSEL_MUSI",
+  "island": "SUMATERA",
+  "priority": 2
+},
+{
+  "zone_id": 91,
+  "zone_name": "SUMSEL_LAHAT",
+  "island": "SUMATERA",
+  "priority": 3
+},
+{
+  "zone_id": 92,
+  "zone_name": "SUMSEL_OKU",
+  "island": "SUMATERA",
+  "priority": 3
+},
+{
+  "zone_id": 93,
+  "zone_name": "SUMSEL_OGAN_ILIR",
+  "island": "SUMATERA",
+  "priority": 2
+},
+{
+  "zone_id": 94,
+  "zone_name": "SUMSEL_MUARA_ENIM",
+  "island": "SUMATERA",
+  "priority": 3
+},
+{
+  "zone_id": 95,
+  "zone_name": "SUMSEL_PESISIR_TIMUR",
+  "island": "SUMATERA",
+  "priority": 3
+},
+{
+  "zone_id": 96,
+  "zone_name": "SUMSEL_LUBUKLINGGAU",
+  "island": "SUMATERA",
+  "priority": 3
+},
+{
+  "zone_id": 97,
+  "zone_name": "SUMSEL_TERPENCIL",
+  "island": "SUMATERA",
+  "priority": 4
 }
   
 ]
