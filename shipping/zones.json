@@ -293,7 +293,12 @@
   {"zone_id":292,"zone_name":"BERAU","island":"KALIMANTAN","priority":4},
   {"zone_id":293,"zone_name":"PASER","island":"KALIMANTAN","priority":4},
   {"zone_id":294,"zone_name":"PENAJAM_PASER_UTARA","island":"KALIMANTAN","priority":4},
-  {"zone_id":295,"zone_name":"MAHAKAM_ULU","island":"KALIMANTAN","priority":5}
+  {"zone_id":295,"zone_name":"MAHAKAM_ULU","island":"KALIMANTAN","priority":5},
+  {"zone_id":296,"zone_name":"TANJUNG_SELOR","island":"KALIMANTAN","priority":3},
+  {"zone_id":297,"zone_name":"TARAKAN","island":"KALIMANTAN","priority":3},
+  {"zone_id":298,"zone_name":"NUNUKAN","island":"KALIMANTAN","priority":4},
+  {"zone_id":299,"zone_name":"MALINAU","island":"KALIMANTAN","priority":4},
+  {"zone_id":300,"zone_name":"TANA_TIDUNG","island":"KALIMANTAN","priority":4}
 
 
 ]
