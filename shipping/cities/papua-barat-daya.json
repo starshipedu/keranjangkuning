@@ -1,0 +1,44 @@
+{
+  "province_id": 38,
+  "province_name": "Papua Barat Daya",
+  "capital": "Sorong",
+  "last_updated": "2026-05-30",
+  "cities": [
+    {
+      "city_id": 3801,
+      "city_name": "Kabupaten Sorong",
+      "postal_code": "98415",
+      "zone_id": 422
+    },
+    {
+      "city_id": 3802,
+      "city_name": "Kabupaten Raja Ampat",
+      "postal_code": "98482",
+      "zone_id": 423
+    },
+    {
+      "city_id": 3803,
+      "city_name": "Kabupaten Tambrauw",
+      "postal_code": "98475",
+      "zone_id": 424
+    },
+    {
+      "city_id": 3804,
+      "city_name": "Kabupaten Maybrat",
+      "postal_code": "98454",
+      "zone_id": 425
+    },
+    {
+      "city_id": 3805,
+      "city_name": "Kabupaten Sorong Selatan",
+      "postal_code": "98454",
+      "zone_id": 426
+    },
+    {
+      "city_id": 3871,
+      "city_name": "Kota Sorong",
+      "postal_code": "98411",
+      "zone_id": 421
+    }
+  ]
+}
