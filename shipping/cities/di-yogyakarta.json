@@ -1,0 +1,42 @@
+{
+  "province_id": 14,
+  "province_name": "DI Yogyakarta",
+  "capital": "Yogyakarta",
+  "cities": [
+    {
+      "city_id": 1401,
+      "city_name": "Kota Yogyakarta",
+      "postal_code": "55111",
+      "zone_id": 170,
+      "zone_name": "KOTA_YOGYAKARTA"
+    },
+    {
+      "city_id": 1402,
+      "city_name": "Kabupaten Sleman",
+      "postal_code": "55511",
+      "zone_id": 171,
+      "zone_name": "SLEMAN"
+    },
+    {
+      "city_id": 1403,
+      "city_name": "Kabupaten Bantul",
+      "postal_code": "55711",
+      "zone_id": 172,
+      "zone_name": "BANTUL"
+    },
+    {
+      "city_id": 1404,
+      "city_name": "Kabupaten Kulon Progo",
+      "postal_code": "55611",
+      "zone_id": 173,
+      "zone_name": "KULON_PROGO"
+    },
+    {
+      "city_id": 1405,
+      "city_name": "Kabupaten Gunungkidul",
+      "postal_code": "55811",
+      "zone_id": 174,
+      "zone_name": "GUNUNGKIDUL"
+    }
+  ]
+}
