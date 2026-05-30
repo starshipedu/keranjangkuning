@@ -1,0 +1,68 @@
+{
+  "province_id": 34,
+  "province_name": "Papua Barat",
+  "capital": "Manokwari",
+  "last_updated": "2026-05-30",
+  "cities": [
+    {
+      "city_id": 3401,
+      "city_name": "Kabupaten Fakfak",
+      "postal_code": "98611",
+      "zone_id": 395
+    },
+    {
+      "city_id": 3402,
+      "city_name": "Kabupaten Kaimana",
+      "postal_code": "98671",
+      "zone_id": 396
+    },
+    {
+      "city_id": 3403,
+      "city_name": "Kabupaten Teluk Wondama",
+      "postal_code": "98362",
+      "zone_id": 398
+    },
+    {
+      "city_id": 3404,
+      "city_name": "Kabupaten Teluk Bintuni",
+      "postal_code": "98364",
+      "zone_id": 397
+    },
+    {
+      "city_id": 3405,
+      "city_name": "Kabupaten Manokwari",
+      "postal_code": "98311",
+      "zone_id": 391
+    },
+    {
+      "city_id": 3406,
+      "city_name": "Kabupaten Sorong Selatan",
+      "postal_code": "98454",
+      "zone_id": 393
+    },
+    {
+      "city_id": 3407,
+      "city_name": "Kabupaten Raja Ampat",
+      "postal_code": "98482",
+      "zone_id": 394
+    },
+    {
+      "city_id": 3408,
+      "city_name": "Kabupaten Pegunungan Arfak",
+      "postal_code": "98354",
+      "zone_id": 399
+    },
+    {
+      "city_id": 3409,
+      "city_name": "Kabupaten Manokwari Selatan",
+      "postal_code": "98355",
+      "zone_id": 400
+    },
+    {
+      "city_id": 3471,
+      "city_name": "Kota Sorong",
+      "postal_code": "98411",
+      "zone_id": 392
+    }
+  ]
+}
