@@ -600,6 +600,69 @@
   "zone_name": "SUMSEL_TERPENCIL",
   "island": "SUMATERA",
   "priority": 4
+},
+
+
+  {
+  "zone_id": 98,
+  "zone_name": "BENGKULU",
+  "island": "SUMATERA",
+  "priority": 2
+},
+{
+  "zone_id": 99,
+  "zone_name": "BENGKULU_SELATAN",
+  "island": "SUMATERA",
+  "priority": 3
+},
+{
+  "zone_id": 100,
+  "zone_name": "BENGKULU_TENGAH",
+  "island": "SUMATERA",
+  "priority": 2
+},
+{
+  "zone_id": 101,
+  "zone_name": "BENGKULU_UTARA",
+  "island": "SUMATERA",
+  "priority": 3
+},
+{
+  "zone_id": 102,
+  "zone_name": "KAUR",
+  "island": "SUMATERA",
+  "priority": 4
+},
+{
+  "zone_id": 103,
+  "zone_name": "KEPAHIANG",
+  "island": "SUMATERA",
+  "priority": 2
+},
+{
+  "zone_id": 104,
+  "zone_name": "LEBONG",
+  "island": "SUMATERA",
+  "priority": 4
+},
+{
+  "zone_id": 105,
+  "zone_name": "MUKOMUKO",
+  "island": "SUMATERA",
+  "priority": 4
+},
+{
+  "zone_id": 106,
+  "zone_name": "REJANG_LEBONG",
+  "island": "SUMATERA",
+  "priority": 2
+},
+{
+  "zone_id": 107,
+  "zone_name": "SELUMA",
+  "island": "SUMATERA",
+  "priority": 3
 }
+  
   
 ]
