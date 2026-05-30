@@ -1,0 +1,105 @@
+{
+  "province_id": 5,
+  "province_name": "Jambi",
+  "cities": [
+    {
+      "city_id": 501,
+      "city_name": "Kota Jambi",
+      "type": "city",
+      "capital": "Jambi",
+      "postal_code": "36111",
+      "zone": "JAMBI_KOTA",
+      "is_active": true
+    },
+    {
+      "city_id": 502,
+      "city_name": "Sungai Penuh",
+      "type": "city",
+      "capital": "Sungai Penuh",
+      "postal_code": "37111",
+      "zone": "JAMBI_BARAT",
+      "is_active": true
+    },
+    {
+      "city_id": 503,
+      "city_name": "Batanghari",
+      "type": "regency",
+      "capital": "Muara Bulian",
+      "postal_code": "36613",
+      "zone": "JAMBI_KOTA",
+      "is_active": true
+    },
+    {
+      "city_id": 504,
+      "city_name": "Bungo",
+      "type": "regency",
+      "capital": "Muara Bungo",
+      "postal_code": "37211",
+      "zone": "JAMBI_BARAT",
+      "is_active": true
+    },
+    {
+      "city_id": 505,
+      "city_name": "Kerinci",
+      "type": "regency",
+      "capital": "Siulak",
+      "postal_code": "37161",
+      "zone": "JAMBI_BARAT",
+      "is_active": true
+    },
+    {
+      "city_id": 506,
+      "city_name": "Merangin",
+      "type": "regency",
+      "capital": "Bangko",
+      "postal_code": "37311",
+      "zone": "JAMBI_BARAT",
+      "is_active": true
+    },
+    {
+      "city_id": 507,
+      "city_name": "Muaro Jambi",
+      "type": "regency",
+      "capital": "Sengeti",
+      "postal_code": "36381",
+      "zone": "JAMBI_KOTA",
+      "is_active": true
+    },
+    {
+      "city_id": 508,
+      "city_name": "Sarolangun",
+      "type": "regency",
+      "capital": "Sarolangun",
+      "postal_code": "37481",
+      "zone": "JAMBI_BARAT",
+      "is_active": true
+    },
+    {
+      "city_id": 509,
+      "city_name": "Tanjung Jabung Barat",
+      "type": "regency",
+      "capital": "Kuala Tungkal",
+      "postal_code": "36511",
+      "zone": "JAMBI_TIMUR",
+      "is_active": true
+    },
+    {
+      "city_id": 510,
+      "city_name": "Tanjung Jabung Timur",
+      "type": "regency",
+      "capital": "Muara Sabak",
+      "postal_code": "36711",
+      "zone": "JAMBI_TIMUR",
+      "is_active": true
+    },
+    {
+      "city_id": 511,
+      "city_name": "Tebo",
+      "type": "regency",
+      "capital": "Muara Tebo",
+      "postal_code": "37511",
+      "zone": "JAMBI_BARAT",
+      "is_active": true
+    }
+  ]
+}
