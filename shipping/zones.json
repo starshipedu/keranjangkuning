@@ -396,7 +396,17 @@
   {"zone_id":395,"zone_name":"YAPEN","island":"MALUKU_PAPUA","priority":5},
   {"zone_id":396,"zone_name":"WAROPEN","island":"MALUKU_PAPUA","priority":5},
   {"zone_id":397,"zone_name":"BIAK_NUMFOR","island":"MALUKU_PAPUA","priority":5},
-  {"zone_id":398,"zone_name":"SUPIORI","island":"MALUKU_PAPUA","priority":5}
+  {"zone_id":398,"zone_name":"SUPIORI","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":391,"zone_name":"MANOKWARI","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":392,"zone_name":"SORONG_KOTA","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":393,"zone_name":"SORONG_SELATAN","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":394,"zone_name":"RAJA_AMPAT","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":395,"zone_name":"FAKFAK","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":396,"zone_name":"KAIMANA","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":397,"zone_name":"TELUK_BINTUNI","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":398,"zone_name":"TELUK_WONDAMA","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":399,"zone_name":"PEGUNUNGAN_ARFAK","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":400,"zone_name":"MANOKWARI_SELATAN","island":"MALUKU_PAPUA","priority":5}
 
 
 ]
