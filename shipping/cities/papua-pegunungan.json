@@ -1,0 +1,56 @@
+{
+  "province_id": 37,
+  "province_name": "Papua Pegunungan",
+  "capital": "Wamena",
+  "last_updated": "2026-05-30",
+  "cities": [
+    {
+      "city_id": 3701,
+      "city_name": "Kabupaten Jayawijaya",
+      "postal_code": "99511",
+      "zone_id": 413
+    },
+    {
+      "city_id": 3702,
+      "city_name": "Kabupaten Lanny Jaya",
+      "postal_code": "99571",
+      "zone_id": 414
+    },
+    {
+      "city_id": 3703,
+      "city_name": "Kabupaten Yahukimo",
+      "postal_code": "99041",
+      "zone_id": 415
+    },
+    {
+      "city_id": 3704,
+      "city_name": "Kabupaten Pegunungan Bintang",
+      "postal_code": "99573",
+      "zone_id": 416
+    },
+    {
+      "city_id": 3705,
+      "city_name": "Kabupaten Tolikara",
+      "postal_code": "99553",
+      "zone_id": 417
+    },
+    {
+      "city_id": 3706,
+      "city_name": "Kabupaten Mamberamo Tengah",
+      "postal_code": "99582",
+      "zone_id": 418
+    },
+    {
+      "city_id": 3707,
+      "city_name": "Kabupaten Yalimo",
+      "postal_code": "99581",
+      "zone_id": 419
+    },
+    {
+      "city_id": 3708,
+      "city_name": "Kabupaten Nduga",
+      "postal_code": "99591",
+      "zone_id": 420
+    }
+  ]
+}
