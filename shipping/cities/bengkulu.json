@@ -1,0 +1,96 @@
+{
+  "province_id": 7,
+  "province_name": "Bengkulu",
+  "cities": [
+    {
+      "city_id": 701,
+      "city_name": "Bengkulu",
+      "type": "city",
+      "capital": "Bengkulu",
+      "postal_code": "38113",
+      "zone": "BENGKULU",
+      "is_active": true
+    },
+    {
+      "city_id": 702,
+      "city_name": "Bengkulu Selatan",
+      "type": "regency",
+      "capital": "Manna",
+      "postal_code": "38511",
+      "zone": "BENGKULU_SELATAN",
+      "is_active": true
+    },
+    {
+      "city_id": 703,
+      "city_name": "Bengkulu Tengah",
+      "type": "regency",
+      "capital": "Karang Tinggi",
+      "postal_code": "38382",
+      "zone": "BENGKULU_TENGAH",
+      "is_active": true
+    },
+    {
+      "city_id": 704,
+      "city_name": "Bengkulu Utara",
+      "type": "regency",
+      "capital": "Arga Makmur",
+      "postal_code": "38611",
+      "zone": "BENGKULU_UTARA",
+      "is_active": true
+    },
+    {
+      "city_id": 705,
+      "city_name": "Kaur",
+      "type": "regency",
+      "capital": "Bintuhan",
+      "postal_code": "38963",
+      "zone": "KAUR",
+      "is_active": true
+    },
+    {
+      "city_id": 706,
+      "city_name": "Kepahiang",
+      "type": "regency",
+      "capital": "Kepahiang",
+      "postal_code": "39372",
+      "zone": "KEPAHIANG",
+      "is_active": true
+    },
+    {
+      "city_id": 707,
+      "city_name": "Lebong",
+      "type": "regency",
+      "capital": "Muara Aman",
+      "postal_code": "39258",
+      "zone": "LEBONG",
+      "is_active": true
+    },
+    {
+      "city_id": 708,
+      "city_name": "Mukomuko",
+      "type": "regency",
+      "capital": "Mukomuko",
+      "postal_code": "38711",
+      "zone": "MUKOMUKO",
+      "is_active": true
+    },
+    {
+      "city_id": 709,
+      "city_name": "Rejang Lebong",
+      "type": "regency",
+      "capital": "Curup",
+      "postal_code": "39111",
+      "zone": "REJANG_LEBONG",
+      "is_active": true
+    },
+    {
+      "city_id": 710,
+      "city_name": "Seluma",
+      "type": "regency",
+      "capital": "Tais",
+      "postal_code": "38876",
+      "zone": "SELUMA",
+      "is_active": true
+    }
+  ]
+}
