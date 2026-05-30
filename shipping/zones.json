@@ -256,7 +256,21 @@
   {"zone_id":255,"zone_name":"KAPUAS_HULU","island":"KALIMANTAN","priority":4},
   {"zone_id":256,"zone_name":"KETAPANG","island":"KALIMANTAN","priority":4},
   {"zone_id":257,"zone_name":"KAYONG_UTARA","island":"KALIMANTAN","priority":4},
-  {"zone_id":258,"zone_name":"LANDAK","island":"KALIMANTAN","priority":3}
+  {"zone_id":258,"zone_name":"LANDAK","island":"KALIMANTAN","priority":3},
+  {"zone_id":259,"zone_name":"PALANGKA_RAYA","island":"KALIMANTAN","priority":3},
+  {"zone_id":260,"zone_name":"KOTAWARINGIN_BARAT","island":"KALIMANTAN","priority":3},
+  {"zone_id":261,"zone_name":"KOTAWARINGIN_TIMUR","island":"KALIMANTAN","priority":3},
+  {"zone_id":262,"zone_name":"KAPUAS","island":"KALIMANTAN","priority":3},
+  {"zone_id":263,"zone_name":"BARITO_SELATAN","island":"KALIMANTAN","priority":3},
+  {"zone_id":264,"zone_name":"BARITO_UTARA","island":"KALIMANTAN","priority":4},
+  {"zone_id":265,"zone_name":"BARITO_TIMUR","island":"KALIMANTAN","priority":4},
+  {"zone_id":266,"zone_name":"KATINGAN","island":"KALIMANTAN","priority":4},
+  {"zone_id":267,"zone_name":"SERUYAN","island":"KALIMANTAN","priority":4},
+  {"zone_id":268,"zone_name":"SUKAMARA","island":"KALIMANTAN","priority":4},
+  {"zone_id":269,"zone_name":"LAMANDAU","island":"KALIMANTAN","priority":4},
+  {"zone_id":270,"zone_name":"PULANG_PISAU","island":"KALIMANTAN","priority":4},
+  {"zone_id":271,"zone_name":"GUNUNG_MAS","island":"KALIMANTAN","priority":4},
+  {"zone_id":272,"zone_name":"MURUNG_RAYA","island":"KALIMANTAN","priority":5}
 
 
 ]
