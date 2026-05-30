@@ -1,0 +1,50 @@
+{
+  "province_id": 26,
+  "province_name": "Gorontalo",
+  "capital": "Gorontalo",
+  "last_updated": "2026-05-30",
+  "cities": [
+    {
+      "city_id": 2601,
+      "city_name": "Kota Gorontalo",
+      "postal_code": "96111",
+      "zone_id": 316,
+      "zone_name": "GORONTALLO_KOTA"
+    },
+    {
+      "city_id": 2602,
+      "city_name": "Kabupaten Gorontalo",
+      "postal_code": "96211",
+      "zone_id": 317,
+      "zone_name": "GORONTALO_KAB"
+    },
+    {
+      "city_id": 2603,
+      "city_name": "Kabupaten Bone Bolango",
+      "postal_code": "96511",
+      "zone_id": 318,
+      "zone_name": "BONE_BOLANGO"
+    },
+    {
+      "city_id": 2604,
+      "city_name": "Kabupaten Boalemo",
+      "postal_code": "96311",
+      "zone_id": 319,
+      "zone_name": "BOALEMO"
+    },
+    {
+      "city_id": 2605,
+      "city_name": "Kabupaten Pohuwato",
+      "postal_code": "96411",
+      "zone_id": 320,
+      "zone_name": "POHUWATO"
+    },
+    {
+      "city_id": 2606,
+      "city_name": "Kabupaten Gorontalo Utara",
+      "postal_code": "96611",
+      "zone_id": 321,
+      "zone_name": "GORONTALO_UTARA"
+    }
+  ]
+}
