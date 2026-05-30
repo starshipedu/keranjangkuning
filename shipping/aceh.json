@@ -1,0 +1,213 @@
+{
+"province_id": 1,
+"province_name": "Aceh",
+"cities": [
+{
+"city_id": 101,
+"city_name": "Banda Aceh",
+"type": "city",
+"capital": "Banda Aceh",
+"postal_code": "23111",
+"zone": "ACEH",
+"is_active": true
+},
+{
+"city_id": 102,
+"city_name": "Sabang",
+"type": "city",
+"capital": "Sabang",
+"postal_code": "23511",
+"zone": "SIMEULUE",
+"is_active": true
+},
+{
+"city_id": 103,
+"city_name": "Langsa",
+"type": "city",
+"capital": "Langsa",
+"postal_code": "24411",
+"zone": "ACEH_TIMUR",
+"is_active": true
+},
+{
+"city_id": 104,
+"city_name": "Lhokseumawe",
+"type": "city",
+"capital": "Lhokseumawe",
+"postal_code": "24352",
+"zone": "ACEH_UTARA",
+"is_active": true
+},
+{
+"city_id": 105,
+"city_name": "Subulussalam",
+"type": "city",
+"capital": "Subulussalam",
+"postal_code": "24782",
+"zone": "ACEH_TENGGARA",
+"is_active": true
+},
+{
+"city_id": 106,
+"city_name": "Aceh Barat",
+"type": "regency",
+"capital": "Meulaboh",
+"postal_code": "23617",
+"zone": "ACEH_BARAT",
+"is_active": true
+},
+{
+"city_id": 107,
+"city_name": "Aceh Barat Daya",
+"type": "regency",
+"capital": "Blangpidie",
+"postal_code": "23764",
+"zone": "ACEH_SELATAN",
+"is_active": true
+},
+{
+"city_id": 108,
+"city_name": "Aceh Besar",
+"type": "regency",
+"capital": "Jantho",
+"postal_code": "23352",
+"zone": "ACEH",
+"is_active": true
+},
+{
+"city_id": 109,
+"city_name": "Aceh Jaya",
+"type": "regency",
+"capital": "Calang",
+"postal_code": "23654",
+"zone": "ACEH_BARAT",
+"is_active": true
+},
+{
+"city_id": 110,
+"city_name": "Aceh Selatan",
+"type": "regency",
+"capital": "Tapaktuan",
+"postal_code": "23715",
+"zone": "ACEH_SELATAN",
+"is_active": true
+},
+{
+"city_id": 111,
+"city_name": "Aceh Singkil",
+"type": "regency",
+"capital": "Singkil",
+"postal_code": "24785",
+"zone": "ACEH_TENGGARA",
+"is_active": true
+},
+{
+"city_id": 112,
+"city_name": "Aceh Tamiang",
+"type": "regency",
+"capital": "Karang Baru",
+"postal_code": "24476",
+"zone": "ACEH_TIMUR",
+"is_active": true
+},
+{
+"city_id": 113,
+"city_name": "Aceh Tengah",
+"type": "regency",
+"capital": "Takengon",
+"postal_code": "24519",
+"zone": "ACEH_TENGAH",
+"is_active": true
+},
+{
+"city_id": 114,
+"city_name": "Aceh Tenggara",
+"type": "regency",
+"capital": "Kutacane",
+"postal_code": "24651",
+"zone": "ACEH_TENGGARA",
+"is_active": true
+},
+{
+"city_id": 115,
+"city_name": "Aceh Timur",
+"type": "regency",
+"capital": "Idi Rayeuk",
+"postal_code": "24454",
+"zone": "ACEH_TIMUR",
+"is_active": true
+},
+{
+"city_id": 116,
+"city_name": "Aceh Utara",
+"type": "regency",
+"capital": "Lhoksukon",
+"postal_code": "24382",
+"zone": "ACEH_UTARA",
+"is_active": true
+},
+{
+"city_id": 117,
+"city_name": "Bener Meriah",
+"type": "regency",
+"capital": "Simpang Tiga Redelong",
+"postal_code": "24581",
+"zone": "ACEH_TENGAH",
+"is_active": true
+},
+{
+"city_id": 118,
+"city_name": "Bireuen",
+"type": "regency",
+"capital": "Bireuen",
+"postal_code": "24211",
+"zone": "ACEH_UTARA",
+"is_active": true
+},
+{
+"city_id": 119,
+"city_name": "Gayo Lues",
+"type": "regency",
+"capital": "Blangkejeren",
+"postal_code": "24653",
+"zone": "ACEH_TENGAH",
+"is_active": true
+},
+{
+"city_id": 120,
+"city_name": "Nagan Raya",
+"type": "regency",
+"capital": "Suka Makmue",
+"postal_code": "23661",
+"zone": "ACEH_BARAT",
+"is_active": true
+},
+{
+"city_id": 121,
+"city_name": "Pidie",
+"type": "regency",
+"capital": "Sigli",
+"postal_code": "24114",
+"zone": "ACEH_PIDIE",
+"is_active": true
+},
+{
+"city_id": 122,
+"city_name": "Pidie Jaya",
+"type": "regency",
+"capital": "Meureudu",
+"postal_code": "24186",
+"zone": "ACEH_PIDIE",
+"is_active": true
+},
+{
+"city_id": 123,
+"city_name": "Simeulue",
+"type": "regency",
+"capital": "Sinabang",
+"postal_code": "24774",
+"zone": "SIMEULUE",
+"is_active": true
+}
+]
+}
