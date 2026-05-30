@@ -1,0 +1,43 @@
+{
+  "province_id": 24,
+  "province_name": "Kalimantan Utara",
+  "capital": "Tanjung Selor",
+  "last_updated": "2026-05-30",
+  "cities": [
+    {
+      "city_id": 2401,
+      "city_name": "Bulungan",
+      "postal_code": "77211",
+      "zone_id": 297,
+      "zone_name": "TANJUNG_SELOR"
+    },
+    {
+      "city_id": 2402,
+      "city_name": "Kota Tarakan",
+      "postal_code": "77111",
+      "zone_id": 298,
+      "zone_name": "TARAKAN"
+    },
+    {
+      "city_id": 2403,
+      "city_name": "Nunukan",
+      "postal_code": "77482",
+      "zone_id": 299,
+      "zone_name": "NUNUKAN"
+    },
+    {
+      "city_id": 2404,
+      "city_name": "Malinau",
+      "postal_code": "77554",
+      "zone_id": 300,
+      "zone_name": "MALINAU"
+    },
+    {
+      "city_id": 2405,
+      "city_name": "Tana Tidung",
+      "postal_code": "77611",
+      "zone_id": 301,
+      "zone_name": "TANA_TIDUNG"
+    }
+  ]
+}
