@@ -426,7 +426,13 @@
   {"zone_id":417,"zone_name":"TOLIKARA","island":"MALUKU_PAPUA","priority":5},
   {"zone_id":418,"zone_name":"MAMBERAMO_TENGAH","island":"MALUKU_PAPUA","priority":5},
   {"zone_id":419,"zone_name":"YALIMO","island":"MALUKU_PAPUA","priority":5},
-  {"zone_id":420,"zone_name":"NDUGA","island":"MALUKU_PAPUA","priority":5}
+  {"zone_id":420,"zone_name":"NDUGA","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":421,"zone_name":"SORONG_KOTA_PBD","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":422,"zone_name":"SORONG_KABUPATEN","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":423,"zone_name":"RAJA_AMPAT_PBD","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":424,"zone_name":"TAMBRAUW","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":425,"zone_name":"MAYBRAT","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":426,"zone_name":"SORONG_SELATAN_PBD","island":"MALUKU_PAPUA","priority":5}
 
 
 ]
