@@ -1,0 +1,63 @@
+{
+  "province_id": 16,
+  "province_name": "Banten",
+  "capital": "Serang",
+  "cities": [
+    {
+      "city_id": 1601,
+      "city_name": "Kota Tangerang",
+      "postal_code": "15111",
+      "zone_id": 200,
+      "zone_name": "TANGERANG_KOTA"
+    },
+    {
+      "city_id": 1602,
+      "city_name": "Kabupaten Tangerang",
+      "postal_code": "15710",
+      "zone_id": 201,
+      "zone_name": "TANGERANG_KAB"
+    },
+    {
+      "city_id": 1603,
+      "city_name": "Kota Tangerang Selatan",
+      "postal_code": "15310",
+      "zone_id": 202,
+      "zone_name": "TANGERANG_SELATAN"
+    },
+    {
+      "city_id": 1604,
+      "city_name": "Kota Serang",
+      "postal_code": "42111",
+      "zone_id": 203,
+      "zone_name": "SERANG_KOTA"
+    },
+    {
+      "city_id": 1605,
+      "city_name": "Kabupaten Serang",
+      "postal_code": "42181",
+      "zone_id": 204,
+      "zone_name": "SERANG_KAB"
+    },
+    {
+      "city_id": 1606,
+      "city_name": "Kota Cilegon",
+      "postal_code": "42411",
+      "zone_id": 205,
+      "zone_name": "CILEGON"
+    },
+    {
+      "city_id": 1607,
+      "city_name": "Kabupaten Pandeglang",
+      "postal_code": "42211",
+      "zone_id": 206,
+      "zone_name": "PANDEGLANG"
+    },
+    {
+      "city_id": 1608,
+      "city_name": "Kabupaten Lebak",
+      "postal_code": "42311",
+      "zone_id": 207,
+      "zone_name": "LEBAK"
+    }
+  ]
+}
