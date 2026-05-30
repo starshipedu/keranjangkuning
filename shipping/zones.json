@@ -225,7 +225,25 @@
   {"zone_id":224,"zone_name":"SUMBAWA","island":"BALI_NUSRA","priority":3},
   {"zone_id":225,"zone_name":"DOMPU","island":"BALI_NUSRA","priority":3},
   {"zone_id":226,"zone_name":"BIMA","island":"BALI_NUSRA","priority":3},
-  {"zone_id":227,"zone_name":"KOTA_BIMA","island":"BALI_NUSRA","priority":3}
+  {"zone_id":227,"zone_name":"KOTA_BIMA","island":"BALI_NUSRA","priority":3},
+  {"zone_id":228,"zone_name":"KUPANG","island":"BALI_NUSRA","priority":3},
+  {"zone_id":229,"zone_name":"TIMOR_TENGAH","island":"BALI_NUSRA","priority":3},
+  {"zone_id":230,"zone_name":"BELU_MALAKA","island":"BALI_NUSRA","priority":3},
+  {"zone_id":231,"zone_name":"ALOR","island":"BALI_NUSRA","priority":4},
+  {"zone_id":232,"zone_name":"LEMBATA","island":"BALI_NUSRA","priority":4},
+  {"zone_id":233,"zone_name":"FLORES_TIMUR","island":"BALI_NUSRA","priority":4},
+  {"zone_id":234,"zone_name":"SIKKA","island":"BALI_NUSRA","priority":3},
+  {"zone_id":235,"zone_name":"ENDE","island":"BALI_NUSRA","priority":3},
+  {"zone_id":236,"zone_name":"NGADA","island":"BALI_NUSRA","priority":4},
+  {"zone_id":237,"zone_name":"NAGEKEO","island":"BALI_NUSRA","priority":4},
+  {"zone_id":238,"zone_name":"MANGGARAI","island":"BALI_NUSRA","priority":3},
+  {"zone_id":239,"zone_name":"MANGGARAI_TIMUR","island":"BALI_NUSRA","priority":4},
+  {"zone_id":240,"zone_name":"MANGGARAI_BARAT","island":"BALI_NUSRA","priority":3},
+  {"zone_id":241,"zone_name":"SUMBA_TIMUR","island":"BALI_NUSRA","priority":4},
+  {"zone_id":242,"zone_name":"SUMBA_TENGAH","island":"BALI_NUSRA","priority":4},
+  {"zone_id":243,"zone_name":"SUMBA_BARAT","island":"BALI_NUSRA","priority":4},
+  {"zone_id":244,"zone_name":"SUMBA_BARAT_DAYA","island":"BALI_NUSRA","priority":4},
+  {"zone_id":245,"zone_name":"ROTE_SABU","island":"BALI_NUSRA","priority":5}
 
 
 ]
