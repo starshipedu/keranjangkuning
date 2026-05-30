@@ -298,7 +298,22 @@
   {"zone_id":297,"zone_name":"TARAKAN","island":"KALIMANTAN","priority":3},
   {"zone_id":298,"zone_name":"NUNUKAN","island":"KALIMANTAN","priority":4},
   {"zone_id":299,"zone_name":"MALINAU","island":"KALIMANTAN","priority":4},
-  {"zone_id":300,"zone_name":"TANA_TIDUNG","island":"KALIMANTAN","priority":4}
+  {"zone_id":300,"zone_name":"TANA_TIDUNG","island":"KALIMANTAN","priority":4},
+  {"zone_id":301,"zone_name":"MANADO_RAYA","island":"SULAWESI","priority":3},
+  {"zone_id":302,"zone_name":"MINAHASA","island":"SULAWESI","priority":3},
+  {"zone_id":303,"zone_name":"MINAHASA_SELATAN","island":"SULAWESI","priority":3},
+  {"zone_id":304,"zone_name":"MINAHASA_UTARA","island":"SULAWESI","priority":3},
+  {"zone_id":305,"zone_name":"MINAHASA_TENGGARA","island":"SULAWESI","priority":3},
+  {"zone_id":306,"zone_name":"BOLAANG_MONGONDOW","island":"SULAWESI","priority":3},
+  {"zone_id":307,"zone_name":"BOLAANG_MONGONDOW_UTARA","island":"SULAWESI","priority":4},
+  {"zone_id":308,"zone_name":"BOLAANG_MONGONDOW_TIMUR","island":"SULAWESI","priority":4},
+  {"zone_id":309,"zone_name":"BOLAANG_MONGONDOW_SELATAN","island":"SULAWESI","priority":4},
+  {"zone_id":310,"zone_name":"KEPULAUAN_SANGIHE","island":"SULAWESI","priority":5},
+  {"zone_id":311,"zone_name":"KEPULAUAN_SITARO","island":"SULAWESI","priority":5},
+  {"zone_id":312,"zone_name":"KEPULAUAN_TALAUD","island":"SULAWESI","priority":5},
+  {"zone_id":313,"zone_name":"BITUNG","island":"SULAWESI","priority":3},
+  {"zone_id":314,"zone_name":"TOMOHON","island":"SULAWESI","priority":3},
+  {"zone_id":315,"zone_name":"KOTAMOBAGU","island":"SULAWESI","priority":3}
 
 
 ]
