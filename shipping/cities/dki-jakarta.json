@@ -1,0 +1,60 @@
+{
+  "province_id": 11,
+  "province_name": "DKI Jakarta",
+  "cities": [
+    {
+      "city_id": 1101,
+      "city_name": "Jakarta Pusat",
+      "type": "city",
+      "capital": "Jakarta",
+      "postal_code": "10110",
+      "zone": "DKI_JAKARTA",
+      "is_active": true
+    },
+    {
+      "city_id": 1102,
+      "city_name": "Jakarta Utara",
+      "type": "city",
+      "capital": "Jakarta",
+      "postal_code": "14110",
+      "zone": "DKI_JAKARTA",
+      "is_active": true
+    },
+    {
+      "city_id": 1103,
+      "city_name": "Jakarta Barat",
+      "type": "city",
+      "capital": "Jakarta",
+      "postal_code": "11110",
+      "zone": "DKI_JAKARTA",
+      "is_active": true
+    },
+    {
+      "city_id": 1104,
+      "city_name": "Jakarta Selatan",
+      "type": "city",
+      "capital": "Jakarta",
+      "postal_code": "12110",
+      "zone": "DKI_JAKARTA",
+      "is_active": true
+    },
+    {
+      "city_id": 1105,
+      "city_name": "Jakarta Timur",
+      "type": "city",
+      "capital": "Jakarta",
+      "postal_code": "13110",
+      "zone": "DKI_JAKARTA",
+      "is_active": true
+    },
+    {
+      "city_id": 1106,
+      "city_name": "Kepulauan Seribu",
+      "type": "regency",
+      "capital": "Pulau Pramuka",
+      "postal_code": "14510",
+      "zone": "DKI_JAKARTA",
+      "is_active": true
+    }
+  ]
+}
