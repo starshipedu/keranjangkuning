@@ -1,0 +1,56 @@
+{
+  "province_id": 36,
+  "province_name": "Papua Tengah",
+  "capital": "Nabire",
+  "last_updated": "2026-05-30",
+  "cities": [
+    {
+      "city_id": 3601,
+      "city_name": "Kabupaten Nabire",
+      "postal_code": "98811",
+      "zone_id": 405
+    },
+    {
+      "city_id": 3602,
+      "city_name": "Kabupaten Mimika",
+      "postal_code": "99910",
+      "zone_id": 406
+    },
+    {
+      "city_id": 3603,
+      "city_name": "Kabupaten Paniai",
+      "postal_code": "98781",
+      "zone_id": 407
+    },
+    {
+      "city_id": 3604,
+      "city_name": "Kabupaten Dogiyai",
+      "postal_code": "98784",
+      "zone_id": 408
+    },
+    {
+      "city_id": 3605,
+      "city_name": "Kabupaten Deiyai",
+      "postal_code": "98782",
+      "zone_id": 409
+    },
+    {
+      "city_id": 3606,
+      "city_name": "Kabupaten Intan Jaya",
+      "postal_code": "98791",
+      "zone_id": 410
+    },
+    {
+      "city_id": 3607,
+      "city_name": "Kabupaten Puncak",
+      "postal_code": "98981",
+      "zone_id": 411
+    },
+    {
+      "city_id": 3608,
+      "city_name": "Kabupaten Puncak Jaya",
+      "postal_code": "98971",
+      "zone_id": 412
+    }
+  ]
+}
