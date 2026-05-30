@@ -1,0 +1,73 @@
+{
+  "province_id": 31,
+  "province_name": "Maluku",
+  "capital": "Ambon",
+  "cities": [
+    {
+      "city_id": 3101,
+      "city_name": "Kota Ambon",
+      "postal_code": "97124",
+      "zone_id": 371
+    },
+    {
+      "city_id": 3102,
+      "city_name": "Kabupaten Maluku Tengah",
+      "postal_code": "97511",
+      "zone_id": 374
+    },
+    {
+      "city_id": 3103,
+      "city_name": "Kabupaten Seram Bagian Barat",
+      "postal_code": "97561",
+      "zone_id": 372
+    },
+    {
+      "city_id": 3104,
+      "city_name": "Kabupaten Seram Bagian Timur",
+      "postal_code": "97581",
+      "zone_id": 373
+    },
+    {
+      "city_id": 3105,
+      "city_name": "Kabupaten Buru",
+      "postal_code": "97371",
+      "zone_id": 375
+    },
+    {
+      "city_id": 3106,
+      "city_name": "Kabupaten Buru Selatan",
+      "postal_code": "97351",
+      "zone_id": 376
+    },
+    {
+      "city_id": 3107,
+      "city_name": "Kabupaten Kepulauan Aru",
+      "postal_code": "97662",
+      "zone_id": 377
+    },
+    {
+      "city_id": 3108,
+      "city_name": "Kabupaten Maluku Tenggara",
+      "postal_code": "97611",
+      "zone_id": 378
+    },
+    {
+      "city_id": 3109,
+      "city_name": "Kabupaten Kepulauan Tanimbar",
+      "postal_code": "97461",
+      "zone_id": 380
+    },
+    {
+      "city_id": 3110,
+      "city_name": "Kota Tual",
+      "postal_code": "97612",
+      "zone_id": 378
+    },
+    {
+      "city_id": 3111,
+      "city_name": "Kabupaten Maluku Barat Daya",
+      "postal_code": "97454",
+      "zone_id": 379
+    }
+  ]
+}
