@@ -73,6 +73,232 @@
       "postal_code": "22811",
       "zone": "NIAS",
       "is_active": true
+    },
+
+    {
+      "city_id": 209,
+      "city_name": "Asahan",
+      "type": "regency",
+      "capital": "Kisaran",
+      "postal_code": "21211",
+      "zone": "ASAHAN",
+      "is_active": true
+    },
+    {
+      "city_id": 210,
+      "city_name": "Batu Bara",
+      "type": "regency",
+      "capital": "Lima Puluh",
+      "postal_code": "21255",
+      "zone": "ASAHAN",
+      "is_active": true
+    },
+    {
+      "city_id": 211,
+      "city_name": "Dairi",
+      "type": "regency",
+      "capital": "Sidikalang",
+      "postal_code": "22211",
+      "zone": "KARO_DAIRI",
+      "is_active": true
+    },
+    {
+      "city_id": 212,
+      "city_name": "Deli Serdang",
+      "type": "regency",
+      "capital": "Lubuk Pakam",
+      "postal_code": "20511",
+      "zone": "DELI_SERDANG",
+      "is_active": true
+    },
+    {
+      "city_id": 213,
+      "city_name": "Humbang Hasundutan",
+      "type": "regency",
+      "capital": "Dolok Sanggul",
+      "postal_code": "22457",
+      "zone": "TAPANULI",
+      "is_active": true
+    },
+    {
+      "city_id": 214,
+      "city_name": "Karo",
+      "type": "regency",
+      "capital": "Kabanjahe",
+      "postal_code": "22111",
+      "zone": "KARO_DAIRI",
+      "is_active": true
+    },
+    {
+      "city_id": 215,
+      "city_name": "Labuhanbatu",
+      "type": "regency",
+      "capital": "Rantauprapat",
+      "postal_code": "21411",
+      "zone": "LABUHANBATU",
+      "is_active": true
+    },
+    {
+      "city_id": 216,
+      "city_name": "Labuhanbatu Selatan",
+      "type": "regency",
+      "capital": "Kotapinang",
+      "postal_code": "21464",
+      "zone": "LABUHANBATU",
+      "is_active": true
+    },
+    {
+      "city_id": 217,
+      "city_name": "Labuhanbatu Utara",
+      "type": "regency",
+      "capital": "Aek Kanopan",
+      "postal_code": "21457",
+      "zone": "LABUHANBATU",
+      "is_active": true
+    },
+    {
+      "city_id": 218,
+      "city_name": "Langkat",
+      "type": "regency",
+      "capital": "Stabat",
+      "postal_code": "20811",
+      "zone": "LANGKAT_BINJAI",
+      "is_active": true
+    },
+    {
+      "city_id": 219,
+      "city_name": "Mandailing Natal",
+      "type": "regency",
+      "capital": "Panyabungan",
+      "postal_code": "22911",
+      "zone": "TAPANULI",
+      "is_active": true
+    },
+    {
+      "city_id": 220,
+      "city_name": "Nias",
+      "type": "regency",
+      "capital": "Gido",
+      "postal_code": "22871",
+      "zone": "NIAS",
+      "is_active": true
+    },
+    {
+      "city_id": 221,
+      "city_name": "Nias Barat",
+      "type": "regency",
+      "capital": "Lahomi",
+      "postal_code": "22895",
+      "zone": "NIAS",
+      "is_active": true
+    },
+    {
+      "city_id": 222,
+      "city_name": "Nias Selatan",
+      "type": "regency",
+      "capital": "Teluk Dalam",
+      "postal_code": "22865",
+      "zone": "NIAS",
+      "is_active": true
+    },
+    {
+      "city_id": 223,
+      "city_name": "Nias Utara",
+      "type": "regency",
+      "capital": "Lotu",
+      "postal_code": "22856",
+      "zone": "NIAS",
+      "is_active": true
+    },
+    {
+      "city_id": 224,
+      "city_name": "Padang Lawas",
+      "type": "regency",
+      "capital": "Sibuhuan",
+      "postal_code": "22763",
+      "zone": "TAPANULI",
+      "is_active": true
+    },
+    {
+      "city_id": 225,
+      "city_name": "Padang Lawas Utara",
+      "type": "regency",
+      "capital": "Gunung Tua",
+      "postal_code": "22753",
+      "zone": "TAPANULI",
+      "is_active": true
+    },
+    {
+      "city_id": 226,
+      "city_name": "Pakpak Bharat",
+      "type": "regency",
+      "capital": "Salak",
+      "postal_code": "22272",
+      "zone": "KARO_DAIRI",
+      "is_active": true
+    },
+    {
+      "city_id": 227,
+      "city_name": "Samosir",
+      "type": "regency",
+      "capital": "Pangururan",
+      "postal_code": "22392",
+      "zone": "SIMALUNGUN",
+      "is_active": true
+    },
+    {
+      "city_id": 228,
+      "city_name": "Serdang Bedagai",
+      "type": "regency",
+      "capital": "Sei Rampah",
+      "postal_code": "20995",
+      "zone": "DELI_SERDANG",
+      "is_active": true
+    },
+    {
+      "city_id": 229,
+      "city_name": "Simalungun",
+      "type": "regency",
+      "capital": "Raya",
+      "postal_code": "21162",
+      "zone": "SIMALUNGUN",
+      "is_active": true
+    },
+    {
+      "city_id": 230,
+      "city_name": "Tapanuli Selatan",
+      "type": "regency",
+      "capital": "Sipirok",
+      "postal_code": "22742",
+      "zone": "TAPANULI",
+      "is_active": true
+    },
+    {
+      "city_id": 231,
+      "city_name": "Tapanuli Tengah",
+      "type": "regency",
+      "capital": "Pandan",
+      "postal_code": "22537",
+      "zone": "TAPANULI",
+      "is_active": true
+    },
+    {
+      "city_id": 232,
+      "city_name": "Tapanuli Utara",
+      "type": "regency",
+      "capital": "Tarutung",
+      "postal_code": "22411",
+      "zone": "TAPANULI",
+      "is_active": true
+    },
+    {
+      "city_id": 233,
+      "city_name": "Toba",
+      "type": "regency",
+      "capital": "Balige",
+      "postal_code": "22312",
+      "zone": "SIMALUNGUN",
+      "is_active": true
     }
   ]
 }
