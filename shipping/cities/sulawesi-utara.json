@@ -1,0 +1,98 @@
+{
+  "province_id": 25,
+  "province_name": "Sulawesi Utara",
+  "capital": "Manado",
+  "last_updated": "2026-05-30",
+  "cities": [
+    {
+      "city_id": 2501,
+      "city_name": "Kota Manado",
+      "postal_code": "95111",
+      "zone_id": 301
+    },
+    {
+      "city_id": 2502,
+      "city_name": "Kota Bitung",
+      "postal_code": "95511",
+      "zone_id": 313
+    },
+    {
+      "city_id": 2503,
+      "city_name": "Kota Tomohon",
+      "postal_code": "95411",
+      "zone_id": 314
+    },
+    {
+      "city_id": 2504,
+      "city_name": "Kota Kotamobagu",
+      "postal_code": "95711",
+      "zone_id": 315
+    },
+    {
+      "city_id": 2505,
+      "city_name": "Kabupaten Minahasa",
+      "postal_code": "95611",
+      "zone_id": 302
+    },
+    {
+      "city_id": 2506,
+      "city_name": "Kabupaten Minahasa Selatan",
+      "postal_code": "95995",
+      "zone_id": 303
+    },
+    {
+      "city_id": 2507,
+      "city_name": "Kabupaten Minahasa Utara",
+      "postal_code": "95371",
+      "zone_id": 304
+    },
+    {
+      "city_id": 2508,
+      "city_name": "Kabupaten Minahasa Tenggara",
+      "postal_code": "95937",
+      "zone_id": 305
+    },
+    {
+      "city_id": 2509,
+      "city_name": "Kabupaten Bolaang Mongondow",
+      "postal_code": "95755",
+      "zone_id": 306
+    },
+    {
+      "city_id": 2510,
+      "city_name": "Kabupaten Bolaang Mongondow Utara",
+      "postal_code": "95765",
+      "zone_id": 307
+    },
+    {
+      "city_id": 2511,
+      "city_name": "Kabupaten Bolaang Mongondow Timur",
+      "postal_code": "95783",
+      "zone_id": 308
+    },
+    {
+      "city_id": 2512,
+      "city_name": "Kabupaten Bolaang Mongondow Selatan",
+      "postal_code": "95774",
+      "zone_id": 309
+    },
+    {
+      "city_id": 2513,
+      "city_name": "Kabupaten Kepulauan Sangihe",
+      "postal_code": "95811",
+      "zone_id": 310
+    },
+    {
+      "city_id": 2514,
+      "city_name": "Kabupaten Kepulauan Sitaro",
+      "postal_code": "95862",
+      "zone_id": 311
+    },
+    {
+      "city_id": 2515,
+      "city_name": "Kabupaten Kepulauan Talaud",
+      "postal_code": "95885",
+      "zone_id": 312
+    }
+  ]
+}
