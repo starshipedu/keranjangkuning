@@ -10,53 +10,53 @@
       "zone": "DKI_JAKARTA",
       "rates": {
         "jne": {
-          "cost": 0,
-          "etd": "0 hari",
+          "cost": 9000,
+          "etd": "1 hari",
           "service": "REG"
         },
         "tiki": {
-          "cost": 0,
-          "etd": "0 hari",
+          "cost": 8500,
+          "etd": "1 hari",
           "service": "ECO"
         },
         "pos": {
-          "cost": 0,
-          "etd": "0 hari",
+          "cost": 8000,
+          "etd": "1-2 hari",
           "service": "POS Reguler"
         },
         "sicepat": {
-          "cost": 0,
-          "etd": "0 hari",
+          "cost": 8000,
+          "etd": "1 hari",
           "service": "REG"
         },
         "jnt": {
-          "cost": 0,
-          "etd": "0 hari",
+          "cost": 8500,
+          "etd": "1 hari",
           "service": "EZ"
         },
         "sap": {
-          "cost": 0,
-          "etd": "0 hari",
+          "cost": 8000,
+          "etd": "1 hari",
           "service": "REG"
         },
         "ninja": {
-          "cost": 0,
-          "etd": "0 hari",
+          "cost": 9000,
+          "etd": "1 hari",
           "service": "Express"
         },
         "lion": {
-          "cost": 0,
-          "etd": "0 hari",
+          "cost": 8000,
+          "etd": "1-2 hari",
           "service": "Reguler"
         },
         "ide": {
-          "cost": 0,
-          "etd": "0 hari",
+          "cost": 8500,
+          "etd": "1 hari",
           "service": "REG"
         },
         "anteraja": {
-          "cost": 0,
-          "etd": "0 hari",
+          "cost": 8000,
+          "etd": "1 hari",
           "service": "Reguler"
         }
       }
