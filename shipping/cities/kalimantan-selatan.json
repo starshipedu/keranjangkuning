@@ -1,0 +1,19 @@
+{
+  "province_id": 22,
+  "province_name": "Kalimantan Selatan",
+  "cities": [
+    {"city_id":2201,"city_name":"Kota Banjarmasin","postal_code":"70111","zone_id":273},
+    {"city_id":2202,"city_name":"Kota Banjarbaru","postal_code":"70711","zone_id":274},
+    {"city_id":2203,"city_name":"Kabupaten Banjar","postal_code":"70611","zone_id":275},
+    {"city_id":2204,"city_name":"Kabupaten Barito Kuala","postal_code":"70511","zone_id":276},
+    {"city_id":2205,"city_name":"Kabupaten Tanah Laut","postal_code":"70811","zone_id":277},
+    {"city_id":2206,"city_name":"Kabupaten Tapin","postal_code":"71111","zone_id":278},
+    {"city_id":2207,"city_name":"Kabupaten Hulu Sungai Selatan","postal_code":"71211","zone_id":279},
+    {"city_id":2208,"city_name":"Kabupaten Hulu Sungai Tengah","postal_code":"71311","zone_id":280},
+    {"city_id":2209,"city_name":"Kabupaten Hulu Sungai Utara","postal_code":"71411","zone_id":281},
+    {"city_id":2210,"city_name":"Kabupaten Balangan","postal_code":"71611","zone_id":282},
+    {"city_id":2211,"city_name":"Kabupaten Tabalong","postal_code":"71511","zone_id":283},
+    {"city_id":2212,"city_name":"Kabupaten Tanah Bumbu","postal_code":"72211","zone_id":284},
+    {"city_id":2213,"city_name":"Kabupaten Kotabaru","postal_code":"72111","zone_id":285}
+  ]
+}
