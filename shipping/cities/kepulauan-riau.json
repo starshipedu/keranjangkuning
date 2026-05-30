@@ -1,0 +1,69 @@
+{
+  "province_id": 10,
+  "province_name": "Kepulauan Riau",
+  "cities": [
+    {
+      "city_id": 1001,
+      "city_name": "Batam",
+      "type": "city",
+      "capital": "Batam",
+      "postal_code": "29411",
+      "zone": "KEPRI_BATAM",
+      "is_active": true
+    },
+    {
+      "city_id": 1002,
+      "city_name": "Tanjung Pinang",
+      "type": "city",
+      "capital": "Tanjung Pinang",
+      "postal_code": "29111",
+      "zone": "KEPRI_TANJUNGPINANG",
+      "is_active": true
+    },
+    {
+      "city_id": 1003,
+      "city_name": "Bintan",
+      "type": "regency",
+      "capital": "Bandar Seri Bentan",
+      "postal_code": "29132",
+      "zone": "KEPRI_TANJUNGPINANG",
+      "is_active": true
+    },
+    {
+      "city_id": 1004,
+      "city_name": "Karimun",
+      "type": "regency",
+      "capital": "Tanjung Balai Karimun",
+      "postal_code": "29661",
+      "zone": "KEPRI_KARIMUN",
+      "is_active": true
+    },
+    {
+      "city_id": 1005,
+      "city_name": "Lingga",
+      "type": "regency",
+      "capital": "Daik",
+      "postal_code": "29871",
+      "zone": "KEPRI_NATUNA",
+      "is_active": true
+    },
+    {
+      "city_id": 1006,
+      "city_name": "Natuna",
+      "type": "regency",
+      "capital": "Ranai",
+      "postal_code": "29783",
+      "zone": "KEPRI_NATUNA",
+      "is_active": true
+    },
+    {
+      "city_id": 1007,
+      "city_name": "Kepulauan Anambas",
+      "type": "regency",
+      "capital": "Tarempa",
+      "postal_code": "29791",
+      "zone": "KEPRI_NATUNA",
+      "is_active": true
+    }
+  ]
+}
