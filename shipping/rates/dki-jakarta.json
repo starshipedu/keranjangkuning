@@ -1,0 +1,65 @@
+{
+  "province_id": 11,
+  "province_name": "DKI Jakarta",
+  "origin_zone": "JABODETABEK",
+  "weight_unit": "1000",
+  "weight_label": "1kg",
+  "last_updated": "2026-05-30",
+  "rates": [
+    {
+      "zone": "DKI_JAKARTA",
+      "rates": {
+        "jne": {
+          "cost": 0,
+          "etd": "0 hari",
+          "service": "REG"
+        },
+        "tiki": {
+          "cost": 0,
+          "etd": "0 hari",
+          "service": "ECO"
+        },
+        "pos": {
+          "cost": 0,
+          "etd": "0 hari",
+          "service": "POS Reguler"
+        },
+        "sicepat": {
+          "cost": 0,
+          "etd": "0 hari",
+          "service": "REG"
+        },
+        "jnt": {
+          "cost": 0,
+          "etd": "0 hari",
+          "service": "EZ"
+        },
+        "sap": {
+          "cost": 0,
+          "etd": "0 hari",
+          "service": "REG"
+        },
+        "ninja": {
+          "cost": 0,
+          "etd": "0 hari",
+          "service": "Express"
+        },
+        "lion": {
+          "cost": 0,
+          "etd": "0 hari",
+          "service": "Reguler"
+        },
+        "ide": {
+          "cost": 0,
+          "etd": "0 hari",
+          "service": "REG"
+        },
+        "anteraja": {
+          "cost": 0,
+          "etd": "0 hari",
+          "service": "Reguler"
+        }
+      }
+    }
+  ]
+}
