@@ -1,0 +1,92 @@
+{
+  "province_id": 21,
+  "province_name": "Kalimantan Tengah",
+  "capital": "Palangka Raya",
+  "last_updated": "2026-05-30",
+  "cities": [
+    {
+      "city_id": 2101,
+      "city_name": "Palangka Raya",
+      "postal_code": "73111",
+      "zone_id": 259
+    },
+    {
+      "city_id": 2102,
+      "city_name": "Kotawaringin Barat",
+      "postal_code": "74111",
+      "zone_id": 260
+    },
+    {
+      "city_id": 2103,
+      "city_name": "Kotawaringin Timur",
+      "postal_code": "74311",
+      "zone_id": 261
+    },
+    {
+      "city_id": 2104,
+      "city_name": "Kapuas",
+      "postal_code": "73511",
+      "zone_id": 262
+    },
+    {
+      "city_id": 2105,
+      "city_name": "Barito Selatan",
+      "postal_code": "73711",
+      "zone_id": 263
+    },
+    {
+      "city_id": 2106,
+      "city_name": "Barito Utara",
+      "postal_code": "73811",
+      "zone_id": 264
+    },
+    {
+      "city_id": 2107,
+      "city_name": "Barito Timur",
+      "postal_code": "73671",
+      "zone_id": 265
+    },
+    {
+      "city_id": 2108,
+      "city_name": "Katingan",
+      "postal_code": "74411",
+      "zone_id": 266
+    },
+    {
+      "city_id": 2109,
+      "city_name": "Seruyan",
+      "postal_code": "74211",
+      "zone_id": 267
+    },
+    {
+      "city_id": 2110,
+      "city_name": "Sukamara",
+      "postal_code": "74711",
+      "zone_id": 268
+    },
+    {
+      "city_id": 2111,
+      "city_name": "Lamandau",
+      "postal_code": "74611",
+      "zone_id": 269
+    },
+    {
+      "city_id": 2112,
+      "city_name": "Pulang Pisau",
+      "postal_code": "74811",
+      "zone_id": 270
+    },
+    {
+      "city_id": 2113,
+      "city_name": "Gunung Mas",
+      "postal_code": "74511",
+      "zone_id": 271
+    },
+    {
+      "city_id": 2114,
+      "city_name": "Murung Raya",
+      "postal_code": "73911",
+      "zone_id": 272
+    }
+  ]
+}
