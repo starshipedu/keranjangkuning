@@ -1,0 +1,68 @@
+{
+  "province_id": 32,
+  "province_name": "Maluku Utara",
+  "capital": "Sofifi",
+  "last_updated": "2026-05-30",
+  "cities": [
+    {
+      "city_id": 3201,
+      "city_name": "Kota Ternate",
+      "postal_code": "97711",
+      "zone_id": 381
+    },
+    {
+      "city_id": 3202,
+      "city_name": "Kota Tidore Kepulauan",
+      "postal_code": "97811",
+      "zone_id": 382
+    },
+    {
+      "city_id": 3203,
+      "city_name": "Kabupaten Halmahera Barat",
+      "postal_code": "97752",
+      "zone_id": 383
+    },
+    {
+      "city_id": 3204,
+      "city_name": "Kabupaten Halmahera Tengah",
+      "postal_code": "97853",
+      "zone_id": 384
+    },
+    {
+      "city_id": 3205,
+      "city_name": "Kabupaten Halmahera Timur",
+      "postal_code": "97862",
+      "zone_id": 385
+    },
+    {
+      "city_id": 3206,
+      "city_name": "Kabupaten Halmahera Selatan",
+      "postal_code": "97911",
+      "zone_id": 386
+    },
+    {
+      "city_id": 3207,
+      "city_name": "Kabupaten Halmahera Utara",
+      "postal_code": "97762",
+      "zone_id": 387
+    },
+    {
+      "city_id": 3208,
+      "city_name": "Kabupaten Kepulauan Sula",
+      "postal_code": "97795",
+      "zone_id": 388
+    },
+    {
+      "city_id": 3209,
+      "city_name": "Kabupaten Pulau Morotai",
+      "postal_code": "97771",
+      "zone_id": 389
+    },
+    {
+      "city_id": 3210,
+      "city_name": "Kabupaten Pulau Taliabu",
+      "postal_code": "97891",
+      "zone_id": 390
+    }
+  ]
+}
