@@ -410,7 +410,23 @@
   {"zone_id":401,"zone_name":"MERAUKE","island":"MALUKU_PAPUA","priority":5},
   {"zone_id":402,"zone_name":"BOVEN_DIGOEL","island":"MALUKU_PAPUA","priority":5},
   {"zone_id":403,"zone_name":"MAPPI","island":"MALUKU_PAPUA","priority":5},
-  {"zone_id":404,"zone_name":"ASMAT","island":"MALUKU_PAPUA","priority":5}
+  {"zone_id":404,"zone_name":"ASMAT","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":405,"zone_name":"NABIRE","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":406,"zone_name":"MIMIKA_TIMIKA","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":407,"zone_name":"PANIAI","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":408,"zone_name":"DOGIYAI","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":409,"zone_name":"DEIYAI","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":410,"zone_name":"INTAN_JAYA","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":411,"zone_name":"PUNCAK","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":412,"zone_name":"PUNCAK_JAYA","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":413,"zone_name":"WAMENA","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":414,"zone_name":"LANNY_JAYA","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":415,"zone_name":"YAHUKIMO","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":416,"zone_name":"PEGUNUNGAN_BINTANG","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":417,"zone_name":"TOLIKARA","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":418,"zone_name":"MAMBERAMO_TENGAH","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":419,"zone_name":"YALIMO","island":"MALUKU_PAPUA","priority":5},
+  {"zone_id":420,"zone_name":"NDUGA","island":"MALUKU_PAPUA","priority":5}
 
 
 ]
