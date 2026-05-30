@@ -1,0 +1,62 @@
+{
+  "province_id": 33,
+  "province_name": "Papua",
+  "capital": "Jayapura",
+  "last_updated": "2026-05-30",
+  "cities": [
+    {
+      "city_id": 3301,
+      "city_name": "Kota Jayapura",
+      "postal_code": "99111",
+      "zone_id": 391
+    },
+    {
+      "city_id": 3302,
+      "city_name": "Kabupaten Jayapura",
+      "postal_code": "99352",
+      "zone_id": 391
+    },
+    {
+      "city_id": 3303,
+      "city_name": "Keerom",
+      "postal_code": "99461",
+      "zone_id": 392
+    },
+    {
+      "city_id": 3304,
+      "city_name": "Sarmi",
+      "postal_code": "99373",
+      "zone_id": 393
+    },
+    {
+      "city_id": 3305,
+      "city_name": "Mamberamo Raya",
+      "postal_code": "99381",
+      "zone_id": 394
+    },
+    {
+      "city_id": 3306,
+      "city_name": "Kepulauan Yapen",
+      "postal_code": "98211",
+      "zone_id": 395
+    },
+    {
+      "city_id": 3307,
+      "city_name": "Waropen",
+      "postal_code": "98261",
+      "zone_id": 396
+    },
+    {
+      "city_id": 3308,
+      "city_name": "Biak Numfor",
+      "postal_code": "98111",
+      "zone_id": 397
+    },
+    {
+      "city_id": 3309,
+      "city_name": "Supiori",
+      "postal_code": "98164",
+      "zone_id": 398
+    }
+  ]
+}
