@@ -1,0 +1,141 @@
+{
+  "province_id": 8,
+  "province_name": "Lampung",
+  "cities": [
+    {
+      "city_id": 801,
+      "city_name": "Bandar Lampung",
+      "type": "city",
+      "capital": "Bandar Lampung",
+      "postal_code": "35111",
+      "zone": "BANDAR_LAMPUNG",
+      "is_active": true
+    },
+    {
+      "city_id": 802,
+      "city_name": "Metro",
+      "type": "city",
+      "capital": "Metro",
+      "postal_code": "34111",
+      "zone": "METRO",
+      "is_active": true
+    },
+    {
+      "city_id": 803,
+      "city_name": "Lampung Barat",
+      "type": "regency",
+      "capital": "Liwa",
+      "postal_code": "34814",
+      "zone": "LAMPUNG_BARAT",
+      "is_active": true
+    },
+    {
+      "city_id": 804,
+      "city_name": "Tanggamus",
+      "type": "regency",
+      "capital": "Kota Agung",
+      "postal_code": "35381",
+      "zone": "TANGGAMUS",
+      "is_active": true
+    },
+    {
+      "city_id": 805,
+      "city_name": "Lampung Selatan",
+      "type": "regency",
+      "capital": "Kalianda",
+      "postal_code": "35551",
+      "zone": "LAMPUNG_SELATAN",
+      "is_active": true
+    },
+    {
+      "city_id": 806,
+      "city_name": "Lampung Timur",
+      "type": "regency",
+      "capital": "Sukadana",
+      "postal_code": "34194",
+      "zone": "LAMPUNG_TIMUR",
+      "is_active": true
+    },
+    {
+      "city_id": 807,
+      "city_name": "Lampung Tengah",
+      "type": "regency",
+      "capital": "Gunung Sugih",
+      "postal_code": "34165",
+      "zone": "LAMPUNG_TENGAH",
+      "is_active": true
+    },
+    {
+      "city_id": 808,
+      "city_name": "Lampung Utara",
+      "type": "regency",
+      "capital": "Kotabumi",
+      "postal_code": "34517",
+      "zone": "LAMPUNG_UTARA",
+      "is_active": true
+    },
+    {
+      "city_id": 809,
+      "city_name": "Way Kanan",
+      "type": "regency",
+      "capital": "Blambangan Umpu",
+      "postal_code": "34764",
+      "zone": "WAY_KANAN",
+      "is_active": true
+    },
+    {
+      "city_id": 810,
+      "city_name": "Tulang Bawang",
+      "type": "regency",
+      "capital": "Menggala",
+      "postal_code": "34611",
+      "zone": "TULANG_BAWANG",
+      "is_active": true
+    },
+    {
+      "city_id": 811,
+      "city_name": "Pesawaran",
+      "type": "regency",
+      "capital": "Gedong Tataan",
+      "postal_code": "35366",
+      "zone": "PESAWARAN",
+      "is_active": true
+    },
+    {
+      "city_id": 812,
+      "city_name": "Pringsewu",
+      "type": "regency",
+      "capital": "Pringsewu",
+      "postal_code": "35371",
+      "zone": "PRINGSEWU",
+      "is_active": true
+    },
+    {
+      "city_id": 813,
+      "city_name": "Mesuji",
+      "type": "regency",
+      "capital": "Wiralaga Mulya",
+      "postal_code": "34697",
+      "zone": "MESUJI",
+      "is_active": true
+    },
+    {
+      "city_id": 814,
+      "city_name": "Tulang Bawang Barat",
+      "type": "regency",
+      "capital": "Panaragan Jaya",
+      "postal_code": "34691",
+      "zone": "TULANG_BAWANG_BARAT",
+      "is_active": true
+    },
+    {
+      "city_id": 815,
+      "city_name": "Pesisir Barat",
+      "type": "regency",
+      "capital": "Krui",
+      "postal_code": "34874",
+      "zone": "PESISIR_BARAT",
+      "is_active": true
+    }
+  ]
+}
