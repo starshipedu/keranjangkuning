@@ -1,0 +1,24 @@
+{
+  "province_id": 30,
+  "province_name": "Sulawesi Tenggara",
+  "capital": "Kendari",
+  "last_updated": "2026-05-30",
+  "cities": [
+    {"city_id":3001,"city_name":"Kota Kendari","postal_code":"93111","zone_id":355},
+    {"city_id":3002,"city_name":"Kabupaten Konawe","postal_code":"93411","zone_id":356},
+    {"city_id":3003,"city_name":"Kabupaten Konawe Selatan","postal_code":"93811","zone_id":357},
+    {"city_id":3004,"city_name":"Kabupaten Konawe Utara","postal_code":"93352","zone_id":358},
+    {"city_id":3005,"city_name":"Kabupaten Kolaka","postal_code":"93511","zone_id":359},
+    {"city_id":3006,"city_name":"Kabupaten Kolaka Timur","postal_code":"93573","zone_id":360},
+    {"city_id":3007,"city_name":"Kabupaten Kolaka Utara","postal_code":"93911","zone_id":361},
+    {"city_id":3008,"city_name":"Kota Baubau","postal_code":"93711","zone_id":362},
+    {"city_id":3009,"city_name":"Kabupaten Muna","postal_code":"93611","zone_id":363},
+    {"city_id":3010,"city_name":"Kabupaten Muna Barat","postal_code":"93655","zone_id":364},
+    {"city_id":3011,"city_name":"Kabupaten Buton","postal_code":"93754","zone_id":365},
+    {"city_id":3012,"city_name":"Kabupaten Buton Selatan","postal_code":"93755","zone_id":366},
+    {"city_id":3013,"city_name":"Kabupaten Buton Tengah","postal_code":"93763","zone_id":367},
+    {"city_id":3014,"city_name":"Kabupaten Buton Utara","postal_code":"93672","zone_id":368},
+    {"city_id":3015,"city_name":"Kabupaten Wakatobi","postal_code":"93791","zone_id":369},
+    {"city_id":3016,"city_name":"Kabupaten Bombana","postal_code":"93771","zone_id":370}
+  ]
+}
