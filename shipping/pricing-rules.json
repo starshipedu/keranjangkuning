@@ -1,10 +1,17 @@
 {
-  "base_cost": {
+  "version": "1.0.0",
+  "last_updated": "2026-05-31",
+  "currency": "IDR",
+
+  "base_weight": 1000,
+  "additional_weight_step": 1000,
+
+  "priority_cost": {
     "1": 10000,
     "2": 18000,
     "3": 28000,
-    "4": 42000,
-    "5": 65000
+    "4": 45000,
+    "5": 70000
   },
 
   "island_multiplier": {
@@ -12,7 +19,51 @@
     "SUMATERA": 1.20,
     "BALI_NUSRA": 1.35,
     "KALIMANTAN": 1.50,
-    "SULAWESI": 1.70,
-    "MALUKU_PAPUA": 2.20
+    "SULAWESI": 1.75,
+    "MALUKU_PAPUA": 2.25
+  },
+
+  "additional_weight_multiplier": {
+    "JAWA": 0.30,
+    "SUMATERA": 0.35,
+    "BALI_NUSRA": 0.45,
+    "KALIMANTAN": 0.50,
+    "SULAWESI": 0.60,
+    "MALUKU_PAPUA": 0.75
+  },
+
+  "etd_days": {
+    "1": {
+      "min": 1,
+      "max": 3
+    },
+    "2": {
+      "min": 2,
+      "max": 5
+    },
+    "3": {
+      "min": 3,
+      "max": 7
+    },
+    "4": {
+      "min": 5,
+      "max": 10
+    },
+    "5": {
+      "min": 7,
+      "max": 14
+    }
+  },
+
+  "remote_area_surcharge": {
+    "enabled": false,
+    "amount": 10000
+  },
+
+  "minimum_shipping_cost": 10000,
+
+  "rounding": {
+    "enabled": true,
+    "nearest": 500
   }
 }
