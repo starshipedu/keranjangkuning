@@ -1,0 +1,39 @@
+{
+  "supplier_zone": "BANDUNG_KOTA",
+  "origin_city": "Bandung",
+  "origin_province": "Jawa Barat",
+  "weight_unit": 1000,
+  "last_updated": "2026-05-31",
+
+  "base_rates": {
+    "same_zone": 9000,
+
+    "priority_1": 12000,
+    "priority_2": 18000,
+    "priority_3": 28000,
+    "priority_4": 42000,
+    "priority_5": 65000
+  },
+
+  "couriers": {
+    "jne": 1.00,
+    "jnt": 0.98,
+    "sicepat": 0.95,
+    "anteraja": 1.05,
+    "pos": 0.90,
+    "tiki": 0.92,
+    "sap": 0.94,
+    "ninja": 1.00,
+    "lion": 1.08,
+    "ide": 0.97
+  },
+
+  "island_multiplier": {
+    "JAWA": 1.00,
+    "SUMATERA": 1.25,
+    "BALI_NUSRA": 1.35,
+    "KALIMANTAN": 1.55,
+    "SULAWESI": 1.75,
+    "MALUKU_PAPUA": 2.20
+  }
+}
