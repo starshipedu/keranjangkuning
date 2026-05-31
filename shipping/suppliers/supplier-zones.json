@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-05-31",
+  "suppliers": [
+    {
+      "supplier_id": "BDG001",
+      "supplier_name": "Bandung Kota Main Warehouse",
+      "province": "Jawa Barat",
+      "city": "Bandung",
+      "zone": "BANDUNG_KOTA",
+      "zone_id": 130,
+      "is_active": true,
+      "priority": 1
+    }
+  ]
+}
