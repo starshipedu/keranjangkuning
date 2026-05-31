@@ -3,94 +3,124 @@
   "last_updated": "2026-05-31",
   "default_weight": 1000,
   "currency": "IDR",
+
   "couriers": {
     "jne": {
       "id": "jne",
       "name": "JNE",
       "enabled": true,
+      "service": "REG",
       "multiplier": 1.00,
       "etd_multiplier": 1.00,
+      "min_cost": 10000,
       "tracking": false,
       "logo": "jne.svg"
     },
+
     "jnt": {
       "id": "jnt",
       "name": "J&T Express",
       "enabled": true,
+      "service": "EZ",
       "multiplier": 0.98,
       "etd_multiplier": 1.00,
+      "min_cost": 10000,
       "tracking": false,
       "logo": "jnt.svg"
     },
+
     "sicepat": {
       "id": "sicepat",
       "name": "SiCepat Express",
       "enabled": true,
+      "service": "REG",
       "multiplier": 0.95,
       "etd_multiplier": 0.95,
+      "min_cost": 10000,
       "tracking": false,
       "logo": "sicepat.svg"
     },
+
     "anteraja": {
       "id": "anteraja",
       "name": "AnterAja",
       "enabled": true,
+      "service": "Reguler",
       "multiplier": 1.05,
       "etd_multiplier": 0.95,
+      "min_cost": 10000,
       "tracking": false,
       "logo": "anteraja.svg"
     },
+
     "pos": {
       "id": "pos",
       "name": "POS Indonesia",
       "enabled": true,
+      "service": "POS Reguler",
       "multiplier": 0.90,
       "etd_multiplier": 1.15,
+      "min_cost": 10000,
       "tracking": false,
       "logo": "pos.svg"
     },
+
     "ninja": {
       "id": "ninja",
       "name": "Ninja Xpress",
       "enabled": true,
+      "service": "Express",
       "multiplier": 0.96,
       "etd_multiplier": 1.00,
+      "min_cost": 10000,
       "tracking": false,
       "logo": "ninja.svg"
     },
+
     "sap": {
       "id": "sap",
       "name": "SAP Express",
       "enabled": true,
+      "service": "REG",
       "multiplier": 0.97,
       "etd_multiplier": 1.05,
+      "min_cost": 10000,
       "tracking": false,
       "logo": "sap.svg"
     },
+
     "lion": {
       "id": "lion",
       "name": "Lion Parcel",
       "enabled": true,
+      "service": "Reguler",
       "multiplier": 1.02,
       "etd_multiplier": 1.05,
+      "min_cost": 10000,
       "tracking": false,
       "logo": "lion.svg"
     },
+
     "ide": {
       "id": "ide",
       "name": "ID Express",
       "enabled": true,
+      "service": "REG",
       "multiplier": 0.94,
       "etd_multiplier": 0.95,
+      "min_cost": 10000,
       "tracking": false,
       "logo": "idexpress.svg"
     },
+
     "rex": {
       "id": "rex",
       "name": "REX Express",
       "enabled": true,
+      "service": "REG",
       "multiplier": 0.99,
       "etd_multiplier": 1.00,
+      "min_cost": 10000,
       "tracking": false,
       "logo": "rex.svg"
     }
