@@ -28,6 +28,43 @@
       "anteraja"
     ],
 
+    "stock_enabled": true,
+    "shipping_enabled": true,
+    "cod_enabled": false,
+
+    "is_active": true,
+
+    "created_at": "2026-05-31",
+    "updated_at": "2026-05-31"
+  },
+
+  {
+    "supplier_id": "JKT001",
+    "supplier_name": "Jakarta Pusat",
+    "slug": "jakarta-pusat",
+
+    "province_id": 31,
+    "province_name": "DKI Jakarta",
+
+    "city_id": 3171,
+    "city_name": "Jakarta Pusat",
+
+    "zone": "JABODETABEK",
+
+    "warehouse_type": "secondary",
+    "priority": 2,
+
+    "supported_couriers": [
+      "jne",
+      "jnt",
+      "sicepat",
+      "anteraja"
+    ],
+
+    "stock_enabled": true,
+    "shipping_enabled": true,
+    "cod_enabled": false,
+
     "is_active": true,
 
     "created_at": "2026-05-31",
