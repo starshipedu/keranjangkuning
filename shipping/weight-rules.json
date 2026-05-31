@@ -1,57 +1,12 @@
 {
-  "version": "1.0",
+  "version": "2.0",
   "last_updated": "2026-05-31",
 
   "base_weight": 1000,
 
-  "tiers": [
-    {
-      "min_weight": 0,
-      "max_weight": 1000,
-      "multiplier": 1.00,
-      "label": "0-1kg"
-    },
-    {
-      "min_weight": 1001,
-      "max_weight": 3000,
-      "multiplier": 1.75,
-      "label": "1-3kg"
-    },
-    {
-      "min_weight": 3001,
-      "max_weight": 5000,
-      "multiplier": 2.50,
-      "label": "3-5kg"
-    },
-    {
-      "min_weight": 5001,
-      "max_weight": 10000,
-      "multiplier": 4.00,
-      "label": "5-10kg"
-    },
-    {
-      "min_weight": 10001,
-      "max_weight": 20000,
-      "multiplier": 7.00,
-      "label": "10-20kg"
-    },
-    {
-      "min_weight": 20001,
-      "max_weight": 50000,
-      "multiplier": 15.00,
-      "label": "20-50kg"
-    },
-    {
-      "min_weight": 50001,
-      "max_weight": 100000,
-      "multiplier": 25.00,
-      "label": "50-100kg"
-    },
-    {
-      "min_weight": 100001,
-      "max_weight": 999999999,
-      "multiplier": 40.00,
-      "label": "100kg+"
-    }
-  ]
+  "rules": {
+    "first_kg_multiplier": 1.00,
+    "additional_kg_multiplier": 0.90,
+    "rounding": "ceil"
+  }
 }
