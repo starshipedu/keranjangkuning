@@ -1,0 +1,103 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-05-31",
+
+  "priorities": {
+    "1": {
+      "name": "LOCAL",
+      "days": "1-2 hari",
+      "min_days": 1,
+      "max_days": 2
+    },
+
+    "2": {
+      "name": "NEAR",
+      "days": "2-3 hari",
+      "min_days": 2,
+      "max_days": 3
+    },
+
+    "3": {
+      "name": "REGIONAL",
+      "days": "3-5 hari",
+      "min_days": 3,
+      "max_days": 5
+    },
+
+    "4": {
+      "name": "FAR",
+      "days": "4-7 hari",
+      "min_days": 4,
+      "max_days": 7
+    },
+
+    "5": {
+      "name": "REMOTE",
+      "days": "5-10 hari",
+      "min_days": 5,
+      "max_days": 10
+    }
+  },
+
+  "courier_adjustments": {
+    "jne": {
+      "label": "JNE",
+      "days_adjustment": 0,
+      "service": "REG"
+    },
+
+    "jnt": {
+      "label": "J&T",
+      "days_adjustment": 0,
+      "service": "EZ"
+    },
+
+    "sicepat": {
+      "label": "SiCepat",
+      "days_adjustment": -1,
+      "service": "REG"
+    },
+
+    "pos": {
+      "label": "POS Indonesia",
+      "days_adjustment": 1,
+      "service": "POS Reguler"
+    },
+
+    "sap": {
+      "label": "SAP Express",
+      "days_adjustment": 0,
+      "service": "REG"
+    },
+
+    "ninja": {
+      "label": "Ninja Xpress",
+      "days_adjustment": 0,
+      "service": "Standard"
+    },
+
+    "lion": {
+      "label": "Lion Parcel",
+      "days_adjustment": 1,
+      "service": "Reguler"
+    },
+
+    "anteraja": {
+      "label": "AnterAja",
+      "days_adjustment": 0,
+      "service": "Reguler"
+    },
+
+    "ide": {
+      "label": "ID Express",
+      "days_adjustment": 0,
+      "service": "REG"
+    },
+
+    "rex": {
+      "label": "REX",
+      "days_adjustment": 1,
+      "service": "REG"
+    }
+  }
+}
