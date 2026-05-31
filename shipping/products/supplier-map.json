@@ -1,7 +1,13 @@
 [
   {
-    "product_id": "rompi-rajut-korean-unisex-001",
-    "product_slug": "rompi-rajut-korean-unisex-001",
+    "product_key": "fashion-001",
+
+    "product": {
+      "id": "001",
+      "slug": "rompi-rajut-korean-unisex",
+      "category": "fashion"
+    },
+
     "suppliers": [
       {
         "supplier_id": "BDG001",
@@ -10,6 +16,7 @@
         "stock_status": "in_stock"
       }
     ],
+
     "is_active": true,
     "created_at": "2026-05-31",
     "updated_at": "2026-05-31"
