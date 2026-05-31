@@ -1,0 +1,36 @@
+[
+  {
+    "supplier_id": "BDG001",
+    "supplier_name": "Bandung Utama",
+    "slug": "bandung-utama",
+
+    "province_id": 32,
+    "province_name": "Jawa Barat",
+
+    "city_id": 3273,
+    "city_name": "Kota Bandung",
+
+    "zone": "BANDUNG_KOTA",
+
+    "warehouse_type": "main",
+    "priority": 1,
+
+    "supported_couriers": [
+      "jne",
+      "tiki",
+      "pos",
+      "sicepat",
+      "jnt",
+      "sap",
+      "ninja",
+      "lion",
+      "ide",
+      "anteraja"
+    ],
+
+    "is_active": true,
+
+    "created_at": "2026-05-31",
+    "updated_at": "2026-05-31"
+  }
+]
