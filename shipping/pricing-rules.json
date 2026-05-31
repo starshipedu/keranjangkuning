@@ -1,0 +1,18 @@
+{
+  "base_cost": {
+    "1": 10000,
+    "2": 18000,
+    "3": 28000,
+    "4": 42000,
+    "5": 65000
+  },
+
+  "island_multiplier": {
+    "JAWA": 1.00,
+    "SUMATERA": 1.20,
+    "BALI_NUSRA": 1.35,
+    "KALIMANTAN": 1.50,
+    "SULAWESI": 1.70,
+    "MALUKU_PAPUA": 2.20
+  }
+}
