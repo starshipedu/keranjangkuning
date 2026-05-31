@@ -1,0 +1,98 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-05-31",
+  "default_weight": 1000,
+  "currency": "IDR",
+  "couriers": {
+    "jne": {
+      "id": "jne",
+      "name": "JNE",
+      "enabled": true,
+      "multiplier": 1.00,
+      "etd_multiplier": 1.00,
+      "tracking": false,
+      "logo": "jne.svg"
+    },
+    "jnt": {
+      "id": "jnt",
+      "name": "J&T Express",
+      "enabled": true,
+      "multiplier": 0.98,
+      "etd_multiplier": 1.00,
+      "tracking": false,
+      "logo": "jnt.svg"
+    },
+    "sicepat": {
+      "id": "sicepat",
+      "name": "SiCepat Express",
+      "enabled": true,
+      "multiplier": 0.95,
+      "etd_multiplier": 0.95,
+      "tracking": false,
+      "logo": "sicepat.svg"
+    },
+    "anteraja": {
+      "id": "anteraja",
+      "name": "AnterAja",
+      "enabled": true,
+      "multiplier": 1.05,
+      "etd_multiplier": 0.95,
+      "tracking": false,
+      "logo": "anteraja.svg"
+    },
+    "pos": {
+      "id": "pos",
+      "name": "POS Indonesia",
+      "enabled": true,
+      "multiplier": 0.90,
+      "etd_multiplier": 1.15,
+      "tracking": false,
+      "logo": "pos.svg"
+    },
+    "ninja": {
+      "id": "ninja",
+      "name": "Ninja Xpress",
+      "enabled": true,
+      "multiplier": 0.96,
+      "etd_multiplier": 1.00,
+      "tracking": false,
+      "logo": "ninja.svg"
+    },
+    "sap": {
+      "id": "sap",
+      "name": "SAP Express",
+      "enabled": true,
+      "multiplier": 0.97,
+      "etd_multiplier": 1.05,
+      "tracking": false,
+      "logo": "sap.svg"
+    },
+    "lion": {
+      "id": "lion",
+      "name": "Lion Parcel",
+      "enabled": true,
+      "multiplier": 1.02,
+      "etd_multiplier": 1.05,
+      "tracking": false,
+      "logo": "lion.svg"
+    },
+    "ide": {
+      "id": "ide",
+      "name": "ID Express",
+      "enabled": true,
+      "multiplier": 0.94,
+      "etd_multiplier": 0.95,
+      "tracking": false,
+      "logo": "idexpress.svg"
+    },
+    "rex": {
+      "id": "rex",
+      "name": "REX Express",
+      "enabled": true,
+      "multiplier": 0.99,
+      "etd_multiplier": 1.00,
+      "tracking": false,
+      "logo": "rex.svg"
+    }
+  }
+}
